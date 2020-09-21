@@ -1,0 +1,853 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX schema: <http://schema.org/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+
+<http://www.rotterdamspubliek.nl/quote/1>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMEYE01:000786022:00007> ;
+		schema:isPartOf "De bioscoop-courant" ;
+		schema:datePublished "1919-11-14"^^xsd:date ;
+	] ;
+	schema:about wd:Q2495837 ;
+	schema:text "De Heer Tuschinski deed zijne bezoekers in Juli de belofte dat hij de 'Thalia' zou maken tot het mooiste theater van Nederland en thans bleek ons, dat hij ons niet vleide met eene ijdele belofte, want schitterender inrichting zagen wij nimmer te voren."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/2>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ABCDDD:010820725:mpeg21:a0074> ;
+		schema:isPartOf "Trouw" ;
+		schema:datePublished "1983-07-25"^^xsd:date ;
+	] ;
+	schema:about wd:Q13439237 ;
+	schema:text "Dat de nieuwe bibliotheek een spraakmakend gebouw zal worden, staat nu al vast. Je kunt er ook niet omheen. Opvallend aan het gebouw is vooral de schuine, glazen ‘waterval’, waarachter roltrappen omhoog gaan naar de verdiepingen. Kenmerkend zijn ook de grote gele buizen (‘stofzuigerslangen’) aan de buitenkant. Ter geruststelling: die zitten er echt niet voor de versiering."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/3>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ABCDDD:010820725:mpeg21:a0074> ;
+		schema:isPartOf "Trouw" ;
+		schema:datePublished "1983-07-25"^^xsd:date ;
+	] ;
+	schema:about wd:Q13439237 ;
+	schema:text "Als eerste openbare bieb in Nederland heeft de centrale bibliotheek van Rotterdam de beschikking over een geautomatiseerde catalogus. De gebruikers kunnen gegevens van boeken en schrijvers opzoeken via beeldschermen die in verbinding staan met de computer. Deze beeldschermen staan op alle verdiepingen van het gebouw."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/4>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMKB04:000192099:mpeg21:a0025> ;
+		schema:isPartOf "De Maasbode" ;
+		schema:datePublished "1923-11-11"^^xsd:date ;
+	] ;
+	schema:about wd:Q74835984 ;
+	schema:text "Een gebouw, dat door zijn forsche lijnen, door zijn oorspronkelijke architectuur het bewijs levert van de scheppingskracht van den ontwerper en uitvoerder den heer Logeman."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/5>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010953155:mpeg21:a0365> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1958-03-27"^^xsd:date ;
+	] ;
+	schema:about wd:Q74835984 ;
+	schema:text "Onze buurtgenoten kwamen wel in troepen op de krantenzaal af. Ze namen de hele garderobe in beslag en vulden die grote krantenzaal; ze zaten er gezellig en nu en dan lazen ze ook wel eens wat, vooral de advertenties. Dat advertentielezen nam sterk toe in de crisisjaren met de grote werkloosheid. Tot de mobilisatie in '39 is het in de krantenzaal heel druk gebleven."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/6>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=KBPERS01:002960016:mpeg21:a00176> ;
+		schema:isPartOf "Algemeen Dagblad" ;
+		schema:datePublished "1979-12-19"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161108 ;
+	schema:text "In de strak ingerichte, maar comfortabele zalen, die elk 200 bezoekers kunnen bergen, zal het Amsterdamse bioscoopconcern Tuschinski de zogenaamde „betere films” vertonen. Alhambra I opent deze week met Woody Allen’s Manhattan en in Alhambra II is de Rotterdamse première van Die Ehe der Maria Braun van de Duitse regisseur Rainer Werner Fassbinder."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/7>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010963000:mpeg21:a0212> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1988-12-13"^^xsd:date ;
+	] ;
+	schema:about wd:Q2845918 ;
+	schema:text "De bioscoop in Nighttown, genaamd Airplane, liep tot op heden niet denderend, maar daar kon wel eens verandering in komen. Sinds drie weken is Airplane aangesloten bij de bioscoopbond en dat betekent dat het programma wordt opgenomen in de filmladder. Bovenaan zelfs. Burger had met de keuze van de naam al bedacht dat hij alfabetisch vóór Alhambra moest zitten."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/8>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010960223:mpeg21:a0191> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1982-01-05"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161108 ;
+	schema:text "Ze lieten zich gisternacht in de bioscoop insluiten na eerst van de film genoten te hebben. Onbekend Is of ze gekeken hebben naar 'Hoge hakken/echte liefde' of naar 'The four seasons', die beide in Alhambra draaien. Wel duidelijk Is dat ze bij hun nachtelijk werk over een snijbrander beschikten. Met dat apparaat gingen ze vakkundig te werk. Ze brandden de brandkast, die in de voorraadruimte stond, open en haalden er ruim veertigduizend gulden uit."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/9>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010210029:mpeg21:a0006> ;
+		schema:isPartOf "Voorwaarts" ;
+		schema:datePublished "1921-02-26"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161107 ;
+	schema:text "Over Vrije Gedachte en Geestelijke Dwang in de Proletarische Revolutie spreekt op Zondag 27 februari in Bioscope Americain, Hoogstraat 161, Mevr. Henr. Roland-Holst. Aanvang 11 uur precies."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/10>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010210511:mpeg21:a0129> ;
+		schema:isPartOf "Voorwaarts" ;
+		schema:datePublished "1923-04-14"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161107 ;
+	schema:text "De oude ‘Americain’ bioscoop in de Hoogstraat, heeft een nieuwe directie gekregen, die op het cinemagebied zijn sporen verdiend heeft. De gerestaureerde zaal is er, wat het interieur betreft, werkelijk op vooruitgegaan. Het streven van de nieuwe directie is te geven ‘De Eerste Cinematografische Attracties’ (D.E.C.A.) voor weinig geld, waarin zii deze keer al aardig geslaagd is. De hoofdfilm ‘Bandietenbloed’ geeft een aardige kijk op het leven der Apachen."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/11>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010197983:mpeg21:a0114> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1909-09-07"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161109 ;
+	schema:text "Het lokaal aan de Bagijnenstraat, dat, onder den naam Apollo-Theater wordt gebezigd voor het geven van bioscope-vertooningen, heeft een geheele verbouwing ondergaan en biedt den liefhebbers van rustig genot een aangenaam zitje. De keurig nette wandschildering doet prettig aan en de electrische verlichting is er geheel naar ingericht, om alles op zijn voordeeligst te doen uitkomen. Het parterre biedt ruime zitplaatsen en bovendien is er een loge ingericht, vanwaar men een bij uitstek gunstig gezicht op het doek heeft, waar een groote verscheidenheid mooie films worden vertoond, terwijl men iedere week een nieuw programma van actueele, dramatische en komische beelden laat 'loopen'."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/12>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010197829:mpeg21:a0090> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1910-03-05"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161109 ;
+	schema:text "de eenige Bioscope in Rotterdam waar elken Zaterdag en Zondag 14 nieuwe opnamen worden vertoond, begeleid door boeiende en humoristische explicatie"^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/13>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010956845:mpeg21:a0166> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1969-03-03"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161116 ;
+	schema:text "In de amphitheatersgewijs oplopende zaal zijn 560 stoelen geplaatst in licht gebogen rijen. De bekleding van de stoelen loopt van onder naar boven van rood via oranje naar geel, een visueel grapje, dat het bijzonder goed doet."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/14>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010953408:mpeg21:a0260> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1959-05-30"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161116 ;
+	schema:text "Een tweede zelfstandige eenheid is de AMVJ-zaal, die als toneelzaal, filmzaal en sportzaal kan worden gebruikt. Het is de bedoeling, dat deze zaal, die een capaciteit heeft van zeshonderd zitplaatsen, wordt verhuurd, eventueel ook voor concerten."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/15>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010177374:mpeg21:a0049> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1898-08-03"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161141 ;
+	schema:text "Het nieuwe gebouw aan den Coolsingel is allergezelligst; dat bleek gisteravond bij de opening, toen het vroolijk verlichte zaaltje tot den nok gevuld was. 't Heele gebouw was aardig met bloemen aangekleed, werkelijk heel gezellig."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/16>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=KBDDD02:000202751:mpeg21:a0096> ;
+		schema:isPartOf "Voorwaarts" ;
+		schema:datePublished "1931-02-04"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161141 ;
+	schema:text "Wij hebben onlangs in uw blad gelezen, dat het gezelschap Poons en De Vos uit Casino zou zijn uitgekocht, terwijl later bleek dat de artisten broodeloos op straat waren gezet. Herinnert de heer Soesman zich nog den tijd, toen het gezelschap triomfen vierde en er geen plaats onbezet bleef? Aan dien tijd wordt blijkbaar niet meer gedacht."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/17>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:011002439:mpeg21:a0239> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1940-07-15"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161141 ;
+	schema:text "De resultaten van het opruimingswerk kan men nu vrijwel overal duidelijk constateeren. Men ziet de binnenstad geleidelijk vlakker worden want waar nog hooge resten van gebouwen stonden, worden ook deze meest gesloopt. Ook de R.K. kerk aan het Boschje is aan het verdwijnen en aan den Coolsingel de Tivoli-Schouwburg en het theater Lumière."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/18>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMKB04:000192886:mpeg21:a0152> ;
+		schema:isPartOf "De Maasbode" ;
+		schema:datePublished "1939-04-22"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161141 ;
+	schema:text "Het front aan den Coolsingel wordt mede tot aan de eerste verdieping verbouwd en krijgt 'n nieuwen vooruitstekenden luifel met een groot aantal lichtpunten. Door dezen nieuwbouw, welke in October a.s. moet worden opgeleverd, komt Rotterdam ongetwijfeld weer in het bezit van een groot, ruim en modern bioscoop-theater."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/19>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMEYE02:001526007:00022> ;
+		schema:isPartOf "Nieuw weekblad voor de cinematografie" ;
+		schema:datePublished "1933-02-17"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161141 ;
+	schema:text "Donderdagavond had de feestelijke opening plaats van het theater Lumière te Rotterdam, het nieuwe bioscooptheater van den heer S. den Hartogh, dat aan den Coolsingel in ’t oude - eigenlijk niet oude, maar uitgewoonde - Casino Theater, verrezen is."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/20>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010495048:mpeg21:a0128> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1925-03-16"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161117 ;
+	schema:text "Hoewel het zoo langzamerhand bijna onmogelijk gaat worden om op het gebied der Wild-West-films nog iets te vinden, dat verwende rolprentkijkers vermag te boeien, is het de directie van de Centraal Bioscoop aan den Binnenweg voor deze week toch gelukt de hand te leggen op een film ‘Het geheim van de Blake Ranche’"^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/21>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMEYE01:000777001:00027> ;
+		schema:isPartOf "De kinematograaf" ;
+		schema:datePublished "1915-01-01"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161117 ;
+	schema:text "Het jaar 1914 kon niet van ons scheiden zonder nog eerst even het aantal bioscooptheaters in onze stad met een vermeerderd te hebben en wel met de bioscoop ‘Centraal’ aan den Binnenweg, waar de heer P. Vermeer nu niet langer het gehemelte onzer stadgenooten wil streelen met visch en conserven, maar hun oogen met mooie films."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/22>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010212271:mpeg21:a0098> ;
+		schema:isPartOf "Voorwaarts" ;
+		schema:datePublished "1926-09-09"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161117 ;
+	schema:text "Morgenavond 10 september feestelijke heropening van het geheel gerestaureerde en gemoderniseerde CENTRAAL THEATER"^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/23>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010963170:mpeg21:a0262> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1989-03-03"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161416 ;
+	schema:text "In de loop van de jaren zestig veranderde het filmrepertoire in porno. Aanvankelijk van de zachte, gedoogde soort, sinds een jaar of vijftien het nietsverhullende, keiharde werk. Hardcore, in vakjargon. Vooral in het begin films van een technisch dermate beroerde staat dat je de acteurs nauwelijks van de actrices kon onderscheiden. Later films waarbij je dankzij machtige closeups de actrices in een uurtje van buiten èn van binnen leerde kennen."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/24>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010951725:mpeg21:a0134> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1953-10-22"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161416 ;
+	schema:text "Aan de Binnenweg, als eerste bouwwerk volgende op het oude gedeelte, opent vandaag het Centraal-theater. En dat blijkt een bioscoop te zijn geworden, die een waardige plaats inneemt onder de theaters in de Maasstad. Architect J.A. Lelieveldt maakte bovendien van de gelegenheid gebruik om hier een uiterst genoeglijk theater van te maken, dat voorzien is van de modernste installaties. Zo is dit de eerste bioscoop in Nederland, die geheel is ingericht op stereoscopische filmvertoningen."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/25>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:011002516:mpeg21:a0124> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1940-11-15"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161120 ;
+	schema:text "Twee motieven heeft Pieter den Besten voor de betrekkelijk kortstondige decoraties van het in recordtempo verrezen theater aan den Coolsingel op het board uitgewerkt: een allegorie van het tooneel en één van de filmreportage […] Uit deze twee schilderingen blijkt het dubbele doel van de heden geopende zaal in de nieuwe Beurs, die den Coolsingel weer een stapje verder brengt naar den ouden roem, dien hij als Rotterdams boulevard genoot. In haar ééne kwaliteit, die van Cineac oftewel journaaltheater, is zij heden in gebruik genomen."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/26>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010961559:mpeg21:a0230> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1983-11-09"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161120 ;
+	schema:text "De sluiting van Cineac Beurs en de heropening van Cinema Oscar vindt plaats op 2 februari 1984."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/27>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010958880:mpeg21:a0286> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1975-09-25"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161149 ;
+	schema:text "In het ontwerp van de bekenje theater-architect C. Wiertz strijdt het theatertje ronduit om de eer de gezelligste en meest comfortabele bioscoop van Rotterdam te worden. De ronde vormen van de hal, de kassa, de glazen kastjes met de filmfoto's en het grote kader met het ingebouwde doek, geven het theater een modern, gezellig karakter."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/28>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMKB19:000346060:mpeg21:a00079> ;
+		schema:isPartOf "Algemeen Dagblad" ;
+		schema:datePublished "1957-03-12"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161120 ;
+	schema:text "Van vrijdag af is Rotterdam in het bezit van de Cineac A.D., want zo wordt de vroegere Cineac N.R.C. in het Beursgebouw herdoopt nu er een nieuwe Cineac N.R.C. aan de overkant in het gebouw van de Bijenkorf is verrezen. Geen journaalvoorstellingen zullen in de Cineac A.D. worden gegeven, maar een hoofdfilm met nieuws en dat in zeven voorstellingen per dag"^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/29>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010952792:mpeg21:a0117> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1957-03-19"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161119 ;
+	schema:text "In het eerste programma.van het nieuwe journaaltheater Cineac NRC naast de Bijenkorf is een Franse film opgenomen, ‘Le ballon rouge’ (De rode ballon) van Albert Lamorisse, die een argeloos gegeven in de vorm van een hedendaags sprookje met poëtische zuiverheid aanschouwelijk heeft gemaakt."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/30>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMKB19:000354045:mpeg21:a00065> ;
+		schema:isPartOf "Algemeen Dagblad" ;
+		schema:datePublished "1958-02-22"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161119 ;
+	schema:text "Maar de grootste sensatie was voor de Papoea’s wel het kunstgebit van Ir. Huizinga. Dat vonden zij iets geweldigs. Af en toe stonden er wel honderden inlanders om hem heen om te zien hoe hij het presteerde om zijn tanden uit zijn mond te halen. Wat het kunstgebit voor de Papoea’s was, is Jens Bjerre’s kleurenfilm „Bij de kannibalen van Nieuw-Guinea” voor ons. Een sensatie, die ons meevoert naar een levend verleden, dat wij vergrijsd waanden onder het stof der historie. Temidden van wilde natuurpracht ziet U een schokkende werkelijkheid in een exotische wereld, waaraan de beschaving voorbij is gegaan. Van deze gedurfde expeditiefilm ziet u het eerste deel tot en met donderdag, het tweede deel van a.s. vrijdag af in CINEAC N.R.C. (naast de Bijenkorf)"^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/31>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMKB04:000193457:mpeg21:a0047> ;
+		schema:isPartOf "De Maasbode" ;
+		schema:datePublished "1937-10-16"^^xsd:date ;
+	] ;
+	schema:about wd:Q76160975 ;
+	schema:text "Gisteravond is hier ter stede het eerste Cineone-theater geopend aan den Goudscheweg 120. Na te Haarlem op 24 September j.l. en te Hilversum op 1 October j.l. de theaters te hebben geopend, is thans het eerste Cineone-theater te Rotterdam in exploitatie gebracht, zoodat het Cineone-concern binnen een maand tijds drie theaters heeft opengesteld. De theaters brengen, zonder rangindeeling een afwisselend twee uren-programma."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/32>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010538155:mpeg21:a0090> ;
+		schema:isPartOf "De Tĳd" ;
+		schema:datePublished "1937-12-08"^^xsd:date ;
+	] ;
+	schema:about wd:Q76160975 ;
+	schema:text "Hoewel de oorspronkelijke bedoeling was, uitsluitend journaalfilms te draaien, trachtte men gerezen moeilijkheden met den Bioscoopbond te ondervangen door een twee-uursprogramma van meer dan 5 jaar oude speelfilms te geven. Het verhuren van deze films kon de Bioscoopbond niet verbieden […] Waarschijnlijk zijn echter de moeilijkheden onderschat, want Dinsdag heeft de Haarlemsche Rechtbank de N.V. Bouw- en Exploitatie-maatschappij failliet verklaard. Verschillende der bioscopen, vooral die te Hilversum en Rotterdam, werden zeer slecht bezocht. Het publiek scheen daar niet voor oude films te voelen."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/33>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMKB04:000149140:mpeg21:a0064> ;
+		schema:isPartOf "Haagsche courant" ;
+		schema:datePublished "1937-03-12"^^xsd:date ;
+	] ;
+	schema:about wd:Q76160907 ;
+	schema:text "Plannen bestonden voor het bouwen van een 40-tal theaters in diverse steden van het land. Verscheidene hiervan waren reeds zoo goed als gereed. Zoo b.v. het Cineone-theater aan net Mathenesserplein te Rotterdam, waar reeds geruimen tijd geleden de inrichting kant en klaar was."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/34>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010953207:mpeg21:a0204> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1958-08-28"^^xsd:date ;
+	] ;
+	schema:about wd:Q38238710 ;
+	schema:text "Rotterdam krijgt Cinerama. Het Scala-theater zal er voor worden geschikt gemaakt. Waarschijnlijk zal men op 1 november de eerste film gaan draaien, „This is Cinerama'. En men zal hem voorlopig alléén in Rotterdam kunnen zien. Want er zijn in ons land verder geen theaters, die zich voor gebruikmaking van het nieuwe procédé lenen."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/35>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010951208:mpeg21:a0125> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1960-07-12"^^xsd:date ;
+	] ;
+	schema:about wd:Q38238710 ;
+	schema:text "Met ingang van vandaag bespeelt de Rotterdamse bioscooporganist Cor Standaart het Hammondorgel in de foyer van het Cinerama-theater aan de Westblaak."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/36>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010961307:mpeg21:a0269> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1983-02-17"^^xsd:date ;
+	] ;
+	schema:about wd:Q38238710 ;
+	schema:text "Kou leden 's morgens ook zo’n vierhonderd wachtenden bij de kassa van Cinerama aan de Westblaak. De eerste kinderen stonden al om negen uur in de rij voor een kaartje voor E.T. of Annie."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/37>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010960862:mpeg21:a0427> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1981-06-05"^^xsd:date ;
+	] ;
+	schema:about wd:Q38238710 ;
+	schema:text "Behalve dat Hopscotch een erg aardige film is, moet nog gemeld worden dat hij wordt gedraaid in Rotterdams' nieuwste bioscoop: Cinerama 3. Onder de grote zaal wordt gewerkt aan nog twee andere zalen. In totaal krijgt Cinerama vijf filmzalen. Twéé redenen om een kijkje te gaan nemen op de Westblaak."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/38>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010295828:mpeg21:a0167> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1913-10-08"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161121 ;
+	schema:text "Het Amerikaansch Danspaviljoen, de voormalige Circus Variété aan het Stationsplein, waar avond aan avond de paren zweven over den spiegelgladden vloer, biedt zijn bezoekers behalve dat dansgenot nog telkens vertooningen, die de aantrekkelijkheid van deze vermaak-instelling moeten verhoogen. Thans biedt men den bezoekers daar een kleurig schouwspel aan, een „Volksfeest te Madrid'. Voor Spanjaarden is 'n volksfeest zonder corrida iets onbestaanbaars, vandaar dat het hier voorgestelde volksfeest zich ook concentreert om een stierengevecht, maar wij zijn geen Spanjaarden en het op wreedaardige wijze doodkwellen van eenige dieren zou ons niet kunnen bekoren."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/39>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010212835:mpeg21:a0214> ;
+		schema:isPartOf "Voorwaarts" ;
+		schema:datePublished "1930-07-23"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161121 ;
+	schema:text "Wij hebben bezoek gehad van de heeren Jacobsohn en Meurs, beiden van het Arena-theater, dat op den 1en Augustus in den voormaligen Circus- Schouwburg op het Stationsplein zijn deuren zal openen […] Behalve dan de artisten, die natuurlijk uit alle landen afkomstig zullen zijn, is het personeel, dat in de „Arena' werkzaam zal zijn, geheel uit Hollanders samengesteld. Ook het orkest van 20 man, waarover Max de Groot den scepter zal zwaaien, is geheel uit Nederlanders samengesteld."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/40>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010514321:mpeg21:a0207> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1928-06-16"^^xsd:date ;
+	] ;
+	schema:about wd:Q78861313 ;
+	schema:text "Bijgaande perspectiefteekeningen geven den gevel weer aan de Hoogstraat van het in de plaats van het Imperial Theater te bouwen City-Theater, alsmede den gevel aan het Groenendaal.\nHet theater is ontworpen door den architect Jac. van Gelderen.\nHet zal pl.m. 1000 zitplaatsen bevatten en in tegenstelling met het oude theater slechts één balcon krijgen, dat zoodanig is geconstrueerd, dat geen enkele kolom behoeft te worden aangebracht."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/41>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=KBDDD02:000202461:mpeg21:a0092> ;
+		schema:isPartOf "Voorwaarts" ;
+		schema:datePublished "1931-01-12"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161123 ;
+	schema:text "Met vreugde kan worden vastgesteld, dat de door de „Polygoon'-man De Haas vervaardigde film „Stalen Knuisten' van den Metaalbewerkersbond, inslaat. Reeds vier maal is deze film van den arbeid hier ter stede vertoond en ook Zaterdagmiddag was het Colosseum Theater aan de Beijerlandschelaan geheel gevuld met geestdriftige metaalbewerkers, die gekomen waren om het resultaat van samenwerking tusschen kunstenaar en handarbeider te bewonderen."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/42>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=KBNRC01:000025530:mpeg21:a0074> ;
+		schema:isPartOf "NRC Handelsblad" ;
+		schema:datePublished "1976-12-15"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161123 ;
+	schema:text "Als bioscoop heeft Colosseum gediend voor galapremières. Maar ook Louis Davids trad er op, Cor Steyn gaf concerten, de Stem des Volks zong er 's zondagsmorgens, men zag er volkstoneel en vierde er jubilea en sinterklaasfeesten. Kortom, de bioscoop had een belangrijke functie die nog steeds in de wijk leeft, ook nu de bioscoop aan het verkommeren is."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/43>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:011002509:mpeg21:a0258> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1940-11-07"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161123 ;
+	schema:text "Het eerste van deze concerten zal plaats vinden op a.s. Zaterdagmiddag 9 November in hef Colosseum-Theater, Beijerlandschelaan onder leiding van Eduard Flipse. Het orkest zal uitvoeren Konzert für Orchester van Max Trapp en de Vijfde Symphonie van Beethoven."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/44>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=KBPERS01:002803047:mpeg21:a00081> ;
+		schema:isPartOf "Algemeen Dagblad" ;
+		schema:datePublished "1961-02-24"^^xsd:date ;
+	] ;
+	schema:about wd:Q38238721 ;
+	schema:text "Met intens genoegen hebben de genodigden voor de opening van Corso Cinema zich gisteravond in de fauteuils uitgestrekt. Hun stond een stoelafstand van 95 centimeter ter beschikking, hetgeen een weldaad betekent. Vroeger werden lichaam en benen in de bioscopen samengepakt in vijftig centimeter. Dat is lang geleden en de levensruimte voor het zien van films is er met de jaren en in de nieuwe bioscopen beter op geworden, maar bijna een meter.... is in het Nederlandse bioscooppark toch een ongekende luxe."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/45>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010950214:mpeg21:a0022> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1949-10-05"^^xsd:date ;
+	] ;
+	schema:about wd:Q46631764 ;
+	schema:text "Voor de derde maal heeft de VARA in Rotterdam „Doe open die deur' gepresenteerd. Dinsdagavond konden in zaal Courzand de Heyplaatbewoners kennismaken met de artisten, die zo vaak door de radio worden afgeroepen. Cor Steijn met Accordeola, het kwartet Jan Corduwener, Ina Verwoerd, Julia de Gruyter, Jetty Cantor, Cees de Lange, Maarten Kapteijn en de Balsamo's zij allen hebben 't hunne er toe bijgedragen, dat de kennismaking uitermate geslaagd is."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/46>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:011002249:mpeg21:a0324> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1930-11-26"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161096 ;
+	schema:text "Er was voor deze voordracht, in één der bovenzalen van gebouw „De Eendracht', Goudscheweg, gehouden, vrij veel belangstelling, en vooral heeft men genoten van de prachtige foto's, welke het dappere tweetal van haar reizen heeft meegebracht en die met behulp van een projectielantaarn werden vertoond."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/47>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010222312:mpeg21:a0036> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1912-11-16"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161111 ;
+	schema:text "Door de Bioscoop ‘Gezelligheid’ aan den Goudscheweg is een goedgeslaagde opname gedaan van de aankomst van St. Nicolaas met een salonboot aan de Oosterkade en zijn intocht in de stad, een en ander georganiseerd door de oranje-vereniging ‘Het Centrum’. De kinderen der leden van deze Vereeniging zijn wederom door de directie dezer bioscoop tot bijwoning van de middagvoorstelling op Zaterdag a.s. uitgenodigd."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/48>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMKB04:000185320:mpeg21:a0051> ;
+		schema:isPartOf "De Maasbode" ;
+		schema:datePublished "1913-10-30"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161111 ;
+	schema:text "Door een inspecteur van politie is tegen de wed. D., houdster van de bioscoop „Gezelligheid' aan den Goudscheweg, proces-verbaal opgemaakt. In een voorstelling, die volgens de aankondiging ook toegankelijk was voor kinderen, heeft zij doen opvoeren de film: „De geheimen van de brug van Notre Dame', bij welke opvoering kinderen beneden de zestien jaar tegenwoordig waren. Voor kindervertooning is deze film door de bioscoopcommissie afgekeurd."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/49>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010296155:mpeg21:a0156> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1915-11-05"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161156 ;
+	schema:text "Bioscoop-apparaat gestolen. De niet-verschenen J.A.W. alhier zou — luidens aanklacht — uit de cabine van de „Cinema Parisien' aan de Korte Hoogstraat het apparaat, van f300 waarde, weggenomen hebben op 28 Aug. j.l. Het schijnt meer een wraakneming, dan een eigenlijke diefstal te ziin geweest. Eisch: 1 maand gevangenisstraf."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/50>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMKB04:000184394:mpeg21:a0008> ;
+		schema:isPartOf "De Maasbode" ;
+		schema:datePublished "1909-03-05"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161156 ;
+	schema:text "Men verzoekt ons te melden dat het Bioscoop-theater ‘Cinéma Parisien’ aan de Korte Hoogstraat in handen van eene andere directie is overgegaan. De laatste voorstelling onder de tegenwoordige directie vindt Zondag plaats, waarna het theater eenige dagen zal worden gesloten om de noodige veranderingen te ondergaan. De nieuwe exploitante is ‘The Imperial Bio’, directie Jean Desmet van Brussel."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/51>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010197371:mpeg21:a0003> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1909-03-05"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161156 ;
+	schema:text "Gistermiddag van 2-4 uur waren het weer prettige oogenblikken voor de verpleegden van het Armhuis, Oostervantstraat 17, daar de directie van de Cinema Parisien aan de Korte Hoogstraat een middagvoorstelling voor hen georganiseerd had, waarvan zij gratis gebruik konden maken. De ouden van dagen hebben zich kostelijk geamuseerd, wat bleek uit het daverend bijvalsbetoon."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/52>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010296079:mpeg21:a0042> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1915-08-09"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161095 ;
+	schema:text "Voor genoodigden werd gisteravond de eerste voorstelling gegeven in de bioscope Feijenoord aan de Oranjeboomstraat 267, directie mej. wed. Huysenaar-Desmet. De groote zaal maakt een goeden indruk. En die werd ook gewekt door de beelden, welke op het belichte vierkant verschenen. Zoo was b.v. ‘Een romantische geschiedenis’ een heel aardige film."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/53>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010210828:mpeg21:a0173> ;
+		schema:isPartOf "Voorwaarts" ;
+		schema:datePublished "1923-11-03"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161095 ;
+	schema:text "Gisteravond opende de heer A. Chermoek in de Oranjeboomstraat het ‘Maas-theater’ […] de ‘overkant’-bewoners, die toch al zoo slecht bedeeld zijn, een mooi theater zijn rijk geworden. De zaal, die ongeveer 500 bezoekers kan huisvesten, biedt een gezellige aanblik."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/54>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010198174:mpeg21:a0195> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1911-04-18"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161131 ;
+	schema:text "Heden Zaterdag OPENING Bioscoop-Theater “Flora”. Weenaplein No. 9, onder Electr. Spoor. Grootste en prachtvolste inrichting op dit gebied. Dagelijks voorstelling van de allernieuwste films van de meest verschillende fabrieken."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/55>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMEYE01:000768024:00017> ;
+		schema:isPartOf "De kinematograaf" ;
+		schema:datePublished "1918-09-06"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161113 ;
+	schema:text "Gebouw „De Vereeniging' aan de Schiekade, waar - gelijk de plannen zijn - in gunstiger tijd na den oorlog het Rotterdamsch Nieuwsblad-bedrijf zal ondergebracht worden, is thans niet alleen van naam veranderd, maar ook van innerlijk aanzien. Voortaan zal dit gebouw bij het uitgaande publiek „Astoria-theater' heeten, daar onder dien naam de groote benedenlocaliteiten omgetooverd zijn in een smaakvol, hoogst modern bioscoop- en specialiteitentheater, waarin dhr. L. J. Benjamins Jr. zijn directoralen scepter zal zwaaien. Het theater bezit 400 fauteuils."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/56>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010026340:mpeg21:a0012> ;
+		schema:isPartOf "Nieuwe Rotterdamsche Courant" ;
+		schema:datePublished "1922-12-08"^^xsd:date ;
+	] ;
+	schema:about wd:Q15875871 ;
+	schema:text "Afgezien van de vraag of de opening in de tegenwoordige omstandigheden van een nieuw bioscooptheater, dat een klein millioen gekost heeft en plaats biedt aan ruim 1700 personen, niet nog een van die excessen is (wellicht min of meer te vergelijken met bet van stapel loopen van een nieuw schip, dat nu eenmaal besteld was) moet toch van dit gebouw getuigd worden, dat het inwendige daarvan wijst in de goede richting, naar eenvoud en versobering."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/57>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010210801:mpeg21:a0129> ;
+		schema:isPartOf "Voorwaarts" ;
+		schema:datePublished "1923-10-03"^^xsd:date ;
+	] ;
+	schema:about wd:Q15875871 ;
+	schema:text "Alles is vergankelijk. Zelfs een theater, dat negen maanden geleden in gebruik is genomen en dat toen imponeerde door zijn grootte en deels ook door zijn uitvoering. En thans is in de geweldige zaal-ruimte de breker aan het werk, de slooper die maling heeft aan wat eens van de vorige ondernemers de trots was […] Men weet, dat de heer Tuschinsky het Pompenburgtheater heeft aangekocht. Hij wil ook van dit gebouw iets bijzonders maken, met een cachet van apartheid."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/58>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010957500:mpeg21:a0179> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1971-03-29"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161133 ;
+	schema:text "Een ander probleem waarmee met name Colosseum en Harmonie te kampen hebben, is de last die deze buurtbioscopen ondervinden van 'opgeschoten jongelui, ruzie- en herrietrappers'. Hun optreden schrikt andere mensen af. Bij Harmonie zei men ons: 'Onze bioscoop is volledig een jongensbioscoop geworden. Anderen dan zij komen hier niet meer.'"^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/59>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010957339:mpeg21:a0428> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1970-09-18"^^xsd:date ;
+	] ;
+	schema:about wd:Q38238730 ;
+	schema:text "De kroon op het bouwsel is wel het raam van Karel Appel: een overweldigende kleurenmassa, die zowel van buitenaf als van binnenuit kan worden verlicht, zodat men, als men eenmaal op de Schiekade is gekomen maar even naar rechts hoeft te kijken om die kleurenpracht te zien."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/60>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010962112:mpeg21:a0277> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1985-09-13"^^xsd:date ;
+	] ;
+	schema:about wd:Q38238730 ;
+	schema:text "Het initiatief voor deze “Toneelschool voor Kinderen” is genomen door het Rotterdamse Kindertheater Ziezo dat - zo besloot de Rotterdamse gemeenteraad onlangs - de komende jaren het Hofpleintheater als kindertheater beheert en exploiteert."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/61>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010197820:mpeg21:a0001> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1910-02-23"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161134 ;
+	schema:text "Op de Binnenrotte hoek Leidscheveer is dezer dagen door den heer Hubert Mohren een eerste-klas bioscope-theater geopend. Komt men van de stad, of komt van de richting Delftsche Poort, het oog moet direct vallen op een zee van licht, die groote booglampen uitstralen. 't Donkere gedeelte van de Binnenrotte vaart er wel bij."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/62>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010963357:mpeg21:a0122> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1989-10-12"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161136 ;
+	schema:text "Het Imax-theater is op 9 mei van dit jaar aan de Leuvehaven geopend. Sinds die tijd groeit het aantal bezoekers gestaag, nu met een gemiddelde van zo’n twintigduizend per maand. Op 7 november, zo vertelde Geertsma, vindt er ter gelegenheid van de première van de Amerikaanse film 'Flyers' een speciale happening plaats bij Imax. Boven het theater bij de Maas wordt een vliegshow gehouden met stuntvliegers. Vanuit Engeland komt een dubbeldekker waarop een clown op de vleugels acrobatische toeren zal uithalen"^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/63>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010963387:mpeg21:a0292> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1989-11-17"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161136 ;
+	schema:text "Hoewel de scherpte iets te wensen overlaat, is de manier waarop Close Encounters of the Third Kind in het Imax-theater geprojecteerd wordt zondermeer imposant. Het zes-kanaals geluid is perfect en het beeld is zo groot dat je soms niet meer weet waar je moet kijken. De film wordt in het Imax-theater een adembenemende belevenis."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/64>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMKB04:000187201:mpeg21:a0047> ;
+		schema:isPartOf "De Maasbode" ;
+		schema:datePublished "1914-07-22"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161122 ;
+	schema:text "Gisteravond om elf uur geraakte in de bioscope „Imperial', aan de Hoogstraat 136, een film in brand, doordat deze bij den lasch afknakte. Hoewel de brand veel rook veroorzaakte, bleef het publiek kalm. De mechanicien doofde het vuur met twee blusch-apparaten. De spuiten 9, 11, 8, 19, 15, 27, 22 en de brigade, welke uitgerukt waren, behoefden geen hulp te verleenen. De film werd vernield."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/65>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=KBDDD02:000202506:mpeg21:a0028> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1915-01-12"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161122 ;
+	schema:text "Zaterdagavond tijdens de voorstelling in het Theater Imperial aan de Hoogstraat is een acrobaat op het publiek gevallen. Hij zou, als slotnummer van zijn toeren, zich over de zaal laten afglijden, hangend aan de tanden langs een draad, die schuin gespannen was van den nok naar het tooneel. Toen hij halverwege was, brak de draad op het tooneel af en de acrobaat viel in de zaal, gelukkig zonder zich ernstig te bezeeren, terwijl de toeschouwers met den schrik vrij kwamen."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/66>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010495029:mpeg21:a0082> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1925-02-21"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161122 ;
+	schema:text "Aan de Hoogstraat 136 is gisteravond op feestelijke wijze de gerestaureerde Cinema Impérial heropend. De firma Gosschalk heeft voor een nieuw, keurig meubilair gezorgd, terwijl de bekende decorateur Pieter d. Besten voor een passende decoratie zorg droeg, welke aan het geheel iets aparts heeft gegeven. Een aantal bloemstukken gaf bij de opening aan de zaal het gebruikelijke feestelijke tintje."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/67>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010028107:mpeg21:a0012> ;
+		schema:isPartOf "Nieuwe Rotterdamsche Courant" ;
+		schema:datePublished "1925-11-03"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161122 ;
+	schema:text "De in zijn theater optredende komiek-zanger, genaamd Kapper, heeft in de Zondagmiddagvoorstelling een mop verteld, die niet behoorde tot de goedgekeurde moppen."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/68>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010951348:mpeg21:a0143> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1952-04-07"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161173 ;
+	schema:text "De vereniging Ons Huis, in 1908 als ‘Instituut voor vrije Volksontwikkeling’ opgericht, gaat, zoals bekend, haar vleugels nog wijder uitslaan. In 1948 vond de belangrijke verbouwing plaats voor de stichting van het theater 't Venster met expositiezaal, tevens foyer, en enige ateliers. Deze zomer wordt de grote zaal door het architectenbureau Van den Broek en Bakema tot een moderne schouwburg verbouwd, die ‘De Lantaren’ zal heten en waar de Rotterdamse Comedie op twee September debuteert …"^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/69>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010951232:mpeg21:a0123> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1952-08-15"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161173 ;
+	schema:text "Een andere nieuwigheid is de ‘verdwijnmachine’, waardoor de vleugel in de grond kan verzinken. In de zaal worden 400 theaterstoelen aangebracht, die (ook dit is nieuw!) geluidloos op en neer klappen."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/70>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010495370:mpeg21:a0184> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1926-06-11"^^xsd:date ;
+	] ;
+	schema:about wd:Q19921978 ;
+	schema:text "Men mag wel spreken van een totalen herbouw! Onze foto toont duidelijk dat de oude Tivoli-bioscoop en de oude schouwburg precies in elkaars verlengde liggen. De scheidingsmuur is voor het grootste gedeelte gesloopt, zodat men van den Coolsingel af vrijen inkijk heeft in de Schouwburgzaal, waarin heel wat schijnt veranderd te worden. Om te beginnen zal zij, zooals men weet, verlengd worden."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/71>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010961772:mpeg21:a0251> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1984-07-20"^^xsd:date ;
+	] ;
+	schema:about wd:Q81940145 ;
+	schema:text "‘Het piccolo moet weg\nen dat is grote pech\nwant met ab, henk en rien\nhouden we het nog niet voor gezien\nwant na het culturele, tejatrale\nkunnen we altijd nog een pilsje halen\ndaarom fungeer ik hier als tolk\nbrood (drank) en spelen voor het volk!\nPiccolo is goud, een theater\nwaar men van houdt!' \n\nDeze fraaie volkspoëzie hing, tot woensdag de sloophamer toesloeg, in een vitrine van het Piccolo Theater aan de Rotterdamse Karel Doormanstraat. De tekst dient nu dus als ‘in memoriam’."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/72>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010961396:mpeg21:a0003> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1983-06-07"^^xsd:date ;
+	] ;
+	schema:about wd:Q81940145 ;
+	schema:text "Het huidige Piccolo-theater, waarvan al eerder besloten was dat het tegen de vlakte zou gaan om plaats te maken voor woningen en winkels aan de kant van de Karel Doormanstraat, vindt straks onderdak in de nieuwe schouwburg."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/73>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010958124:mpeg21:a0275> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1973-05-29"^^xsd:date ;
+	] ;
+	schema:about wd:Q81940145 ;
+	schema:text "Een andere nieuwigheid is de knipkaart voor het Piccolotheater. Er zijn er twee, zoals er ook twee gezelschappen zijn, die hun stempel op dit theatertje aan de Karel Doormanstraat zullen drukken; Piccolo Produkties van Josephine van Gasteren en Thema Theater van Wik Jongsma."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/74>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010961502:mpeg21:a0333> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1983-09-03"^^xsd:date ;
+	] ;
+	schema:about wd:Q3918205 ;
+	schema:text "Tweehonderd zitplaatsen biedt het Bibliotheektheater, plus twintig stoelen op een heus balkon. Technisch is het theatertje perfect uitgerust: er is een ruim toneel, een lichtbrug, een prima geluidsinstallatie en een filmcabine. Een ruime expositieruimte, grenzend aan de foyer van het theater, is beschikbaar voor tentoonstellingen."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/75>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010957126:mpeg21:a0248> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1970-01-21"^^xsd:date ;
+	] ;
+	schema:about wd:Q81757545 ;
+	schema:text "Maar gáát het Dorus, achter welke met ruige snor, bolhoed en sjofel pakje verbonden naam Tom Manders sinds begin 1956 schuilgaat, nu erg voor de wind? Er zijn redenen om aan te nemen dat het de man van de twee motten, van de Dorusshows in de prille tv-jaren en van Poessie Mauw in zijn Rotterdamse zaak (sinds juni '67), wat minder meeloopt nadat het geluk hem vele jaren niet heeft verlaten."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/76>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010956296:mpeg21:a0192> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1967-04-26"^^xsd:date ;
+	] ;
+	schema:about wd:Q81757545 ;
+	schema:text "Het toneel, waarop Manders als Dorus gaat werken, heeft hij zelf ontworpen. Op de tekening ziet men het van alle gemakken voorziene woninkje waarin hij optreedt. Vanuit het cabaret zullen acht televisieshows worden uitgezonden en 30 radioprogramma's."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/77>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMKB04:000194019:mpeg21:p008> ;
+		schema:isPartOf "De Maasbode" ;
+		schema:datePublished "1925-09-18"^^xsd:date ;
+	] ;
+	schema:about wd:Q98957757 ;
+	schema:text "Wat hij op ’t Calandplein heeft gepresteerd, met den geval van de ‘Unie’, loopt de spuigaten uit. Het is een schandaal, dat door de medewerking der gemeente zulk een product is tot stand gekomen, zulk een mop op het gebied der architectuur."^^xsd:string .
+
