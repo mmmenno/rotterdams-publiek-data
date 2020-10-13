@@ -1,0 +1,952 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX sem: <http://semanticweb.cs.vu.nl/2009/11/sem/>
+PREFIX edm: <http://www.europeana.eu/schemas/edm/>
+
+<http://hdl.handle.net/10648/aba3f166-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aba3f166-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/3e44f0e0-9dcc-55e4-5400-784ffd29231b.jpg> ;
+	dc:creator "Mieremet, Rob / Anefo" ;
+	dc:title "Premiere van de film \"Cromwell\" in Rotterdam [Opdracht Columbia Film]" ;
+	dc:date "1970-09-17T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aba3f760-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aba3f760-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/0ad09904-f5fa-6a1d-5703-1ecc8ee79951.jpg> ;
+	dc:creator "Mieremet, Rob / Anefo" ;
+	dc:title "Premiere van de film \"Cromwell\" in Rotterdam [Opdracht Columbia Film]" ;
+	dc:date "1970-09-17T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aba3f88c-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aba3f88c-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/6eeda7b6-544c-b6eb-3fb9-c50d04633f59.jpg> ;
+	dc:creator "Mieremet, Rob / Anefo" ;
+	dc:title "Premiere van de film \"Cromwell\" in Rotterdam [Opdracht Columbia Film]" ;
+	dc:date "1970-09-17T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aba3f292-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aba3f292-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/aa6383aa-1f5c-914d-e2cb-26347d11567d.jpg> ;
+	dc:creator "Mieremet, Rob / Anefo" ;
+	dc:title "Premiere van de film \"Cromwell\" in Rotterdam [Opdracht Columbia Film]" ;
+	dc:date "1970-09-17T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aba3f38c-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aba3f38c-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/098e9f11-9810-4140-b540-d1b2dca84c52.jpg> ;
+	dc:creator "Mieremet, Rob / Anefo" ;
+	dc:title "Premiere van de film \"Cromwell\" in Rotterdam [Opdracht Columbia Film]" ;
+	dc:date "1970-09-17T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aad8ae02-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aad8ae02-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/e5fb7745-ed4a-c002-7f7d-645e0aefa30a.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "Premiere Nederlandse film \"10.32\" in Lumiere te Rotterdam, Linda Christian met minister Vrolijk" ;
+	dc:date "1966-01-26T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aad8af10-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aad8af10-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/265b000f-98a3-1036-cba8-b0b3ca31a8fe.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "Premiere Nederlandse film \"10.32\" in Lumiere te Rotterdam, aankomst actrice Linda Christian [naast haar Toon Hermans]" ;
+	dc:date "1966-01-26T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9c481b2-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9c481b2-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/af62fbc6-872c-b18d-2385-d2c5ba191937.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Op het dak van het Groothandelsgebouw te Rotterdam wordt een bioscoop gebouwd" ;
+	dc:date "1961-01-03T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9c4827a-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9c4827a-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/88c78185-a8e1-ca99-9313-6c6350f09852.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Op het dak van het Groothandelsgebouw te Rotterdam wordt een bioscoop gebouwd" ;
+	dc:date "1961-01-03T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab338b2e-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab338b2e-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/a500b847-7f9e-fe33-8893-05582d849fe0.jpg> ;
+	dc:creator "Nijs, Jac. de / Anefo" ;
+	dc:title "Bij Dorus op schoot, in zijn theater in Rotterdam" ;
+	dc:date "1968-01-24T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab338c00-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab338c00-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/66f3bd97-7d1d-2e6f-fa9e-64a9317c5151.jpg> ;
+	dc:creator "Nijs, Jac. de / Anefo" ;
+	dc:title "Bij Dorus op schoot, in zijn theater in Rotterdam" ;
+	dc:date "1968-01-24T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab3394c0-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab3394c0-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/da2eeb87-59d4-95cd-e8ec-87699f4d5acf.jpg> ;
+	dc:creator "Nijs, Jac. de / Anefo" ;
+	dc:title "Bij Dorus op schoot, in zijn theater in Rotterdam" ;
+	dc:date "1968-01-24T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab3393c6-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab3393c6-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/8adc1658-d221-3142-e7a3-1f61f5344448.jpg> ;
+	dc:creator "Nijs, Jac. de / Anefo" ;
+	dc:title "Bij Dorus op schoot, in zijn theater in Rotterdam" ;
+	dc:date "1968-01-24T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab3391aa-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab3391aa-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/4c129d5a-cb0a-b10c-c627-df182936826c.jpg> ;
+	dc:creator "Nijs, Jac. de / Anefo" ;
+	dc:title "Bij Dorus op schoot, in zijn theater in Rotterdam, nummer Connie Pieters en Karel de Rooij" ;
+	dc:date "1968-01-24T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab338fac-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab338fac-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/f77c957f-06cf-4cc0-a60c-16e1ed57c388.jpg> ;
+	dc:creator "Nijs, Jac. de / Anefo" ;
+	dc:title "Bij Dorus op schoot, in zijn theater in Rotterdam" ;
+	dc:date "1968-01-24T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab3396b4-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab3396b4-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/0dc8b85a-9915-fc78-baf7-28c8761af2b4.jpg> ;
+	dc:creator "Nijs, Jac. de / Anefo" ;
+	dc:title "Bij Dorus op schoot, in zijn theater in Rotterdam" ;
+	dc:date "1968-01-24T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab3395d8-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab3395d8-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/a7e19a02-231f-f730-1a7b-e6ead40a65f7.jpg> ;
+	dc:creator "Nijs, Jac. de / Anefo" ;
+	dc:title "Bij Dorus op schoot, in zijn theater in Rotterdam" ;
+	dc:date "1968-01-24T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a951534a-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a951534a-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/809db0bd-7b81-e246-f9c5-2abe81d30667.jpg> ;
+	dc:creator "Bilsen, Joop van / Anefo" ;
+	dc:title "Eerste paal nieuwe Scala Theater Rotterdam. Mej. Marja Uges , dochter directeur Scala concern heit eerste paal" ;
+	dc:date "1956-10-24T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a95154c6-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a95154c6-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/8ec762bf-4d7b-1d19-8fb5-1e88815ee29d.jpg> ;
+	dc:creator "Bilsen, Joop van / Anefo" ;
+	dc:title "Eerste paal nieuwe Scala Theater Rotterdam. Mej. Marja Uges , dochter directeur Scala concern heit eerste paal" ;
+	dc:date "1956-10-24T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9515584-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9515584-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/de1ef641-8755-7758-01c0-c1f5549bee0c.jpg> ;
+	dc:creator "Bilsen, Joop van / Anefo" ;
+	dc:title "Eerste paal nieuwe Scala Theater Rotterdam. Mej. Marja Uges , dochter directeur Scala concern heit eerste paal" ;
+	dc:date "1956-10-24T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad662b54-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad662b54-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/bb8e0227-3784-e852-b8c4-5b5c475c120a.jpg> ;
+	dc:creator "Croes, Rob C. / Anefo" ;
+	dc:title "Demonstratie in Rotterdam tegen opvoering Fassbinders \"het vuil, de stad en de dood\" voor theater De Lantaren , rechts Jules Croiset" ;
+	dc:date "1987-11-18T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad662d0c-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad662d0c-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/2738ec19-5bba-a5ad-818f-dc3f293a1218.jpg> ;
+	dc:creator "Croes, Rob C. / Anefo" ;
+	dc:title "Demonstratie in Rotterdam tegen opvoering Fassbinders \"het vuil, de stad en de dood\" voor theater De Lantaren , rechts Jules Croiset" ;
+	dc:date "1987-11-18T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9d5bd2e-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9d5bd2e-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/af48752a-c893-631d-82c2-4e769b37a203.jpg> ;
+	dc:creator "Lindeboom, Henk / Anefo" ;
+	dc:title "Concert op Euromast" ;
+	dc:date "1961-05-22T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9d5bde2-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9d5bde2-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/d283ef84-55de-e2ec-0d89-c368d32f8f07.jpg> ;
+	dc:creator "Lindeboom, Henk / Anefo" ;
+	dc:title "Concert op Euromast" ;
+	dc:date "1961-05-22T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9a696f2-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9a696f2-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/50ac52b4-6385-72f2-a1af-8b89d29b3990.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Jazz-concert AMVJ gebouw te Rotterdam" ;
+	dc:date "1960-01-10T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9a697b0-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9a697b0-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/4d017491-6ee9-db6c-2343-4549afa15695.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Jazz-concert AMVJ gebouw te Rotterdam, Rita Reys zang, Pim Jacobs piano" ;
+	dc:date "1960-01-10T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9a6a2f0-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9a6a2f0-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/78a3c228-5c5c-5140-9814-ba73ddc99435.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Jazz-concert AMVJ gebouw te Rotterdam" ;
+	dc:date "1960-01-10T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aaaa11aa-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aaaa11aa-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/f83a2f7c-986b-696c-39c4-58226c18d612.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "Lunchconcert door Engels muziekkorps op het Stadhuisplein Rotterdam" ;
+	dc:date "1965-05-19T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aac144ce-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aac144ce-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/0ca941c7-8f39-0555-50bc-acc9ee3d96ab.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "Magalm proeven in Rotterdams Concertgebouw van Philharmonisch orkest , concert voor ruis en alarmpistool" ;
+	dc:date "1965-09-18T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab1924a0-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab1924a0-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/57900fcf-a064-4eb5-977e-1be750db8bd8.jpg> ;
+	dc:creator "Nijs, Jac. de / Anefo" ;
+	dc:title "Kolderconcert in de Doelen te Rotterdam, repetitie, v.l.n Albert Mol, Jasper van der Linden, Jasperina de Jong en Hetty Blok met vier stofzuigers" ;
+	dc:date "1967-05-18T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab192298-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab192298-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/231c89fb-4f7e-4f4a-883a-583edbf5d112.jpg> ;
+	dc:creator "Nijs, Jac. de / Anefo" ;
+	dc:title "Kolderconcert in de Doelen te Rotterdam, repetitie, v.l.n Albert Mol, Jasper van der Linden, Jasperina de Jong en Hetty Blok met vier stofzuigers" ;
+	dc:date "1967-05-18T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab19205e-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab19205e-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/91b64bd1-c8f9-4964-a0b5-1142de7f422e.jpg> ;
+	dc:creator "Nijs, Jac. de / Anefo" ;
+	dc:title "Kolderconcert in de Doelen te Rotterdam, repetitie, v.l.n Albert Mol, Jasper van der Linden, Jasperina de Jong en Hetty Blok met vier stofzuigers" ;
+	dc:date "1967-05-18T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab9ab61e-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab9ab61e-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/0ac3fba6-fe6f-63a9-2c0f-3d3c20ee2edc.jpg> ;
+	dc:creator "Fotograaf Onbekend / Anefo" ;
+	dc:title "Jongeren dansen" ;
+	dc:date "1970-06-26T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab9ab8a8-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab9ab8a8-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/093fee25-6496-2eba-24a1-8d4c80b18ed6.jpg> ;
+	dc:creator "Fotograaf Onbekend / Anefo" ;
+	dc:title "Jong festival publiek met hoeden en bloemenslingers" ;
+	dc:date "1970-06-26T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab9ab95c-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab9ab95c-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/5722b76f-811a-5ec1-9b9a-0174756b4175.jpg> ;
+	dc:creator "Fotograaf Onbekend / Anefo" ;
+	dc:title "Festival bezoekers in Kralingse Bos" ;
+	dc:date "1970-06-26T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab9ac0b4-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab9ac0b4-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/f73da075-cbd3-5688-1de5-9218cbab23e1.jpg> ;
+	dc:creator "Fotograaf Onbekend / Anefo" ;
+	dc:title "Optreden van Jefferson Airplain tijdens het festival" ;
+	dc:date "1970-06-26T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab9ab498-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab9ab498-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/d0ad5be0-2540-55fc-1b48-2ce78e6afb01.jpg> ;
+	dc:creator "Fotograaf Onbekend / Anefo" ;
+	dc:title "Jongeren tijdens het festival" ;
+	dc:date "1970-06-26T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab9a6b78-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab9a6b78-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/e6931eef-2f0a-da29-d6bc-5201f65959ab.jpg> ;
+	dc:creator "Berends, […]" ;
+	dc:title "Holland Pop Festival aanstaande weekend in Kralingse Bos , Rotterdam; drie initiatiefnemers v.l.n.r. Berry Visser , Toosje, Georges Knap" ;
+	dc:date "1970-06-23T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab9ab556-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab9ab556-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/550a8a4e-ed27-461d-3ffe-721e4877438b.jpg> ;
+	dc:creator "Fotograaf Onbekend / Anefo" ;
+	dc:title "Overzicht; publiek en podium" ;
+	dc:date "1970-06-26T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab9ab7a4-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab9ab7a4-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/f695ffdb-685f-b595-02d4-e418921c8ddb.jpg> ;
+	dc:creator "Fotograaf Onbekend / Anefo" ;
+	dc:title "Meisje met bloot bovenlichaam" ;
+	dc:date "1970-06-26T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab9ac258-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab9ac258-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/89b22a78-3921-7b77-ad98-ec4b2eaebab6.jpg> ;
+	dc:creator "Fotograaf Onbekend / Anefo" ;
+	dc:title "Tentenkamp tijdens het festival in het Kralingse Bos" ;
+	dc:date "1970-06-26T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab9ac3d4-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab9ac3d4-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/f36d0e9e-5d56-6932-6324-161eee4f879b.jpg> ;
+	dc:creator "Fotograaf Onbekend / Anefo" ;
+	dc:title "Kaartverkoop en toegang tot het festival terrein" ;
+	dc:date "1970-06-26T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab9aee22-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab9aee22-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/cdf6fb6a-c4ad-1aae-40be-3d5b9c65bad3.jpg> ;
+	dc:creator "Fotograaf Onbekend / Anefo" ;
+	dc:title "Het festival is afgelopen, voor het grote podium zijn afvalcontainers en vuilniszakken verzameld" ;
+	dc:date "1970-06-29T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab9af048-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab9af048-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/d7def803-7736-2d63-c63d-e3145711848b.jpg> ;
+	dc:creator "Fotograaf Onbekend / Anefo" ;
+	dc:title "Het festival is afgelopen, laatste bezoekers pakken hun spullen tussen het afval" ;
+	dc:date "1970-06-29T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab9ab6dc-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab9ab6dc-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/c149973a-8f5f-0def-4257-9aeb20460d05.jpg> ;
+	dc:creator "Fotograaf Onbekend / Anefo" ;
+	dc:title "Jongen van de ordedienst tussen festivalbezoekers met \"We help you\" op T-shirt" ;
+	dc:date "1970-06-26T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab9abace-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab9abace-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/0383f72b-0056-74b1-4531-adfdd7001c6b.jpg> ;
+	dc:creator "Fotograaf Onbekend / Anefo" ;
+	dc:title "Festivalpubliek in Kralingse Bos; verkoper van \'trips\'" ;
+	dc:date "1970-06-26T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab9af16a-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab9af16a-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/5200b827-5f37-2e69-86b4-8a40571396fc.jpg> ;
+	dc:creator "Fotograaf Onbekend / Anefo" ;
+	dc:title "Het festival is afgelopen, laatste bezoekers breken hun tenten op en verlaten het festivalterrein" ;
+	dc:date "1970-06-29T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ab9ac316-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab9ac316-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/7879b5b7-22f7-eeff-d051-6159373411e1.jpg> ;
+	dc:creator "Fotograaf Onbekend / Anefo" ;
+	dc:title "Aan de rand van het Kralingse Bos hebben bezoekers van het popfestival een tentenkamp opgezet" ;
+	dc:date "1970-06-26T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ac2f3d0c-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ac2f3d0c-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/49d68d09-7365-5395-2d48-33f71e2f4eaf.jpg> ;
+	dc:creator "Peters, Hans / Anefo" ;
+	dc:title "Holland Festival in Rotterdam geopend met \" Rotterdam Fantastiek \" op het Schouwburgplein, Joegoslavisch orkestje" ;
+	dc:date "1973-06-15T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ac2f3e24-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ac2f3e24-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/892b745c-4743-256c-825c-322c21b001f8.jpg> ;
+	dc:creator "Peters, Hans / Anefo" ;
+	dc:title "Holland Festival in Rotterdam geopend met \" Rotterdam Fantastiek \" op het Schouwburgplein, Spaanse kinderen dansen" ;
+	dc:date "1973-06-15T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ac2f3f50-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ac2f3f50-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/b17a7d0f-764d-7e88-8818-468db2baed50.jpg> ;
+	dc:creator "Peters, Hans / Anefo" ;
+	dc:title "Holland Festival in Rotterdam geopend met \" Rotterdam Fantastiek \" op het Schouwburgplein, klompenmaker" ;
+	dc:date "1973-06-15T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ac2f4022-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ac2f4022-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/661d1a98-ab5d-941b-be97-2112e4a150c1.jpg> ;
+	dc:creator "Peters, Hans / Anefo" ;
+	dc:title "Holland Festival in Rotterdam geopend met \" Rotterdam Fantastiek \" op het Schouwburgplein, nummer 1 spinnewiel, nummer 18, 19 en 20 manden vlechten /" ;
+	dc:date "1973-06-15T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aaee85a6-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aaee85a6-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/5b803bdb-b704-4e07-a218-5341c91f31e6.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Holland Festival in De Doelen te Rotterdam van start, eregasten prinses Beatrix en Claus bij aankomst met dirigent F.P. Decker" ;
+	dc:date "1966-06-14T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aaee86b4-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aaee86b4-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/386484ed-7453-4bd5-982c-b52f1498846f.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Holland Festival in De Doelen te Rotterdam van start" ;
+	dc:date "1966-06-14T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aaee87b8-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aaee87b8-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/1d9ed9bb-9244-4eab-8f70-cd89854ffddf.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Holland Festival in De Doelen te Rotterdam van start" ;
+	dc:date "1966-06-14T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aaee8894-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aaee8894-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/1e945809-5e1e-45a7-ab96-bea77834fa80.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Holland Festival in De Doelen te Rotterdam van start" ;
+	dc:date "1966-06-14T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aaee89b6-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aaee89b6-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/cd333639-f5a5-4094-97e8-42a87b9931f5.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Holland Festival in De Doelen te Rotterdam van start" ;
+	dc:date "1966-06-14T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9df02ee-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9df02ee-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/06f5f0aa-e853-a775-6a09-d199834a3a44.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Hondenshow in openluchttheater Dijkzigt te Rotterdam" ;
+	dc:date "1961-08-08T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9df03b6-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9df03b6-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/f46a7157-c854-367e-ac78-864a7acd4a2e.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Hondenshow in openluchttheater Dijkzigt te Rotterdam" ;
+	dc:date "1961-08-08T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a981edf2-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a981edf2-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/6f80a2ae-a2d9-dbfc-a73b-6a966084fd83.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Hondenshow in openluchttheater Dijkzicht in Rotterdam" ;
+	dc:date "1958-08-02T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a981ed34-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a981ed34-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/085821b1-e330-3356-6778-803e154406a2.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Hondenshow in openluchttheater Dijkzigt in Rotterdam" ;
+	dc:date "1958-08-02T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a981eeba-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a981eeba-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/754c41cc-3c76-31e3-da52-c68ff77198d2.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Hondenshow in openluchttheater Dijkzigt in Rotterdam" ;
+	dc:date "1958-08-02T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aa872dac-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aa872dac-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/fb152c1d-87bc-4292-9564-f1b23a5743b0.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "The Honey Combs (beatgroep) in Holland, tijdens repetiti in Grote Schouwburg Zuid te Rotterdam" ;
+	dc:date "1964-12-10T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aa872fb4-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aa872fb4-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/679e5cb1-a471-4c25-9be4-94b7558c264f.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "The Honey Combs (beatgroep) in Holland, tijdens repetiti in Grote Schouwburg Zuid te Rotterdam" ;
+	dc:date "1964-12-10T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9b6f4fc-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9b6f4fc-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/3c73060a-7b05-4c9e-d6cb-453ab6fe0ce3.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Fiesta Mexicana in Rotterdamse schouwburg" ;
+	dc:date "1960-08-19T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9b6f5ba-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9b6f5ba-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/710da706-28e2-77f2-4b2a-8acd1c05c49d.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Fiesta Mexicana in Rotterdamse schouwburg" ;
+	dc:date "1960-08-19T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad41199a-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad41199a-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/ce561813-20a7-601c-f9c2-5e844b70efb9.jpg> ;
+	dc:creator "Vollebregt, Sjakkelien / Anefo" ;
+	dc:title "Minister-Brinkman slaat eerste paal schouwburg Rotterdam; Brinkman en heibaas" ;
+	dc:date "1984-12-19T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad411a6c-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad411a6c-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/3d35b123-b6c0-a75a-99d4-b9ea79e66ace.jpg> ;
+	dc:creator "Vollebregt, Sjakkelien / Anefo" ;
+	dc:title "Minister-Brinkman slaat eerste paal schouwburg Rotterdam; Brinkman en heibaas" ;
+	dc:date "1984-12-19T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad411b98-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad411b98-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/57868114-5d0b-fa90-1902-17b2948a8694.jpg> ;
+	dc:creator "Vollebregt, Sjakkelien / Anefo" ;
+	dc:title "Minister-Brinkman slaat eerste paal schouwburg Rotterdam; Brinkman en burgemeester Peper (r)" ;
+	dc:date "1984-12-19T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad411864-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad411864-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/ca38c0b7-9a9b-3cb4-391a-6ce2bcd7410f.jpg> ;
+	dc:creator "Vollebregt, Sjakkelien / Anefo" ;
+	dc:title "Minister-Brinkman slaat eerste paal schouwburg Rotterdam close met helm" ;
+	dc:date "1984-12-19T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9b0a3fe-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9b0a3fe-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/7bb61d08-bb25-636d-7ff1-ccc3691f043e.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Uitreiking van de toneelprijzen in de Rotterdamse schouwburg" ;
+	dc:date "1960-06-01T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9b0a4bc-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9b0a4bc-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/022d6d46-ea7d-3245-3440-69679b3ddbcc.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Uitreiking van de toneelprijzen in de Rotterdamse schouwburg. Guus Hermus" ;
+	dc:date "1960-06-01T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9b0a584-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9b0a584-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/5821d41f-7937-2c9b-a432-368ec868af0e.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Uitreiking van de toneelprijzen in de Rotterdamse schouwburg. Paul Steenbergen (links) ontvangt de Louis d\'Or" ;
+	dc:date "1960-06-01T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aa23b380-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aa23b380-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/27cec4c5-2261-4e11-88a4-7465e12e2fca.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Edith Piaf zingt in ons land, haar optreden in Rotterdam" ;
+	dc:date "1962-12-13T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aa23b556-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aa23b556-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/7af5f22e-0f24-4898-97ff-aee594c11607.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Edith Piaf zingt in ons land" ;
+	dc:date "1962-12-13T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aa23b614-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aa23b614-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/d6efe73b-7d0c-44e0-af18-4c4817dcf123.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Edith Piaf zingt in ons land" ;
+	dc:date "1962-12-13T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aa23b6fa-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aa23b6fa-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/e7ff55dc-196f-4b67-87f6-33d9c5f7b338.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Edith Piaf zingt in ons land" ;
+	dc:date "1962-12-13T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aa23b48e-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aa23b48e-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/05a5be5c-dd6d-497f-9318-22ac04aedbe2.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Edith Piaf zingt in ons land, Edith Piaf en Theo Sarapo tijdens het zingen" ;
+	dc:date "1962-12-13T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aa23b88a-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aa23b88a-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/4ca4d63a-f614-495d-9cb2-72fc0ab691a2.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Edith Piaf zingt in ons land" ;
+	dc:date "1962-12-13T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad18e3b2-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad18e3b2-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/a65dcf80-59a1-1952-4af0-91e447234047.jpg> ;
+	dc:creator "Antonisse, Marcel / Anefo" ;
+	dc:title "Optreden Rolling Stones in het Feijenoordstadion, Rotterdam; Stones-fans" ;
+	dc:date "1982-06-02T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad18dd68-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad18dd68-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/845cb231-0dde-8d7b-fdc7-0f8cc059c4ce.jpg> ;
+	dc:creator "Antonisse, Marcel / Anefo" ;
+	dc:title "Optreden Rolling Stones in het Feijenoordstadion, Rotterdam; Mick Jagger (l) en Keith Richard" ;
+	dc:date "1982-06-02T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad18de94-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad18de94-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/84104c74-c87e-0bc1-b5fb-de9262fede7c.jpg> ;
+	dc:creator "Antonisse, Marcel / Anefo" ;
+	dc:title "Optreden Rolling Stones in het Feijenoordstadion, Rotterdam; Mick Jagger , kop" ;
+	dc:date "1982-06-02T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad18df70-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad18df70-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/d0b45d4c-4842-0eb0-1425-74c7ae147a4a.jpg> ;
+	dc:creator "Antonisse, Marcel / Anefo" ;
+	dc:title "Optreden Rolling Stones in het Feijenoordstadion, Rotterdam; Mick Jagger (l) en Bill Wyman" ;
+	dc:date "1982-06-02T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad18e0a6-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad18e0a6-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/e888d616-327f-6f17-a8db-4aea4792567b.jpg> ;
+	dc:creator "Antonisse, Marcel / Anefo" ;
+	dc:title "Optreden Rolling Stones in het Feijenoordstadion, Rotterdam; Mick Jagger" ;
+	dc:date "1982-06-02T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad18e1b4-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad18e1b4-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/25c46519-522b-04af-9a3b-115d808651ef.jpg> ;
+	dc:creator "Antonisse, Marcel / Anefo" ;
+	dc:title "Optreden Rolling Stones in het Feijenoordstadion, Rotterdam; Mick Jagger en Keith Richard" ;
+	dc:date "1982-06-02T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad18e48e-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad18e48e-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/2c3cd532-1f04-4417-d506-af7a9628d2cc.jpg> ;
+	dc:creator "Antonisse, Marcel / Anefo" ;
+	dc:title "Optreden Rolling Stones in het Feijenoordstadion, Rotterdam; overzicht met podium" ;
+	dc:date "1982-06-02T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad18e57e-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad18e57e-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/72cad454-4706-09fa-0abb-94d09690ab5d.jpg> ;
+	dc:creator "Antonisse, Marcel / Anefo" ;
+	dc:title "Optreden Rolling Stones in het Feijenoordstadion, Rotterdam; overzicht met podium" ;
+	dc:date "1982-06-02T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aad216b4-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aad216b4-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/51a5c3a1-1d6a-c3c0-2357-70e5271cbaa3.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "Monstermaaltijd voor 3000 Mariniers in de Energiehal te Rotterdam, naar aanleiding van het 300-jarig bestaan van het Korps Mariniers" ;
+	dc:date "1965-12-09T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad7cb2ac-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad7cb2ac-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/8e2e397e-f184-978d-2669-8ac5d4307293.jpg> ;
+	dc:creator "Fotograaf Onbekend / Anefo" ;
+	dc:title "Repro Rotterdam na bombardement mei 1940. Bioscoop City aan de Hoogstraat" ;
+	dc:date "1940-04-30T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9b3ab76-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9b3ab76-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/2fa7f8a9-223c-e675-cdd0-0c4cb85ddd99.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Het Nederlandse Cinerama theater" ;
+	dc:date "1960-07-06T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9b3ac34-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9b3ac34-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/b4a35627-0083-a630-6d30-3ae31a1b1f7f.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Het Nederlandse Cinerama theater te Rotterdam" ;
+	dc:date "1960-07-06T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9ca43ae-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9ca43ae-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/d06c39a4-a185-db6f-8224-23e6c9f07222.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Nieuw bioscooptheater Corso te Rotterdam, voorzijde van het nieuwe theater" ;
+	dc:date "1961-02-22T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9ca42e6-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9ca42e6-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/29895a99-5978-4821-8ddb-0274182f7376.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Nieuw bioscooptheater Corso te Rotterdam, achterzijde van het nieuwe theater" ;
+	dc:date "1961-02-22T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9c8c092-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9c8c092-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/145b78a8-b12c-902f-2de5-a3d24b891646.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Nieuwe Corsotheater te Rotterdam nadert voltooiing exterieur van de Kruiskade en aan het stadhuisplein" ;
+	dc:date "1961-02-08T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad5ba346-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad5ba346-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/d19bcd23-9ce6-360f-d618-b1e207f70d91.jpg> ;
+	dc:creator "Bogaerts, Rob / Anefo" ;
+	dc:title "3500 man in stukgoedsector in Rotterdam in staking na weigering werkgevers te praten over ontslag 350 man; grote bijeenkomst in Zuidplein Theater" ;
+	dc:date "1987-01-19T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/adfec35a-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/adfec35a-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/01381a28-16f1-d2d7-c0f8-5daa57c2a09b.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "bouwnijverheid, theaters, panoramas" ;
+	dc:date "1964-09-01T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ae163544-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ae163544-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/55ab4b25-b539-e6bb-571f-b6889320fd34.jpg> ;
+	dc:creator "Koch, Eric / Anefo" ;
+	dc:title "Zicht op concertgebouw De Doelen" ;
+	dc:date "1964-04-09T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a9897fea-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a9897fea-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/0c7c0b11-c6b4-7681-bfbc-152a8cfed1ff.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Bouw Rijnhotel annex AMVJ gebouw in Rotterdam" ;
+	dc:date "1958-12-02T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a98ee674-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a98ee674-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/86c3ac2b-f4d1-4fcc-5a90-2a1e26f53ee1.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Boekenfeest in Rivierahal Rotterdam" ;
+	dc:date "1959-03-04T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a98ee732-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a98ee732-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/05b050a7-6ec9-8189-87fc-0d774eb99ae4.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Boekenfeest in Rivierahal Rotterdam, optreden Wim Kan" ;
+	dc:date "1959-03-04T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/a98eeb9c-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/a98eeb9c-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/67bd5da6-94f2-2372-07ad-e3c34c846fe2.jpg> ;
+	dc:creator "Behrens, Herbert / Anefo" ;
+	dc:title "Boekenfeest in Rivierahal Rotterdam, Mies Bouwman met auteurs" ;
+	dc:date "1959-03-04T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aac4aaf6-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aac4aaf6-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/0afbbdc8-e0d2-40fa-44bc-61ed67341b65.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "Ambassadeur Sudjarwo Tjondronegoro tijdens de opening van de tentoonstelling, in gezelschap van een dame" ;
+	dc:date "1965-10-05T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aac4ad26-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aac4ad26-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/c52173ea-9838-1496-2c8b-eb1f6f73ed94.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "Ambassadeur Sudjarwo Tjondronegoro tijdens de opening van de tentoonstelling" ;
+	dc:date "1965-10-05T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aac4aede-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aac4aede-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/8c5e0c89-de74-bf39-9918-28c15643fd61.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "Ambassadeur Sudjarwo Tjondronegoro bekijkt een wandkleed tijdens de opening" ;
+	dc:date "1965-10-05T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/ad6a08f0-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad6a08f0-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/b8c06656-287e-3316-8e1a-05813aab1c92.jpg> ;
+	dc:creator "Bogaerts, Rob / Anefo" ;
+	dc:title "Exterieur van nieuwe Rotterdamse schouwburg" ;
+	dc:date "1988-04-15T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aae98646-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aae98646-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/df5666a5-5a5e-974e-7014-512b5cfa4443.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "De Doelen te Rotterdam, extr. Karel Doormstraat" ;
+	dc:date "1966-05-11T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aae98902-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aae98902-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/ca8ef76e-def3-4641-f329-7040a939a76f.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "De Doelen te Rotterdam" ;
+	dc:date "1966-05-11T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aae98c2c-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aae98c2c-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/8c1f14ba-f354-404b-6d9a-2c15795c4fd1.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "De Doelen te Rotterdam, overzicht" ;
+	dc:date "1966-05-11T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aae992b2-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aae992b2-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/a70c97ab-55fa-5155-2eb9-e9eec2e4c2f7.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "De Doelen te Rotterdam, wandelgang tevens foyer" ;
+	dc:date "1966-05-11T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aae994d8-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aae994d8-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/6691a23b-4b83-d6dd-6e3a-c5cdc4adad32.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "De Doelen te Rotterdam, loges" ;
+	dc:date "1966-05-11T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aae99596-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aae99596-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/6cb6d334-d147-50f0-cbad-91c19ddb6c0b.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "De Doelen te Rotterdam, verlichting ornament" ;
+	dc:date "1966-05-11T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aae996b8-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aae996b8-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/516cb9df-346c-3eb5-9dd5-9b95f6dfa10f.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "De Doelen te Rotterdam, overzicht grote zaal" ;
+	dc:date "1966-05-11T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aae997c6-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aae997c6-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/992020f7-b283-4549-f5d0-7a3fbbca00dd.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "De Doelen te Rotterdam, hall zij-ingang" ;
+	dc:date "1966-05-11T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aae9988e-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aae9988e-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/7ee781b2-4f46-8047-de73-17cd863ea090.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "De Doelen te Rotterdam, hall hoofdingang" ;
+	dc:date "1966-05-11T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aae9a0c2-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aae9a0c2-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/374e7723-c158-baca-6593-f276abce1caf.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "De Doelen te Rotterdam, foyer hoge gasten, demontabel plafond van edelhoutsoorten" ;
+	dc:date "1966-05-11T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aae9a5cc-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aae9a5cc-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/82a49e64-8920-ccb0-134c-253d1b52d485.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "De Doelen te Rotterdam, kleine zaal, overzicht" ;
+	dc:date "1966-05-11T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aae9a6e4-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aae9a6e4-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/b957d22b-1b38-67fc-3abb-ab8d95342848.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "De Doelen te Rotterdam, kleine zaal, overzicht" ;
+	dc:date "1966-05-11T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<http://hdl.handle.net/10648/aae9a7ca-d0b4-102d-bcf8-003048976d84>
+	edm:isShownAt <https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aae9a7ca-d0b4-102d-bcf8-003048976d84> ;
+	foaf:depiction <http://afbeeldingen.gahetna.nl/naa/thumb/1280x1280/97863bb9-c7f3-5e81-632a-150f4954e08a.jpg> ;
+	dc:creator "Voets, Jan / Anefo" ;
+	dc:title "De Doelen te Rotterdam, zijkant grote zaal met loges" ;
+	dc:date "1966-05-11T00:00:00Z"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+

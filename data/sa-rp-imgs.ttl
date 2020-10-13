@@ -1,0 +1,2348 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX sem: <http://semanticweb.cs.vu.nl/2009/11/sem/>
+PREFIX edm: <http://www.europeana.eu/schemas/edm/>
+
+<https://hdl.handle.net/21.12133/2FFC82D813934DA3A31F4DED2657CB56>
+	edm:isShownAt <https://hdl.handle.net/21.12133/2FFC82D813934DA3A31F4DED2657CB56> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1998-1127-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904538041&mivast=184&rdt=20200809&open=80E42> ;
+	dc:creator "(auteur): Jan (J.) van der Kamp, 1902-1965" ;
+	dc:title "" ;
+	dc:description "De Kruiskade met bioscoop Scala." ;
+	dc:date "1937-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/88C5AE7E08124B1C9337D14185A4BF43>
+	edm:isShownAt <https://hdl.handle.net/21.12133/88C5AE7E08124B1C9337D14185A4BF43> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_XXIII-84-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904332106&mivast=184&rdt=20200809&open=1072B> ;
+	dc:creator "(auteur): Spaarnestad Fotoarchief ( SFA )" ;
+	dc:title "" ;
+	dc:description "Bioscoop Thalia aan de Hoogstraat." ;
+	dc:date "1930-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/24B8A0EB4E044F1BB1B5C127EC2EDAFE>
+	edm:isShownAt <https://hdl.handle.net/21.12133/24B8A0EB4E044F1BB1B5C127EC2EDAFE> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_XXIII-83-01-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904332105&mivast=184&rdt=20200809&open=5BA0C> ;
+	dc:creator "(auteur): Spaarnestad Fotoarchief ( SFA )" ;
+	dc:title "" ;
+	dc:description "Asta Theater aan de Hoogstraat." ;
+	dc:date "1930-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/738E741EDD0C4916B555005BE01BFE54>
+	edm:isShownAt <https://hdl.handle.net/21.12133/738E741EDD0C4916B555005BE01BFE54> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_IX-599-02-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904323290&mivast=184&rdt=20200809&open=79DA7> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "De Coolsingel met bioscoop Cineac." ;
+	dc:date "1933-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/286CBA70DE284420BC90875601E6B5A7>
+	edm:isShownAt <https://hdl.handle.net/21.12133/286CBA70DE284420BC90875601E6B5A7> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1998-1095-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904538009&mivast=184&rdt=20200809&open=09106> ;
+	dc:creator "(auteur): Jan (J.) van der Kamp, 1902-1965" ;
+	dc:title "" ;
+	dc:description "De Hoogstraat met bioscoop Asta rechts." ;
+	dc:date "1937-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/FD2E0197B7E04F8BA99A224DEF4AF908>
+	edm:isShownAt <https://hdl.handle.net/21.12133/FD2E0197B7E04F8BA99A224DEF4AF908> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1998-1077-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904537991&mivast=184&rdt=20200809&open=40916> ;
+	dc:creator "(auteur): Jan (J.) van der Kamp, 1902-1965" ;
+	dc:title "" ;
+	dc:description "De Kruiskade met de Scala Bioscoop, voorheen theater Soesman." ;
+	dc:date "1937-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/2563225F52E147EA97F43A1DDD1AD064>
+	edm:isShownAt <https://hdl.handle.net/21.12133/2563225F52E147EA97F43A1DDD1AD064> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1998-1075-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904537989&mivast=184&rdt=20200809&open=B118D> ;
+	dc:creator "(auteur): Jan (J.) van der Kamp, 1902-1965" ;
+	dc:title "" ;
+	dc:description "De Kruiskade met de Scala bioscoop." ;
+	dc:date "1937-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/174C779127284201A129E82623390817>
+	edm:isShownAt <https://hdl.handle.net/21.12133/174C779127284201A129E82623390817> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1968-2155-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904526508&mivast=184&rdt=20200809&open=E152A> ;
+	dc:creator "(auteur): (C.A.M.) Kierdorff" ;
+	dc:title "" ;
+	dc:description "Bioscoop Cineac en theater Kleine Komedie in de Beurs aan de Coolsingel.Van boven naar beneden afgebeeld:-1: Tentoonstellingsruimte. -2: De zaal." ;
+	dc:date "1940-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/8D36FA45FE874DD29EE11A10BAA827D8>
+	edm:isShownAt <https://hdl.handle.net/21.12133/8D36FA45FE874DD29EE11A10BAA827D8> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_XXIII-82-03-01-2-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904525308&mivast=184&rdt=20200809&open=31B05> ;
+	dc:creator "(auteur): (C.A.M.) Kierdorff" ;
+	dc:title "Bioscoop Cineac aan de Coolsingel.." ;
+	dc:description "De zaal van bioscoop Cineac en theater de Kleine Komedie in de Beurs aan de Coolsingel." ;
+	dc:date "1940-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/22D41730DA2943A299111BCBAF203FF5>
+	edm:isShownAt <https://hdl.handle.net/21.12133/22D41730DA2943A299111BCBAF203FF5> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_IX-1688-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904468345&mivast=184&rdt=20200809&open=7C457> ;
+	dc:creator "Christiaan Johannes Theodorus (Ch. J. T.) Schut" ;
+	dc:title "" ;
+	dc:description "Kruiskade bij de Diergaardesingel met de in aanbouw zijnde bioscoop Lutusca." ;
+	dc:date "1946-10-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/2553566D8AD8404BBC228FDD83F96278>
+	edm:isShownAt <https://hdl.handle.net/21.12133/2553566D8AD8404BBC228FDD83F96278> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4086/NL-RtSA_4086_XXIII-85-06-01.jpg?format=thumb&size=500px&miadt=184&miahd=1740722698&mivast=184&rdt=20200308&open=B8EB5> ;
+	dc:creator "(auteur): Bernardus (Bernard) (B.) van der Leeuw" ;
+	dc:title "" ;
+	dc:description "Kruiskade met op de voorgrond heiwerkzaamheden voor het Thalia theater, gezien uit het noorden. Op de achtergrond bioscoop Luxor en hotel Centraal." ;
+	dc:date "1954-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/2553566D8AD8404BBC228FDD83F96278>
+	edm:isShownAt <https://hdl.handle.net/21.12133/2553566D8AD8404BBC228FDD83F96278> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4086/NL-RtSA_4086_XXIII-85-06-01.jpg?format=thumb&size=500px&miadt=184&miahd=1740722698&mivast=184&rdt=20200308&open=B8EB5> ;
+	dc:creator "(auteur): Bernardus (Bernard) (B.) van der Leeuw" ;
+	dc:title "" ;
+	dc:description "Kruiskade met op de voorgrond heiwerkzaamheden voor het Thalia theater, gezien uit het noorden. Op de achtergrond bioscoop Luxor en hotel Centraal." ;
+	dc:date "1954-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/B87D368FAFD24957AB4D155E5D00A3B7>
+	edm:isShownAt <https://hdl.handle.net/21.12133/B87D368FAFD24957AB4D155E5D00A3B7> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4086/NL-RtSA_4086_XXIII-85-03-01.jpg?format=thumb&size=500px&miadt=184&miahd=1740722697&mivast=184&rdt=20200308&open=087BB> ;
+	dc:creator "(auteur): Bernardus (Bernard) (B.) van der Leeuw" ;
+	dc:title "" ;
+	dc:description "Kruiskade met op de voorgrond bouwput voor bioscoop Lumière, gezien uit het noordwesten." ;
+	dc:date "1954-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/614C50E76F52430D852B4CD1AB5F7AF2>
+	edm:isShownAt <https://hdl.handle.net/21.12133/614C50E76F52430D852B4CD1AB5F7AF2> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2000-50-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904538671&mivast=184&rdt=20200809&open=3054D> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de Kruiskade met bioscoop Luxor vanuit westelijke richting. Op de voorgrond de bouwput voor het te bouwen Hilton-Hotel." ;
+	dc:date "1960-08-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/DC230F87F37F4681816D9BE0569511CA>
+	edm:isShownAt <https://hdl.handle.net/21.12133/DC230F87F37F4681816D9BE0569511CA> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1993-3103-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904536039&mivast=184&rdt=20200809&open=F74B1> ;
+	dc:creator "(auteur): Lange, Tineke de" ;
+	dc:title "" ;
+	dc:description "Operateur in bioscoop Lumiere" ;
+	dc:date "1993-01-28"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/2E0F473D861E457BBC198B2A32061D72>
+	edm:isShownAt <https://hdl.handle.net/21.12133/2E0F473D861E457BBC198B2A32061D72> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1993-3101-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904536037&mivast=184&rdt=20200809&open=5D2CA> ;
+	dc:creator "(auteur): Lange, Tineke de" ;
+	dc:title "" ;
+	dc:description "Foyer van Thalia tijdens het Film Festival Rotterdam." ;
+	dc:date "1993-01-28"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/A3B349F21E794E91A6CDC84EDF739CAB>
+	edm:isShownAt <https://hdl.handle.net/21.12133/A3B349F21E794E91A6CDC84EDF739CAB> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1993-3098-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904536034&mivast=184&rdt=20200809&open=79A48> ;
+	dc:creator "(auteur): Lange, Tineke de" ;
+	dc:title "" ;
+	dc:description "Operateur in bioscoop Lumiere tijdens het Film Festival Rotterdam." ;
+	dc:date "1993-01-28"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/38195988CAA841DFAD22F5EC177C936E>
+	edm:isShownAt <https://hdl.handle.net/21.12133/38195988CAA841DFAD22F5EC177C936E> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1999-736-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904538465&mivast=184&rdt=20200809&open=77DC8> ;
+	dc:creator "(auteur): Tom (T.) de Rooij" ;
+	dc:title "" ;
+	dc:description "Gezicht op de Leuvehaven met Hotel Intel en het Imax-theater vanaf de brug over de Leuvehaven uit zuidelijke richting." ;
+	dc:date "1997-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/3976D687F542427CBCF43697C5A489A7>
+	edm:isShownAt <https://hdl.handle.net/21.12133/3976D687F542427CBCF43697C5A489A7> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_2005-414-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904481488&mivast=184&rdt=20200809&open=0E270> ;
+	dc:creator "Reindert (Rein) (R.) van Kralingen" ;
+	dc:title "Schouwburgplein" ;
+	dc:description "Gezicht op het Schouwburgplein. Links de bioscoop van Pathé. Op de achtergrond de Doelen." ;
+	dc:date "1997-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/39111025C50247F39C9016EC10A5B751>
+	edm:isShownAt <https://hdl.handle.net/21.12133/39111025C50247F39C9016EC10A5B751> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4321/NL-RtSA_4321_221.jpg?format=thumb&size=500px&miadt=184&miahd=1930115577&mivast=184&rdt=20200911&open=ABC65> ;
+	dc:creator "(Fotograaf): Mariëlle (M.) Jurvillier" ;
+	dc:title "" ;
+	dc:description "Rotterdam tijdens de Coronapandemie. De lantarenpalen van een rustig Schouwburgplein voor de Doelen en naast de Pathé bioscoop." ;
+	dc:date "2020-04-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/7A2E3261D0264E47B9D155FFAF1A8613>
+	edm:isShownAt <https://hdl.handle.net/21.12133/7A2E3261D0264E47B9D155FFAF1A8613> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_1973-249-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904479477&mivast=184&rdt=20200809&open=F602B> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Tegeltableau in het Victoriatheater aan de Bergweg voorstellende de Boerenoorlog in Zuid-Afrika. Hettegeltableau is ca. 1971 na sluiting van bioscoop Victoria 1971 overgebracht naar Zuid-Afrika." ;
+	dc:date "1898-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/15F6FEB2AB964002BBB0167279E0EF4B>
+	edm:isShownAt <https://hdl.handle.net/21.12133/15F6FEB2AB964002BBB0167279E0EF4B> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_1976-1524-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904326961&mivast=184&rdt=20200809&open=938CD> ;
+	dc:creator "W. (W.) Bleuzé, 1883-" ;
+	dc:title "" ;
+	dc:description "De Coolsingel met café-restaurant en schouwburg/bioscoop Tivoli (The Royal American Bioscope), uiterst links restaurant Allard en café De Unie." ;
+	dc:date "1913-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/FF992E4DA52C4BA898ABA4A58557B0A5>
+	edm:isShownAt <https://hdl.handle.net/21.12133/FF992E4DA52C4BA898ABA4A58557B0A5> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_XXV-145-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904324842&mivast=184&rdt=20200809&open=33260> ;
+	dc:creator "(auteur): Antonie (A.) Schaller" ;
+	dc:title "" ;
+	dc:description "De Coolsingel met o.a. bioscoop Palace (derde pand) en het Sint-Luciagesticht (grote pand, naast het witte pand). Links de Aert van Nesstraat." ;
+	dc:date "1916-05-16"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/53294D7127864BAF87A155F168F0A28C>
+	edm:isShownAt <https://hdl.handle.net/21.12133/53294D7127864BAF87A155F168F0A28C> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1992-2881-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904535441&mivast=184&rdt=20200809&open=2A5BE> ;
+	dc:creator "" ;
+	dc:title "Het gebouw waar Rex nu gevestigd is anno 1921 / De zaal in de voormalige \'toneelopstelling\'." ;
+	dc:description "Voorgevel Rex theater aan de Eereste Middellandstraat 115." ;
+	dc:date "1921-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/E67FE467C0674A6EABCA57C7F1660914>
+	edm:isShownAt <https://hdl.handle.net/21.12133/E67FE467C0674A6EABCA57C7F1660914> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4088/NL-RtSA_4088_PBK-10791-01.jpg?format=thumb&size=500px&miadt=184&miahd=1740661259&mivast=184&rdt=20200308&open=82BB1> ;
+	dc:creator "" ;
+	dc:title "Pompenburgsingel. ROTTERDAM." ;
+	dc:description "Pompenburgsingel met links het Grand Theatre en op de achtergrond de Boschjeskerk." ;
+	dc:date "1921-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/0B4D0D28E3C249B1B1E9D0FFC8204F03>
+	edm:isShownAt <https://hdl.handle.net/21.12133/0B4D0D28E3C249B1B1E9D0FFC8204F03> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4088/NL-RtSA_4088_PBK-10790-01.jpg?format=thumb&size=500px&miadt=184&miahd=1740661258&mivast=184&rdt=20200308&open=8DDC1> ;
+	dc:creator "" ;
+	dc:title "Rotterdam Pompenburgsingel." ;
+	dc:description "Pompenburgsingel bij het Grand Theatre. Rechts de Gedempte Karnemelkshaven." ;
+	dc:date "1924-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/33DB34C70A14491BBAAD25C7CA7D4450>
+	edm:isShownAt <https://hdl.handle.net/21.12133/33DB34C70A14491BBAAD25C7CA7D4450> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_1984-309-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904480569&mivast=184&rdt=20200809&open=30126> ;
+	dc:creator "Eugène (E.) Rensburg" ;
+	dc:title "" ;
+	dc:description "Ter hoogte van het Spui. Noordzijde met links het winkelpand Lampe, in het midden Hollenkamp, daarnaast Thalia (nr. 325). Op de achtergrond het spoorwegviaduct." ;
+	dc:date "1925-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/F20ECBE76A2D4B459A35C61824667B96>
+	edm:isShownAt <https://hdl.handle.net/21.12133/F20ECBE76A2D4B459A35C61824667B96> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4117/NL-RtSA_4117_1976-11678-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904349752&mivast=184&rdt=20200809&open=88AFF> ;
+	dc:creator "François Henry (F.H.) van Dijk, 11/08/1888-07/07/1977" ;
+	dc:title "" ;
+	dc:description "De Coolsingel met bioscoop Theater Lumière (links) en kantoorgebouw Handel en Nijverheid van Levensverzekering Mij Utrecht." ;
+	dc:date "1933-12-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/DE8D1932F2C64731A32FA7BA24E644F5>
+	edm:isShownAt <https://hdl.handle.net/21.12133/DE8D1932F2C64731A32FA7BA24E644F5> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-281-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904384847&mivast=184&rdt=20200809&open=480CD> ;
+	dc:creator "" ;
+	dc:title "Rotterdam, Pompenburgsingel" ;
+	dc:description "Pompenburgsingel met het Grand Theatre. Abraham Tuschinski stichtte hier Rotterdams eerste avant-gardebioscoop Studio 32." ;
+	dc:date "1935-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/414AD56BDD4C4B638BDB06AD2F83C681>
+	edm:isShownAt <https://hdl.handle.net/21.12133/414AD56BDD4C4B638BDB06AD2F83C681> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4210/NL-RtSA_4210_35-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904390729&mivast=184&rdt=20200809&open=FE665> ;
+	dc:creator "(fotograaf): Richard (R.) Boske" ;
+	dc:title "" ;
+	dc:description "Coolsingel bij avond. Verlichting van Cineac NRC en rechts daarvan van Heck\'s Lunchroom." ;
+	dc:date "1936-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/4AC28732CC0640328AED7A50D35A8FEB>
+	edm:isShownAt <https://hdl.handle.net/21.12133/4AC28732CC0640328AED7A50D35A8FEB> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-1993-1227-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904378329&mivast=184&rdt=20200809&open=C6866> ;
+	dc:creator "" ;
+	dc:title "Kruiskade 1938 ; Serietitel Groeten uit Rotterdam" ;
+	dc:description "Gezicht op de Kruiskade in de omgeving van bioscoop Scala." ;
+	dc:date "1936-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/68710E4A483A4B1B86A7BC3ED9E690F6>
+	edm:isShownAt <https://hdl.handle.net/21.12133/68710E4A483A4B1B86A7BC3ED9E690F6> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_1985-831-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904327327&mivast=184&rdt=20200809&open=EC8AD> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Avondverlichting van bioscoop Cineac en Heck\'s Lunchroom aan de Coolsingel." ;
+	dc:date "1936-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/220A19E711D74179A10EDFB06F8993ED>
+	edm:isShownAt <https://hdl.handle.net/21.12133/220A19E711D74179A10EDFB06F8993ED> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1992-2875-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904535439&mivast=184&rdt=20200809&open=5C3BA> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Bioscoop Theater Lumière aan de Coolsingel." ;
+	dc:date "1937-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/7EE4E1D36D864609BFE64DAB9BE23349>
+	edm:isShownAt <https://hdl.handle.net/21.12133/7EE4E1D36D864609BFE64DAB9BE23349> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1993-3780-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904536231&mivast=184&rdt=20200809&open=C2C21> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht in de Hoogstraat. Links vooraan is het derde pand de bioscoop Asta." ;
+	dc:date "1938-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/D7F7855B07844D279755FA9857A142FB>
+	edm:isShownAt <https://hdl.handle.net/21.12133/D7F7855B07844D279755FA9857A142FB> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_XXV-350-03-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904332989&mivast=184&rdt=20200809&open=3F297> ;
+	dc:creator "(auteur): Bouwpolitie" ;
+	dc:title "" ;
+	dc:description "De Hoogstraat met het Asta Theater.Op de achtergrond de hoek met de Valkensteeg." ;
+	dc:date "1938-12-14"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/2901F8AF66E74DA89F581CE9D0AA9FA8>
+	edm:isShownAt <https://hdl.handle.net/21.12133/2901F8AF66E74DA89F581CE9D0AA9FA8> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-8156-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904388975&mivast=184&rdt=20200809&open=D3F7A> ;
+	dc:creator "" ;
+	dc:title "Kruiskade" ;
+	dc:description "Kruiskade vanuit het westen. Rechts, tussen de Lijnbaanstraat en de Nieuwe Kerkstraat, winkelpanden, hotel Centraal en Luxor Palast." ;
+	dc:date "1939-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/73B4C94F0BD0435195F9AA1431F1630A>
+	edm:isShownAt <https://hdl.handle.net/21.12133/73B4C94F0BD0435195F9AA1431F1630A> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-3782-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904385872&mivast=184&rdt=20200809&open=8F16B> ;
+	dc:creator "" ;
+	dc:title "Rotterdam - Kruiskade" ;
+	dc:description "Kruiskade, ter hoogte van de bioscoop Scala, vanuit het westen." ;
+	dc:date "1939-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/79DD840485244D1C870F6DFB4A65EDD7>
+	edm:isShownAt <https://hdl.handle.net/21.12133/79DD840485244D1C870F6DFB4A65EDD7> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-3120-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904385178&mivast=184&rdt=20200809&open=65227> ;
+	dc:creator "" ;
+	dc:title "Rotterdam. Hoogstraat." ;
+	dc:description "Hoogstraat bij de Wijde Kerksteeg, vanuit het westen, tussen Spui en Vlasmarkt. Op de voorgevel van bioscoop Thalia reclame voor een film van Shirley Temple." ;
+	dc:date "1939-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/E80855BC44F84C7DA575FE8BD0A97945>
+	edm:isShownAt <https://hdl.handle.net/21.12133/E80855BC44F84C7DA575FE8BD0A97945> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-1218-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904373865&mivast=184&rdt=20200809&open=47E1B> ;
+	dc:creator "" ;
+	dc:title "Rotterdam, Coolsingel" ;
+	dc:description "Coolsingel uit het noorden gezien, ter hoogte van de Beurs met bioscoop Cineac-NRC. Op de achtergond, het Erasmushuis (HBU-gebouw, Hollandsche Bank-Unie) en rechts warenhuis de Bijenkorf aan de Schiedamse Vest." ;
+	dc:date "1939-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/541D303078E443AB96E0916A3509D85A>
+	edm:isShownAt <https://hdl.handle.net/21.12133/541D303078E443AB96E0916A3509D85A> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2007-1808-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904548965&mivast=184&rdt=20200809&open=CB99E> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Pompenburgsingel met in het midden de Grand Theâtre, richting Hofplein. Rechts de Gedempte Karnemelksehaven. De verwoesting is veroorzaakt door het Duitse bombardement van 14 mei 1940." ;
+	dc:date "1940-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/38EA551EEBAF4CBEB2B45B1675A2CD08>
+	edm:isShownAt <https://hdl.handle.net/21.12133/38EA551EEBAF4CBEB2B45B1675A2CD08> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-5781-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904387902&mivast=184&rdt=20200809&open=E9F75> ;
+	dc:creator "" ;
+	dc:title "ROTTERDAM GRAND THEATRE" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen bioscoop Grand Theatre aan de Pompenburgsingel. Als gevolg van dit bombardement is het centrum van de stad grotendeels verwoest." ;
+	dc:date "1940-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/869449E7130741198F5F9F0FC2EFB055>
+	edm:isShownAt <https://hdl.handle.net/21.12133/869449E7130741198F5F9F0FC2EFB055> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2005-321-4-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904543759&mivast=184&rdt=20200809&open=F095B> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getrofffen Pompenburgsingel, met de restanten van de bioscoop, het Grand Theâtre. Als gevolg van dit bombardement is het centrum van de stad grotendeels verwoest." ;
+	dc:date "1940-08-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/1F1D3005EB1E4DECA2C53449D40750CA>
+	edm:isShownAt <https://hdl.handle.net/21.12133/1F1D3005EB1E4DECA2C53449D40750CA> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1989-3298-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904534365&mivast=184&rdt=20200809&open=A7476> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Restanten van gebouwen als gevolg van het Duitse bombardement van 14 mei 1940. De westzijde van de Coolsingel ter hoogte van het café \'t verguld Spinwiel en Cineac NRC bioscoop." ;
+	dc:date "1940-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/E6E77BC345AE47F781DD3355529780A7>
+	edm:isShownAt <https://hdl.handle.net/21.12133/E6E77BC345AE47F781DD3355529780A7> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1987-326-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904533372&mivast=184&rdt=20200809&open=CFEF9> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen omgeving van de Ammanstraat en de Kruiskade met de restanten van de gereformeerde Nieuwe Westerkerk en de inrichting voor doofstommen onderwijs. Links het Luxor theater en bioscoop en hotel Central. Als gevolg van dit bombardement is het centrum van de stad grotendeels verwoest." ;
+	dc:date "1940-08-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/CE84CBF1943A4EEF918DB6ED4F8E6FC1>
+	edm:isShownAt <https://hdl.handle.net/21.12133/CE84CBF1943A4EEF918DB6ED4F8E6FC1> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4282/NL-RtSA_4282_XXXIII-626-01-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904552285&mivast=184&rdt=20200809&open=B3EC3> ;
+	dc:creator "(auteur): Centraal Fotopersbureau" ;
+	dc:title "" ;
+	dc:description "Oogst-en dankfeest van de NSB in het Cineactheater aan de Coolsingel." ;
+	dc:date "1942-10-04"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/B0D72E5ECCCF4559A10AEB9DB444E973>
+	edm:isShownAt <https://hdl.handle.net/21.12133/B0D72E5ECCCF4559A10AEB9DB444E973> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4282/NL-RtSA_4282_XXXIII-628-01-1-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904552289&mivast=184&rdt=20200809&open=8583E> ;
+	dc:creator "(auteur): Centraal Fotopersbureau" ;
+	dc:title "" ;
+	dc:description "Ir. A. Mussert spreekt tijdens een propagandavergadering van het Zeevaartfront in het theater Colosseum aan de Beijerlandselaan." ;
+	dc:date "1942-11-21"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/1268E55AABD04E72BEC4A171AFAD4D2C>
+	edm:isShownAt <https://hdl.handle.net/21.12133/1268E55AABD04E72BEC4A171AFAD4D2C> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1993-5213-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904536289&mivast=184&rdt=20200809&open=E4B5C> ;
+	dc:creator "Alex (Lex) (A.) de Herder, 03/01/1927-02/02/2000" ;
+	dc:title "" ;
+	dc:description "Capitol (1932-1962) W.B. Theater aan de Nieuwe Binnenweg 326." ;
+	dc:date "1954-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/51BAB7D2F90C48588E5BCF540704178E>
+	edm:isShownAt <https://hdl.handle.net/21.12133/51BAB7D2F90C48588E5BCF540704178E> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4273/NL-RtSA_4273_L-1951-01.jpg?format=thumb&size=500px&miadt=184&miahd=1740692275&mivast=184&rdt=20200308&open=F5DB4> ;
+	dc:creator "(fotograaf): Fototechnische Dienst Rotterdam; Gemeentewerken Rotterdam" ;
+	dc:title "" ;
+	dc:description "Bioscoop Thalia op de hoek van de Lijnbaan en de Kruiskade met aan de linkerzijde de gevel van bioscoop Lumière." ;
+	dc:date "1956-05-15"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/39CB9B60B7864489A905BCA18675B330>
+	edm:isShownAt <https://hdl.handle.net/21.12133/39CB9B60B7864489A905BCA18675B330> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_209-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904503226&mivast=184&rdt=20200809&open=4B6DD> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Feestverlichting Beijerlandselaan" ;
+	dc:description "Feestverlichting in de Beijerlandselaan ter hoogte van bioscoop Colosseum." ;
+	dc:date "1956-10-26"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/3B06DB053A2B4EDFA6C5B4A6D1FE0C79>
+	edm:isShownAt <https://hdl.handle.net/21.12133/3B06DB053A2B4EDFA6C5B4A6D1FE0C79> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_IX-664-09-137-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904323363&mivast=184&rdt=20200809&open=AA134> ;
+	dc:creator "(auteur): Fototechnische Dienst Rotterdam ( Gemeentewerken, Openbare Werken )" ;
+	dc:title "" ;
+	dc:description "De Coolsingel met warenhuis de Bijenkorf en bioscoop Cineac-NRC, links de Van Oldenbarneveltstraat, gezien vanaf het bordes van de Beurs." ;
+	dc:date "1957-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/528D2D7B737B4FBC8D527437BB01B29A>
+	edm:isShownAt <https://hdl.handle.net/21.12133/528D2D7B737B4FBC8D527437BB01B29A> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_IX-664-09-135-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904323361&mivast=184&rdt=20200809&open=E74A0> ;
+	dc:creator "(auteur): Fototechnische Dienst Rotterdam ( Gemeentewerken, Openbare Werken )" ;
+	dc:title "" ;
+	dc:description "De Coolsingel, v.l.n.r. warenhuis de Bijenkorf, bioscoop Cineac-NRC, hotel Atlanta, de Aert van Nesstraat en de Bank voor Handel en Scheepvaart." ;
+	dc:date "1957-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/4B6B28D551024446AA494338D85AD7B5>
+	edm:isShownAt <https://hdl.handle.net/21.12133/4B6B28D551024446AA494338D85AD7B5> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_350-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904503388&mivast=184&rdt=20200809&open=96291> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Beleefde chauffeur Kruiskade" ;
+	dc:description "Chauffeur stopt voor overstekende dame nabij bioscoop Thalia aan de Kruiskade." ;
+	dc:date "1957-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/C1F9A2AB546C4A268C3AD6E3E3EA9E07>
+	edm:isShownAt <https://hdl.handle.net/21.12133/C1F9A2AB546C4A268C3AD6E3E3EA9E07> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_459-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904503533&mivast=184&rdt=20200809&open=FEB46> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Lampen Cineac" ;
+	dc:description "Verlichting in de nieuwe bioscoop Cineac NRC." ;
+	dc:date "1957-03-18"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/DF2301AD4C9541DD96DB726F8E97D9D0>
+	edm:isShownAt <https://hdl.handle.net/21.12133/DF2301AD4C9541DD96DB726F8E97D9D0> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_1091-3-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904504272&mivast=184&rdt=20200809&open=AFF33> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Opening Scala theater" ;
+	dc:description "Interieur van het nieuwe Scalatheater aan de Westblaak dat door burgemeester Van Walsum werd geopend." ;
+	dc:date "1957-12-12"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/A6EC99A8A7704B61AACF456183F5C086>
+	edm:isShownAt <https://hdl.handle.net/21.12133/A6EC99A8A7704B61AACF456183F5C086> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_1091-2-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904504271&mivast=184&rdt=20200809&open=56A95> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Opening Scala theater" ;
+	dc:description "Interieur van het nieuwe Scalatheater aan de Westblaak dat door burgemeester Van Walsum werd geopend." ;
+	dc:date "1957-12-12"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/E8A23F8B8FF442BD834210FD70718B0E>
+	edm:isShownAt <https://hdl.handle.net/21.12133/E8A23F8B8FF442BD834210FD70718B0E> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_XIV-419-12-00-52-02-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904324336&mivast=184&rdt=20200809&open=A708E> ;
+	dc:creator "(auteur): Fototechnische Dienst Rotterdam ( Gemeentewerken, Openbare Werken )" ;
+	dc:title "" ;
+	dc:description "De Coolsingel met warenhuis de Bijenkorf, de sculptuur/metaalplastiekvervaardigd door beeldhouwer Naum Gabo, rechts bioscoop Cineac-NRC, links de Van Oldenbarneveltstraat, gezien vanaf het bordes van de Beurs, bij avond." ;
+	dc:date "1958-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/130EAD12B33846D6A88D370908C98293>
+	edm:isShownAt <https://hdl.handle.net/21.12133/130EAD12B33846D6A88D370908C98293> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_1977-746-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904327087&mivast=184&rdt=20200809&open=08620> ;
+	dc:creator "(auteur): Gemeentepolitie Rotterdam" ;
+	dc:title "" ;
+	dc:description "De Coolsingel met op de voorgrond een parkeerplaats voor fietsen en bromfietsen voor warenhuis de Bijenkorf en bioscoop Cineac-NRC." ;
+	dc:date "1958-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/958D82CC4E3F4C51B8E8988706F54131>
+	edm:isShownAt <https://hdl.handle.net/21.12133/958D82CC4E3F4C51B8E8988706F54131> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_3579-2-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904505779&mivast=184&rdt=20200809&open=C8193> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Lutusca in stadsbeeld" ;
+	dc:description "Noodbioscoop Lutusca-theater aan het Kruisplein, op de achtergrond een Lijnbaanflat." ;
+	dc:date "1959-09-28"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/381ECC779AE743D4AA0D8F28553C5D0C>
+	edm:isShownAt <https://hdl.handle.net/21.12133/381ECC779AE743D4AA0D8F28553C5D0C> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_3579-1-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904505778&mivast=184&rdt=20200809&open=841D7> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Lutusca in stadsbeeld" ;
+	dc:description "Noodbioscoop Lutusca-theater aan de Kruiskade, op de achtergrond een Lijnbaanflat en het Rijnhotel." ;
+	dc:date "1959-09-28"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/B13EECD014D84B998DEB3B9FF7681EA8>
+	edm:isShownAt <https://hdl.handle.net/21.12133/B13EECD014D84B998DEB3B9FF7681EA8> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2005-8894-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904547572&mivast=184&rdt=20200809&open=DB64F> ;
+	dc:creator "Alex (Lex) (A.) de Herder, 03/01/1927-02/02/2000" ;
+	dc:title "" ;
+	dc:description "De Kruiskade uit westelijke richting gezien." ;
+	dc:date "1961-08-28"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/2973C3C0D81E46E5BCE71A4F6939FE80>
+	edm:isShownAt <https://hdl.handle.net/21.12133/2973C3C0D81E46E5BCE71A4F6939FE80> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_304204-30-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904515245&mivast=184&rdt=20200809&open=DBE59> ;
+	dc:creator "" ;
+	dc:title "Filmoperateur Cinerama" ;
+	dc:description "Een filmoperateur in bioscoop Cinerama aan de Westblaak. De bioscoop (voorheen Scala) werd na verbouwing geopend op 15-07-1960." ;
+	dc:date "1962-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/B63018EFBDFB4B8590BCF970D0893604>
+	edm:isShownAt <https://hdl.handle.net/21.12133/B63018EFBDFB4B8590BCF970D0893604> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_7634-1-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904508238&mivast=184&rdt=20200809&open=66DA9> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Stil Stadhuisplein" ;
+	dc:description "Verlaten Stadhuisplein in avondlicht met lunchroom Ruteck\'s en ingang bioscoop Corso en de Lijnbaan." ;
+	dc:date "1964-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/2625C1DAAB4349E3944B5E54F6C6D7CC>
+	edm:isShownAt <https://hdl.handle.net/21.12133/2625C1DAAB4349E3944B5E54F6C6D7CC> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_304508-28-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904515299&mivast=184&rdt=20200809&open=F27AA> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Overzicht Lijnbaan / Stadhuisplein en omgeving" ;
+	dc:description "Overzicht bij avond van de Lijnbaan, het Stadhuisplein met het stadhuis en de Kruiskade met het Hiltonhotel." ;
+	dc:date "1965-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/B63BB27431404B429D1EB0687C4046A6>
+	edm:isShownAt <https://hdl.handle.net/21.12133/B63BB27431404B429D1EB0687C4046A6> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_8090-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904508594&mivast=184&rdt=20200809&open=95EF7> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "My Fair Lady in Corso theater" ;
+	dc:description "Bioscooptheater Corso aan de Kruiskade met reclame voor film My Fair Lady. Op de voorgrond rechts bevindt zich op de Lijnbaan juwelierszaak van Leo van Ierland." ;
+	dc:date "1965-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/A5319F4C0A164162ABAF3A81AC354250>
+	edm:isShownAt <https://hdl.handle.net/21.12133/A5319F4C0A164162ABAF3A81AC354250> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_7952-1-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904508487&mivast=184&rdt=20200809&open=23F75> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Kruiskade" ;
+	dc:description "Kruiskade met paviljoenwinkels en bioscoop Corso waar film My Fair Lady draait. Op de achtergrond stadhuistoren en het Holbeinhuis." ;
+	dc:date "1965-05-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/F5BE37AC3112478C9827F40893253B3F>
+	edm:isShownAt <https://hdl.handle.net/21.12133/F5BE37AC3112478C9827F40893253B3F> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_305692-22-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904515555&mivast=184&rdt=20200809&open=D227F> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Grondboring Coolsingel t.h.v. de Bijenkorf" ;
+	dc:description "Grondboring op de Coolsingel ter hoogte van de bioscoop Cineac rechts van de Bijenkorf." ;
+	dc:date "1967-04-07"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/69462A7F672D4F99827DAFD0A16233DC>
+	edm:isShownAt <https://hdl.handle.net/21.12133/69462A7F672D4F99827DAFD0A16233DC> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_1968-1779-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904326180&mivast=184&rdt=20200809&open=AD5EE> ;
+	dc:creator "(auteur): Fototechnische Dienst Rotterdam ( Gemeentewerken, Openbare Werken )" ;
+	dc:title "" ;
+	dc:description "De Coolsingel met van links naar rechts een deel van warenhuis de Bijenkorf, bioscoop Cineac-NRC, hotel Atlanta op de hoek met de Aert van Nesstraat, gezien vanaf de Meent." ;
+	dc:date "1967-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/A2B6DF4AC1D44F25A560648E3F601916>
+	edm:isShownAt <https://hdl.handle.net/21.12133/A2B6DF4AC1D44F25A560648E3F601916> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1993-6481-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904536531&mivast=184&rdt=20200809&open=1F582> ;
+	dc:creator "Alex (Lex) (A.) de Herder, 03/01/1927-02/02/2000" ;
+	dc:title "" ;
+	dc:description "De West-Kruiskade voor Arena bioscoop, uit westelijke richting gezien. Links op de achtergrond muziekgebouw De Doelen." ;
+	dc:date "1968-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/516F0984B1914FE895D8AD73A0F39C30>
+	edm:isShownAt <https://hdl.handle.net/21.12133/516F0984B1914FE895D8AD73A0F39C30> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_21009-7-42-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904512495&mivast=184&rdt=20200809&open=9FA50> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Balustrade Coolsingel" ;
+	dc:description "Een houten balustrade langs de trambaan op de Coolsingel. Op de achtergrond het stadhuis en rechts de bioscoop Cineac Beurs." ;
+	dc:date "1968-06-20"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/936FAC586A15481BA2DFE1E85FBD4D50>
+	edm:isShownAt <https://hdl.handle.net/21.12133/936FAC586A15481BA2DFE1E85FBD4D50> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_20968-3-9-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904512462&mivast=184&rdt=20200809&open=93BA6> ;
+	dc:creator "" ;
+	dc:title "Het Stadhuisplein met de oude ingang Corso theater" ;
+	dc:description "De gesloten hoofdingang van het Corso bioscooptheater op het Stadhuisplein. Links Ruteck\'s Promenade Restaurant op Stadhuisplein 41." ;
+	dc:date "1968-05-23"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/7A9C64C944CA4862B8091D7CB6CC2246>
+	edm:isShownAt <https://hdl.handle.net/21.12133/7A9C64C944CA4862B8091D7CB6CC2246> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_21302-5-1-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904512772&mivast=184&rdt=20200809&open=9CF01> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Exterieur nieuwe bioscoop Calypso" ;
+	dc:description "Exterieur nieuwe bioscoop Calypso aan de Mauritsweg naast de Pauluskerk." ;
+	dc:date "1969-03-16"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/EC25689E98DA40278659473BB796C631>
+	edm:isShownAt <https://hdl.handle.net/21.12133/EC25689E98DA40278659473BB796C631> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_21302-4-41-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904512771&mivast=184&rdt=20200809&open=72D3F> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Interieur nieuwe bioscoop Calypso" ;
+	dc:description "Interieur nieuwe bioscoop Calypso (Mauritszaal van het voormalige AMVJ-gebouw) aan de Mauritsweg naar ontwerp van binnenhuisarchitect Carl Wirtz in samenwerking met het architectenbureau Elling." ;
+	dc:date "1969-03-16"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/BA5A5BF138C6409E8315AD5B0F1BEB3C>
+	edm:isShownAt <https://hdl.handle.net/21.12133/BA5A5BF138C6409E8315AD5B0F1BEB3C> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_1969-2891-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904334009&mivast=184&rdt=20200809&open=74ED7> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de ingang van het theater \'t Venster aan de Gouvernestraat." ;
+	dc:date "1969-06-19"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/8DAF3A2B8607498C995455103CC97B50>
+	edm:isShownAt <https://hdl.handle.net/21.12133/8DAF3A2B8607498C995455103CC97B50> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_1969-2890-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904334008&mivast=184&rdt=20200809&open=2BF9A> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de ingang van het theater \'t Venster aan de Gouvernestraat." ;
+	dc:date "1969-06-19"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/038560DAFE93424584AFAABA394E5566>
+	edm:isShownAt <https://hdl.handle.net/21.12133/038560DAFE93424584AFAABA394E5566> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_1969-2887-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904334005&mivast=184&rdt=20200809&open=AA85D> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht in de Gouvernestraat met links de vereniging Ons Huis / de Lantaren / \'t Venster." ;
+	dc:date "1969-06-19"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/E12D0FDB4D2F49D88F101C3175973296>
+	edm:isShownAt <https://hdl.handle.net/21.12133/E12D0FDB4D2F49D88F101C3175973296> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_11950-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904510517&mivast=184&rdt=20200809&open=82EDB> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Cineac-AD" ;
+	dc:description "Exterieur van de bioscoop Cineac AD, in het Beursgebouw aan de Coolsingel 60." ;
+	dc:date "1970-07-09"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/203684E23E6248848CCB0AE61E29C51D>
+	edm:isShownAt <https://hdl.handle.net/21.12133/203684E23E6248848CCB0AE61E29C51D> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4282/NL-RtSA_4282_1970-2127.jpg?format=thumb&size=500px&miadt=184&miahd=1904553767&mivast=184&rdt=20200809&open=5B38B> ;
+	dc:creator "(fotograaf): Vrijmoet, H.M." ;
+	dc:title "" ;
+	dc:description "Op de Coolsingel naast bioscoop Cineac N.R.C. staat een bord met de tekst \'herbouw laatste gedeelte Coolsingel\' en \'Wereldhaven Rotterdam\'." ;
+	dc:date "1970-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/E9A7EE598B8E473084468F2594034384>
+	edm:isShownAt <https://hdl.handle.net/21.12133/E9A7EE598B8E473084468F2594034384> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_23563-2-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904513877&mivast=184&rdt=20200809&open=4F7D5> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Cineac Beurs" ;
+	dc:description "Mensen in de rij voor bioscoop Cineac Beurs op de Coolsingel." ;
+	dc:date "1972-08-04"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/D13A884DDE54433EBA8DEFDCB3EC6876>
+	edm:isShownAt <https://hdl.handle.net/21.12133/D13A884DDE54433EBA8DEFDCB3EC6876> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_23349-5-35-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904513796&mivast=184&rdt=20200809&open=2CC61> ;
+	dc:creator "" ;
+	dc:title "Beijerlandselaan" ;
+	dc:description "De Beijerlandselaan met links de buurtbioscoop Colosseum." ;
+	dc:date "1972-05-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/585757789B4E4680A1123443D7D14D34>
+	edm:isShownAt <https://hdl.handle.net/21.12133/585757789B4E4680A1123443D7D14D34> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_1972-2047-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904334708&mivast=184&rdt=20200809&open=17E3C> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "De gevel van theater \'t Venster in de Gouvernestraat met muurschildering." ;
+	dc:date "1972-10-03"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/CD7DE6372AB945D6B0890C9AA26A5583>
+	edm:isShownAt <https://hdl.handle.net/21.12133/CD7DE6372AB945D6B0890C9AA26A5583> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_24616-7-32-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904514414&mivast=184&rdt=20200809&open=006B4> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Cineac Beurs" ;
+	dc:description "Drukte op de Coolsingel bij Cineac Beurs in verband met de vertoning van de Disneyfilm 101 Dalmatiërs." ;
+	dc:date "1973-11-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/18BAD3CAC81149F8AC2318506AEE98D9>
+	edm:isShownAt <https://hdl.handle.net/21.12133/18BAD3CAC81149F8AC2318506AEE98D9> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2005-6535-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904545326&mivast=184&rdt=20200809&open=D8A4C> ;
+	dc:creator "Alex (Lex) (A.) de Herder, 03/01/1927-02/02/2000" ;
+	dc:title "" ;
+	dc:description "De Coolsingel uit noordoostelijke richting gezien." ;
+	dc:date "1973-08-22"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/3EDFDC5FC76449AA9EE7FD6E465E59B2>
+	edm:isShownAt <https://hdl.handle.net/21.12133/3EDFDC5FC76449AA9EE7FD6E465E59B2> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_1973-1450-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904326803&mivast=184&rdt=20200809&open=07D7D> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Laatste bebouwing tussen bioscoop Cineac-NRC (links) en hotel Atlanta (rechts) aan de Coolsingel, uiterst links warenhuis de Bijenkorf." ;
+	dc:date "1973-08-24"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/7AA853447F9E499F97A606561BFDCBB4>
+	edm:isShownAt <https://hdl.handle.net/21.12133/7AA853447F9E499F97A606561BFDCBB4> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_24764-3-32-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904514544&mivast=184&rdt=20200809&open=7E835> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Lumière" ;
+	dc:description "De bioscoop Lumière op de hoek van de Kruiskade en de Lijnbaan. Op 11-07-1974 is Lumiere I geopend; Lumiere III was al voor die datum in gebruik genomen en eind augustus wordt Lumiere II geopend. De grote verbouwing is dan afgerond." ;
+	dc:date "1974-07-11"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/B60A17100E16422FB506208348E50326>
+	edm:isShownAt <https://hdl.handle.net/21.12133/B60A17100E16422FB506208348E50326> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_1976-1790-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904336062&mivast=184&rdt=20200809&open=E7875> ;
+	dc:creator "Stadsarchief Rotterdam" ;
+	dc:title "" ;
+	dc:description "Bioscooptheater Rex is gevestigd in oorspronkelijk woonhuizen, op nummers 115 en 117 aan de Eerste Middellandstraat. Op de eerste verdieping de aanduiding van de opening op 1 mei van de tweede bioscoop in het gebouwencomplex. Rechts supermarkt Bas van der Heijden." ;
+	dc:date "1976-04-22"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/3C6BE7BA83EA4BDBA0A08BFBBA2EC539>
+	edm:isShownAt <https://hdl.handle.net/21.12133/3C6BE7BA83EA4BDBA0A08BFBBA2EC539> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1977-525-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904528301&mivast=184&rdt=20200809&open=66732> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Bioscoop \"Colosseum\" op nr. 78 aan de Beijerlandselaan. Rechts de hoek Groningerstraat." ;
+	dc:date "1977-03-20"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/9CE4D5D9B681427A909F23B71C5870AC>
+	edm:isShownAt <https://hdl.handle.net/21.12133/9CE4D5D9B681427A909F23B71C5870AC> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_1977-2638-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904327040&mivast=184&rdt=20200809&open=7519A> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Bioscoop \"Colosseum\" op nr. 78 aan de Beijerlandselaan." ;
+	dc:date "1977-08-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/14BC6EC7D55B4B069D0D2295F01307FE>
+	edm:isShownAt <https://hdl.handle.net/21.12133/14BC6EC7D55B4B069D0D2295F01307FE> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_26045-2-8-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904515144&mivast=184&rdt=20200809&open=F4A39> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Rex Theater" ;
+	dc:description "Het verbouwde Rex Theater, een wijkbioscoop aan de 2e Middellandstraat, op 01-02-1978 geopend door burgemeester André van der Louw." ;
+	dc:date "1978-02-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/CEF6686BDA9C44E9B05FDBA6663E49C7>
+	edm:isShownAt <https://hdl.handle.net/21.12133/CEF6686BDA9C44E9B05FDBA6663E49C7> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2005-5428-EN-5429-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904544193&mivast=184&rdt=20200809&open=12EB9> ;
+	dc:creator "Alex (Lex) (A.) de Herder, 03/01/1927-02/02/2000" ;
+	dc:title "" ;
+	dc:description "BioscoopbezoekVan boven naar beneden afgebeeld:-5428: Op de Coolsingel staan een rij mensen voor de bioscoop Cineac in het Beursgebouw voor de film \'Saturday night fever\'.-5429: Idem." ;
+	dc:date "1978-06-10"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/73FC9BE35824433F91DFBC4671019135>
+	edm:isShownAt <https://hdl.handle.net/21.12133/73FC9BE35824433F91DFBC4671019135> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1980-558-TM-560-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904529544&mivast=184&rdt=20200809&open=F37B5> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Bioscoop Grand en Studio 62 aan de Nieuwe Binnenweg 326.Afgebeeld van boven naar beneden:-558: -559: -560:" ;
+	dc:date "1980-01-25"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/2FA3A0F111124EE7B25AFA8BECB1779F>
+	edm:isShownAt <https://hdl.handle.net/21.12133/2FA3A0F111124EE7B25AFA8BECB1779F> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1984-248%2C-249-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904532023&mivast=184&rdt=20200809&open=26EC7> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Bioscoop Cineac in de Beurs.Van boven naar beneden afgebeeld:- 248: Bioscoopzaal.- 249: Idem." ;
+	dc:date "1984-01-18"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/97BEDDB821DB4E54BE10CCE4AD738BA2>
+	edm:isShownAt <https://hdl.handle.net/21.12133/97BEDDB821DB4E54BE10CCE4AD738BA2> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1984-245-TM-247-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904532002&mivast=184&rdt=20200809&open=30CEB> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Bioscoop Cineac in de Beurs.Van boven naar beneden afgebeeld:- 245: Bioscoopzaal.- 246: Idem.- 247: Foyer." ;
+	dc:date "1984-01-18"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/B79E331CFB444BAD91F5F2E20DA374E8>
+	edm:isShownAt <https://hdl.handle.net/21.12133/B79E331CFB444BAD91F5F2E20DA374E8> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1984-239-TM-244-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904531992&mivast=184&rdt=20200809&open=10E73> ;
+	dc:creator "Stadsarchief Rotterdam" ;
+	dc:title "" ;
+	dc:description "Bioscoop Cineac in de Beurs.Van boven naar beneden afgebeeld:- 239: Ingang aan de Coolsingel.- 240: Idem.- 241: Foyer.- 242: Bioscoopzaal.- 243: Hal bij de in/uitgang met kassa.- 244: Bioscoopzaal." ;
+	dc:date "1984-01-18"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/54D3236383164BAFAD9B1268948EDD60>
+	edm:isShownAt <https://hdl.handle.net/21.12133/54D3236383164BAFAD9B1268948EDD60> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1984-233-TM-238-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904531965&mivast=184&rdt=20200809&open=9D5F7> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Bioscoop Cineac in de Beurs.Van boven naar beneden afgebeeld:- 233: Ingang aan de Coolsingel.- 234: Idem.- 235: De hal.- 236: Filmcabine.- 237: Idem.- 238: Bioscoopzaal." ;
+	dc:date "1984-01-18"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/4C205C6D14574DD9B63C3A04BAD442D5>
+	edm:isShownAt <https://hdl.handle.net/21.12133/4C205C6D14574DD9B63C3A04BAD442D5> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1984-989-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904532315&mivast=184&rdt=20200809&open=AAA77> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Bioscoop Cineac-NRC aan de Coolsingel." ;
+	dc:date "1984-02-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/BB409C03CEB0437898C23B7224926FDB>
+	edm:isShownAt <https://hdl.handle.net/21.12133/BB409C03CEB0437898C23B7224926FDB> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1988-1243-TM-1245-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904533509&mivast=184&rdt=20200809&open=AC2A2> ;
+	dc:creator "Stadsarchief Rotterdam" ;
+	dc:title "" ;
+	dc:description "Gezichten op de West-Kruiskade vanuit wijkpark Het Oude Westen.Afgebeeld van boven naar beneden:-1243: Arena-gebouw (links);-1244:-1245: links op de achtergrond het Arena-gebouw." ;
+	dc:date "1988-03-22"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/77F838CDEDCA41D4ACBE0C3359C33CD9>
+	edm:isShownAt <https://hdl.handle.net/21.12133/77F838CDEDCA41D4ACBE0C3359C33CD9> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2005-8463-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904547143&mivast=184&rdt=20200809&open=E6A97> ;
+	dc:creator "Alex (Lex) (A.) de Herder, 03/01/1927-02/02/2000" ;
+	dc:title "" ;
+	dc:description "Een vrachtauto van De Lantaren/ Het Venster." ;
+	dc:date "1988-05-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/4FD93C5AA25D46BA8503597DAF7F081A>
+	edm:isShownAt <https://hdl.handle.net/21.12133/4FD93C5AA25D46BA8503597DAF7F081A> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2005-11210-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904543281&mivast=184&rdt=20200809&open=F6397> ;
+	dc:creator "Alex (Lex) (A.) de Herder, 03/01/1927-02/02/2000" ;
+	dc:title "" ;
+	dc:description "Het Lumière theater aan de Lijnbaan op de voorgrond de Kruiskade." ;
+	dc:date "1988-10-12"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/6879DE90FB4646E28528A49C51D2CC8C>
+	edm:isShownAt <https://hdl.handle.net/21.12133/6879DE90FB4646E28528A49C51D2CC8C> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2005-11209-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904543280&mivast=184&rdt=20200809&open=8B0BF> ;
+	dc:creator "Alex (Lex) (A.) de Herder, 03/01/1927-02/02/2000" ;
+	dc:title "" ;
+	dc:description "Het Thalia theater aan de Kruiskade." ;
+	dc:date "1988-10-12"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/EB1C7B9718D44CC394284F1336AA446B>
+	edm:isShownAt <https://hdl.handle.net/21.12133/EB1C7B9718D44CC394284F1336AA446B> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4277/NL-RtSA_4277_FL-81-01.jpg?format=thumb&size=500px&miadt=184&miahd=1740683875&mivast=184&rdt=20200308&open=6CD1D> ;
+	dc:creator "(fotograaf): Fred (F.T.) Lit" ;
+	dc:title "Kruiskade vanaf de Lijnbaan in de richting van de Coolsingel" ;
+	dc:description "Café restaurant Beurs in het gebouw van de Thaliabioscoop aan de Kruiskade." ;
+	dc:date "2015-04-18"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/285CA3CDDFCC43EAB9C3282540958443>
+	edm:isShownAt <https://hdl.handle.net/21.12133/285CA3CDDFCC43EAB9C3282540958443> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_IX-564-01-05-1-TM-3-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904522650&mivast=184&rdt=20200809&open=EB643> ;
+	dc:creator "(auteur): P.M. (P.M.) Vijverberg" ;
+	dc:title "" ;
+	dc:description "De Coolvest en de Coolsingel. Van boven naar beneden afgebeeld:- 1: Bij het theater Casino Variéte.- 2: Met wagen van de posterijen.- 3: Ter hoogte van nr. 34." ;
+	dc:date "1908-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/30B5CBD0DEE8487BA9F39F88E0F7E244>
+	edm:isShownAt <https://hdl.handle.net/21.12133/30B5CBD0DEE8487BA9F39F88E0F7E244> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2005-5021-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904543795&mivast=184&rdt=20200809&open=C6825> ;
+	dc:creator "Alex (Lex) (A.) de Herder, 03/01/1927-02/02/2000" ;
+	dc:title "" ;
+	dc:description "Het interieur van het Casino Variété, met links in de orkestbak de cellist Alex de Herder." ;
+	dc:date "1910-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/3AFCD0AF86624CCA87C355F17F630E64>
+	edm:isShownAt <https://hdl.handle.net/21.12133/3AFCD0AF86624CCA87C355F17F630E64> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1988-3083-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904533752&mivast=184&rdt=20200809&open=BD093> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Theaterzaal van theater Casino Variété aan de Coolsingel." ;
+	dc:date "1911-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/29CC2706443846908C9A56430026E125>
+	edm:isShownAt <https://hdl.handle.net/21.12133/29CC2706443846908C9A56430026E125> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4287/NL-RtSA_4287_XXXIII-569-33-2-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904555427&mivast=184&rdt=20200809&open=04557> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Restanten van het Grand Theater aan de Pompenburgsingel, na het bombardement van 14 mei 1940." ;
+	dc:date "1940-05-16"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/1374379FEE574B0A840B39C44EA2006F>
+	edm:isShownAt <https://hdl.handle.net/21.12133/1374379FEE574B0A840B39C44EA2006F> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2003-1107-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904540540&mivast=184&rdt=20200809&open=00621> ;
+	dc:creator "" ;
+	dc:title "Bosjeskerk of H. Antonius van Padua" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen omgeving van de Linker Rottekade. Restanten van de rk kerk van de H. Antonius van Padua ook wel genoemd de Bosjeskerk aan het Boschje , en de restanten van het Grand theater aan de Pompenburgsingel als gevolg van het bombardement is het centrum van de stad grotendeels verwoest." ;
+	dc:date "1940-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/D9B2623EDB524638BA3D986CBE563596>
+	edm:isShownAt <https://hdl.handle.net/21.12133/D9B2623EDB524638BA3D986CBE563596> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2001-2258-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904540036&mivast=184&rdt=20200809&open=7A138> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen Pompenburgsingel met de restanten van het Grand Theater. Als gevolg van dit bombardement is het centrum van de stad grotendeels verwoest." ;
+	dc:date "1940-05-16"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/A672803257614F41AB342A5E8B72B420>
+	edm:isShownAt <https://hdl.handle.net/21.12133/A672803257614F41AB342A5E8B72B420> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2001-2039-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904539820&mivast=184&rdt=20200809&open=D8798> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen Pompenburgsingel met de restanten van het Grand Theater. Als gevolg van dit bombardement is het centrum van de stad grotendeels verwoest." ;
+	dc:date "1940-05-16"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/0722FA84831443E9B4FD6C8237EC07EF>
+	edm:isShownAt <https://hdl.handle.net/21.12133/0722FA84831443E9B4FD6C8237EC07EF> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2001-2038-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904539819&mivast=184&rdt=20200809&open=BEDD2> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen Pompenburgsingel met de restanten van het Grand Theater. Als gevolg van dit bombardement is het centrum van de stad grotendeels verwoest." ;
+	dc:date "1940-05-16"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/BE74001AF98A4177B2E0FEF2BB016C9B>
+	edm:isShownAt <https://hdl.handle.net/21.12133/BE74001AF98A4177B2E0FEF2BB016C9B> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2001-1497-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904539387&mivast=184&rdt=20200809&open=13418> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen Pompenburgsingel met de restanten van het Grand Theater. Als gevolg van dit bombardement is het centrum van de stad grotendeels verwoest." ;
+	dc:date "1940-05-16"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/BFC59D838D6E480BB01A756F8823B817>
+	edm:isShownAt <https://hdl.handle.net/21.12133/BFC59D838D6E480BB01A756F8823B817> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2001-1495-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904539386&mivast=184&rdt=20200809&open=80E5C> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen Pompenburgsingel met de restanten van het Grand Theater. Als gevolg van dit bombardement is het centrum van de stad grotendeels verwoest." ;
+	dc:date "1940-05-16"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/CBFD4C8EC95940309F49B5B2E7C0C939>
+	edm:isShownAt <https://hdl.handle.net/21.12133/CBFD4C8EC95940309F49B5B2E7C0C939> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1998-1003-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904537931&mivast=184&rdt=20200809&open=A77D9> ;
+	dc:creator "" ;
+	dc:title "Hoogstraat" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen omgeving van de Hoogstraat met restanten van het City theater op nrs. 136-140. Als gevolg van dit bombardement is het centrum van de stad grotendeels verwoest." ;
+	dc:date "1940-05-14"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/731460A89E0E4AE9945066BF73A82D0E>
+	edm:isShownAt <https://hdl.handle.net/21.12133/731460A89E0E4AE9945066BF73A82D0E> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1995-484-13-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904537590&mivast=184&rdt=20200809&open=A0F6D> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen Pompenburgsingel met de restanten van het Grand Theater. Als gevolg van dit bombardement is het centrum van de stad grotendeels verwoest." ;
+	dc:date "1940-05-16"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/593C2EA4768C443E9430465E28950290>
+	edm:isShownAt <https://hdl.handle.net/21.12133/593C2EA4768C443E9430465E28950290> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1988-33-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904533771&mivast=184&rdt=20200809&open=7B5C5> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Restanten van links: P. v. Reewijk meubelfabriek, in het midden warenhuis Vroom & Dreesmann en rechts City-theater aan de Hoogstraat, als gevolg van het Duitse bombardement van 14 mei 1940." ;
+	dc:date "1940-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/9AF29D89B10945C7A2893812431419C4>
+	edm:isShownAt <https://hdl.handle.net/21.12133/9AF29D89B10945C7A2893812431419C4> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1985-550-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904532536&mivast=184&rdt=20200809&open=C0E54> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de Pompenburgsingel met het verwoeste Grand Theater, als gevolg van het bombardement van 14 mei 1940." ;
+	dc:date "1940-05-14"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/D4B27F478B98435881E07CB46621E2E5>
+	edm:isShownAt <https://hdl.handle.net/21.12133/D4B27F478B98435881E07CB46621E2E5> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1983-4655-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904531620&mivast=184&rdt=20200809&open=74953> ;
+	dc:creator "" ;
+	dc:title "Asta Theater" ;
+	dc:description "Gezien vanaf Boerensteiger en Valkensteeg in de richting van de restanten van het Asta theater aan de Hoogstraat, als gevolg van het Duitse bombardement van 14 mei 1940. ." ;
+	dc:date "1940-05-14"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/0B79BB2AFF2C4FC183A0C84EB37BC7F6>
+	edm:isShownAt <https://hdl.handle.net/21.12133/0B79BB2AFF2C4FC183A0C84EB37BC7F6> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4287/NL-RtSA_4287_1980-1710-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904555846&mivast=184&rdt=20200809&open=2D83A> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Restanten van het Grand Theater aan de Pompenburgsingel, na het bombardement van 14 mei 1940." ;
+	dc:date "1940-06-23"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/65E28421DFED42D285CF192DAFE55803>
+	edm:isShownAt <https://hdl.handle.net/21.12133/65E28421DFED42D285CF192DAFE55803> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4282/NL-RtSA_4282_XXXIII-634-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904552309&mivast=184&rdt=20200809&open=202E7> ;
+	dc:creator "Erich Adolf (E.A.) Hof, 1943-" ;
+	dc:title "" ;
+	dc:description "Een korenveld langs de Kruisstraat. Op de achtergrond het stadhuis aan de Coolsingel en rechts het theater Luxor Palast en Hotel Centraal aan de Kruiskade." ;
+	dc:date "1943-09-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/867D81CE5443481997EDAA2CEA1B37FB>
+	edm:isShownAt <https://hdl.handle.net/21.12133/867D81CE5443481997EDAA2CEA1B37FB> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4130/NL-RtSA_4130_1976-2373-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904322311&mivast=184&rdt=20200809&open=C7D22> ;
+	dc:creator "(auteur): Gerard Roos" ;
+	dc:title "" ;
+	dc:description "Gezicht op de Kruiskade en hoek van de Nieuwe Kerkstraat met het Luxor theater en hotel Centraal." ;
+	dc:date "1946-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/6D2EB6FEAF004BBCB311FE6ED62140EF>
+	edm:isShownAt <https://hdl.handle.net/21.12133/6D2EB6FEAF004BBCB311FE6ED62140EF> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4130/NL-RtSA_4130_1976-2372-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904322310&mivast=184&rdt=20200809&open=70DED> ;
+	dc:creator "(auteur): Gerard Roos" ;
+	dc:title "" ;
+	dc:description "Gezicht op de Kruiskade met het Luxor theater en hotel Centraal." ;
+	dc:date "1946-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/97DE1F4EE66C48C485545C9BE9FCEAEA>
+	edm:isShownAt <https://hdl.handle.net/21.12133/97DE1F4EE66C48C485545C9BE9FCEAEA> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_973-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904504145&mivast=184&rdt=20200809&open=0463F> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Uitvoering Kracht en Vlugheid" ;
+	dc:description "Demonstratie van de Christelijke Gymnastiekvereniging Kracht en Vlugheid in theater Luxor." ;
+	dc:date "1957-10-31"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/7C004AC9A2D54ECB8DA0BB2C3101DC8F>
+	edm:isShownAt <https://hdl.handle.net/21.12133/7C004AC9A2D54ECB8DA0BB2C3101DC8F> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_1091-1-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904504270&mivast=184&rdt=20200809&open=35B56> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Opening Scala theater" ;
+	dc:description "Het nieuwe Scalatheater aan de Westblaak." ;
+	dc:date "1957-12-12"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/B4A36E6AB51E4D8EAB3500A4A03BE3A8>
+	edm:isShownAt <https://hdl.handle.net/21.12133/B4A36E6AB51E4D8EAB3500A4A03BE3A8> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_4380-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904506177&mivast=184&rdt=20200809&open=346F5> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Larsen in Luxor" ;
+	dc:description "Regisseur van My fair Lady, Sven Aage Larsen, in het Luxortheater." ;
+	dc:date "1960-07-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/FB47D93ED983421BB97D47E43D872429>
+	edm:isShownAt <https://hdl.handle.net/21.12133/FB47D93ED983421BB97D47E43D872429> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_4379-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904506176&mivast=184&rdt=20200809&open=F7B2D> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Chiel de Mey met decor My Fair Lady" ;
+	dc:description "Decorbouwer Chiel de Mey met decor voor My Fair Lady." ;
+	dc:date "1960-07-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/172A856DE6E7443297FE9D1638417A2D>
+	edm:isShownAt <https://hdl.handle.net/21.12133/172A856DE6E7443297FE9D1638417A2D> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_4608-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904506293&mivast=184&rdt=20200809&open=8E2B5> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Acteur Johan Kaart" ;
+	dc:description "Toneelspeler Johan Kaart als \'Doolittle\' in de musical \'My Fair Lady\', gefotografeerd in een kleedkamer van het Luxortheater." ;
+	dc:date "1960-10-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/7F9EA37C567F45A3AF672353A24E1A13>
+	edm:isShownAt <https://hdl.handle.net/21.12133/7F9EA37C567F45A3AF672353A24E1A13> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_5124-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904506601&mivast=184&rdt=20200809&open=7F4E3> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Het Kaartenhuis" ;
+	dc:description "Acteurs Johan Kaart (links, oom) en Hans Kaart (rechts, neef) in de ruimte onder de bioscoopzaal van het Cinerama-theater aan de Westblaak." ;
+	dc:date "1961-04-15"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/CBA8F5000A084F9885784E847ACCE5BC>
+	edm:isShownAt <https://hdl.handle.net/21.12133/CBA8F5000A084F9885784E847ACCE5BC> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_6196-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904507208&mivast=184&rdt=20200809&open=FB193> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Kalanag in Luxor" ;
+	dc:description "De \'tovenaar\' Kalanag (Helmut Schreiber) midden tussen de dames, heeft een varietéshow met de cheetah Simbo in het Luxor Theater." ;
+	dc:date "1962-08-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/81567AA46299487CAC41033110B1A360>
+	edm:isShownAt <https://hdl.handle.net/21.12133/81567AA46299487CAC41033110B1A360> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_20015-57-22-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904511535&mivast=184&rdt=20200809&open=402EF> ;
+	dc:creator "" ;
+	dc:title "Drukte voor Luxor" ;
+	dc:description "Drukte bij Luxor aan de Kruiskade in verband met filmvoorstelling \'Elvis Op Zijn Best\'. Links het kantoor van reisbureau en touringcarbedrijf Milot Tours." ;
+	dc:date "1963-08-16"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/1837B6C8F7AD4741AA18FFF74A3DF384>
+	edm:isShownAt <https://hdl.handle.net/21.12133/1837B6C8F7AD4741AA18FFF74A3DF384> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_304679-38-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904515343&mivast=184&rdt=20200809&open=B78A6> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Valentijnshulde Snip en Snaprevue" ;
+	dc:description "Valentijnshulde Snip en Snaprevue in het Luxortheater." ;
+	dc:date "1964-02-12"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/E08CC0C4851245D7933F89EB892E915B>
+	edm:isShownAt <https://hdl.handle.net/21.12133/E08CC0C4851245D7933F89EB892E915B> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_7163-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904507852&mivast=184&rdt=20200809&open=DC359> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Sonneveld doet gym" ;
+	dc:description "Wim Sonneveld bereid zich voor op zijn cabaretprogramma \'Een avond met Wim Sonneveld\' in Luxor Theater." ;
+	dc:date "1964-09-28"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/42DE95C457BC469DBC617DD98ED26876>
+	edm:isShownAt <https://hdl.handle.net/21.12133/42DE95C457BC469DBC617DD98ED26876> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_8768-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904509052&mivast=184&rdt=20200809&open=99FDC> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "\'Feest der Clowns\' in Luxor-Theater" ;
+	dc:description "Muzikaal optreden op het Groot Kinderfeest in Luxor Theater." ;
+	dc:date "1966-12-07"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/E77506CB794F4BB68538A721E59FC971>
+	edm:isShownAt <https://hdl.handle.net/21.12133/E77506CB794F4BB68538A721E59FC971> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_306073-28-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904515639&mivast=184&rdt=20200809&open=74BC4> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Kindermatinee bij Dorus" ;
+	dc:description "Kindermatinee met Dorus in zijn theater aan de Mauritsstraat 65." ;
+	dc:date "1967-07-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/D5D5703C573A462B9793050F6DFDC910>
+	edm:isShownAt <https://hdl.handle.net/21.12133/D5D5703C573A462B9793050F6DFDC910> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_10228-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904509437&mivast=184&rdt=20200809&open=83F21> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Tom Manders" ;
+	dc:description "Artiest Tom Manders zit \'in burger\' op het toneel van zijn nieuwe theater \'Dorus\'; op de achtergrond medewerkers van Schrijver Reclame Atelier." ;
+	dc:date "1967-05-30"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/7DD1FF5D6C3B451CA5EA9BA848831BB6>
+	edm:isShownAt <https://hdl.handle.net/21.12133/7DD1FF5D6C3B451CA5EA9BA848831BB6> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_20825-5-10-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904512356&mivast=184&rdt=20200809&open=B3AF5> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Dorus met tekening platenhoes" ;
+	dc:description "Tom Manders in zijn theater met in zijn hand een ontwerptekening van Dorus voor een platenhoes." ;
+	dc:date "1968-01-15"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/52C198221B68407D87B887F514571E71>
+	edm:isShownAt <https://hdl.handle.net/21.12133/52C198221B68407D87B887F514571E71> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_20816-6-12-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904512348&mivast=184&rdt=20200809&open=8DFE4> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Ingang Piccolo theater" ;
+	dc:description "De ingang van het Piccolotheater aan de Karel Doormanstraat naast de Rotterdamse Schouwburg." ;
+	dc:date "1968-01-15"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/89307D0B36924C29BD631A38FB7B2101>
+	edm:isShownAt <https://hdl.handle.net/21.12133/89307D0B36924C29BD631A38FB7B2101> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_11206-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904510013&mivast=184&rdt=20200809&open=5646E> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Publiek bij Dorus-theater" ;
+	dc:description "Veel mensen voor de ingang van het Dorus-theater en tevens overzicht Dorpspleintje. Op de voorgrond het standbeeld van Koos Speenhoff." ;
+	dc:date "1968-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/62BAEE0048614745ABFF55364C9F1B83>
+	edm:isShownAt <https://hdl.handle.net/21.12133/62BAEE0048614745ABFF55364C9F1B83> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_21006-1-22-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904512490&mivast=184&rdt=20200809&open=CFCC8> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Persconferentie in de Groote Schouwburg" ;
+	dc:description "Op de persconferentie in de Groote Schouwburg aan het Zuidplein hangt wethouder J. Reehorst het eerste affiche op van het te houden kunstfestival Zuid gaat uit. Links: wethouder W.J. van der Have, voorzitter van de festivalcommissie." ;
+	dc:date "1968-06-25"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/2FDB7B42BD3347E2B5F681DB8748ABC7>
+	edm:isShownAt <https://hdl.handle.net/21.12133/2FDB7B42BD3347E2B5F681DB8748ABC7> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_21458-4-15-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904512960&mivast=184&rdt=20200809&open=BA34D> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Jan Blaaser in Dorus Theater" ;
+	dc:description "Cabaretier Jan Blaaser treedt op in het Dorus Theater met een one-manshow, getiteld: Jan Blaaser geeft het hemd van zijn lijf weg." ;
+	dc:date "1969-08-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/981EABF5F22F40EDB8E682A52D65A374>
+	edm:isShownAt <https://hdl.handle.net/21.12133/981EABF5F22F40EDB8E682A52D65A374> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_11560-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904510207&mivast=184&rdt=20200809&open=8AAAD> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Dorus\' theater vol met kinderen" ;
+	dc:description "Theaterzaal, in de Mauritsstraat 65, vol kinderen die een voorstelling door Tom Manders (als \'Dorus\') bijwonen." ;
+	dc:date "1969-02-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/BD3E48C336E44357BB7F6CB6869B05CD>
+	edm:isShownAt <https://hdl.handle.net/21.12133/BD3E48C336E44357BB7F6CB6869B05CD> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_23806-4-3-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904514008&mivast=184&rdt=20200809&open=F96ED> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Luxor" ;
+	dc:description "Leeggesloopte theaterzaal van Luxor." ;
+	dc:date "1972-11-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/A2A7A93DA42C4BFFA76D5B1AACEEFA6D>
+	edm:isShownAt <https://hdl.handle.net/21.12133/A2A7A93DA42C4BFFA76D5B1AACEEFA6D> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_23596-5-35-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904513898&mivast=184&rdt=20200809&open=BDD48> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Peter Blanker" ;
+	dc:description "Peter Blanker treedt op met zijn combo in kleinkunsttheater \'In den Twijfelaar\', Mauritsstraat 113." ;
+	dc:date "1972-10-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/29FCAF18704D405A898A22B80EDEDD2F>
+	edm:isShownAt <https://hdl.handle.net/21.12133/29FCAF18704D405A898A22B80EDEDD2F> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_24204-7-41-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904514224&mivast=184&rdt=20200809&open=B22A0> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Piccolo Theater" ;
+	dc:description "Ingang Piccolo Theater aan de van Oldenbarneveltstraat 99." ;
+	dc:date "1973-04-05"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/5ED45B71F8A741759D0899C80136AE42>
+	edm:isShownAt <https://hdl.handle.net/21.12133/5ED45B71F8A741759D0899C80136AE42> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_24151-5-31-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904514199&mivast=184&rdt=20200809&open=4B778> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Piccolo Theater" ;
+	dc:description "Exterieur Piccolo Theater naast de schouwburg, hoek Karel Doormanstraat, Schouwburgplein." ;
+	dc:date "1973-03-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/DE338292805D48EDAD7818BB026B3A88>
+	edm:isShownAt <https://hdl.handle.net/21.12133/DE338292805D48EDAD7818BB026B3A88> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_25167-5-4-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904514784&mivast=184&rdt=20200809&open=11B50> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Autowrak bij Piccolo Theater" ;
+	dc:description "Autowrak bij het Piccolo Theater aan de Van Oldenbarneveltstraat 99, hoek Karel Doormanstraat. Het betreft een voorstelling van het Stadstoneel Rotterdam in Piccolo Theater\' van Arrabal\'s \'Autokerkhof\'." ;
+	dc:date "1975-02-13"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/6DB70CE8F19C475C9B1D7063E912D525>
+	edm:isShownAt <https://hdl.handle.net/21.12133/6DB70CE8F19C475C9B1D7063E912D525> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_26136-6-19-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904515188&mivast=184&rdt=20200809&open=C842D> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Schouwburg" ;
+	dc:description "theater Zuidplein (naamgeving)" ;
+	dc:date "1978-05-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/A7E36A352012478EBACD3C9B800A1E65>
+	edm:isShownAt <https://hdl.handle.net/21.12133/A7E36A352012478EBACD3C9B800A1E65> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2005-8137-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904546934&mivast=184&rdt=20200809&open=E9CD8> ;
+	dc:creator "Alex (Lex) (A.) de Herder, 03/01/1927-02/02/2000" ;
+	dc:title "" ;
+	dc:description "De Rotterdamse Schouwburg met aan de gevel een affiche van het RO theater." ;
+	dc:date "1983-07-15"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/8F640E68DDEC4422B29E6C7A3435151C>
+	edm:isShownAt <https://hdl.handle.net/21.12133/8F640E68DDEC4422B29E6C7A3435151C> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2005-10960-EN-10961-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904543032&mivast=184&rdt=20200809&open=1D518> ;
+	dc:creator "Alex (Lex) (A.) de Herder, 03/01/1927-02/02/2000" ;
+	dc:title "" ;
+	dc:description "Piccolo Theater/ Rotterdamse Schouwburg:Van boven naar beneden:-10960: Het Piccolo theater aan de Karel Doormanstraat.-10961: De Rotterdamse schouwburg aan de Van Oldenbarneveltstraat." ;
+	dc:date "1984-03-17"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/5E131C1A85CF4E66BDE83A57C9D9AC08>
+	edm:isShownAt <https://hdl.handle.net/21.12133/5E131C1A85CF4E66BDE83A57C9D9AC08> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2004-1304-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904541194&mivast=184&rdt=20200809&open=C2224> ;
+	dc:creator "(auteur): Cor (C.) Vos, 1948-" ;
+	dc:title "" ;
+	dc:description "Van links naar rechts: Rein Kolpa, Henk Poort, Cees Geel, Tooske Breughem en Bastiaan Ragas poseren in het Luxor Theater aan de Posthumalaan in verband met hun rol in de musical 3 Musketiers." ;
+	dc:date "2003-02-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/53A096F26DC546C183C062D96879B3C4>
+	edm:isShownAt <https://hdl.handle.net/21.12133/53A096F26DC546C183C062D96879B3C4> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4277/NL-RtSA_4277_MR-23-01.jpg?format=thumb&size=500px&miadt=184&miahd=1740684222&mivast=184&rdt=20200308&open=B934E> ;
+	dc:creator "(fotograaf): Mark (M.) Roestenburg" ;
+	dc:title "Nieuwe Luxor Theater en De Rotterdam" ;
+	dc:description "Vanaf de Posthumalaan gezien de zuidkant van het Nieuwe Luxortheater en De Rotterdam" ;
+	dc:date "2015-01-27"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/55332A1BAC06497E9587250A5D89E834>
+	edm:isShownAt <https://hdl.handle.net/21.12133/55332A1BAC06497E9587250A5D89E834> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4305/NL-RtSA_4305_98-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904482695&mivast=184&rdt=20200809&open=6F1CE> ;
+	dc:creator "(fotograaf): René (R.) Stoute" ;
+	dc:title "" ;
+	dc:description "Een tram op het Wilhelminaplein met op de achtergrond theater het Nieuw Luxor." ;
+	dc:date "2018-06-22"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/64C9A64DDB824247AC5A2786E7D1283B>
+	edm:isShownAt <https://hdl.handle.net/21.12133/64C9A64DDB824247AC5A2786E7D1283B> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4321/NL_RtSA_4321_28.jpg?format=thumb&size=500px&miadt=184&miahd=1930115370&mivast=184&rdt=20200911&open=60CB7> ;
+	dc:creator "(Fotograaf): Hans (H.) Grootenhuijs" ;
+	dc:title "" ;
+	dc:description "Rotterdam tijdens de Coronapandemie. Het Luxor theater is gesloten." ;
+	dc:date "2020-03-20"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/9C875625772F459D90FEA5338A85BD21>
+	edm:isShownAt <https://hdl.handle.net/21.12133/9C875625772F459D90FEA5338A85BD21> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_1973-5152-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904479970&mivast=184&rdt=20200809&open=01B70> ;
+	dc:creator "" ;
+	dc:title "DE NIEWE SCHOUWBURG TE ROTTERDAM" ;
+	dc:description "`DE NIEWE SCHOUWBURG TE ROTTERDAM\'. Gezicht op de voorzijde van de Nieuwe Schouwburg aan de Coolsingel." ;
+	dc:date "1774-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/04737DA7B54443D18B6DBFB73F5DECD8>
+	edm:isShownAt <https://hdl.handle.net/21.12133/04737DA7B54443D18B6DBFB73F5DECD8> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_XXXIV-54-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904476975&mivast=184&rdt=20200809&open=010F1> ;
+	dc:creator "(auteur): R. (R.) Muis" ;
+	dc:title "" ;
+	dc:description "Afbeelding van \"De arme Kamer\", 4e toneel van het 1e bedrijf uit het zedespel, \"Fanny of het gelukkig berouw, vertoond 6 mei 1775." ;
+	dc:date "1775-05-06"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/D74A8C00295D4713A1B456F272975214>
+	edm:isShownAt <https://hdl.handle.net/21.12133/D74A8C00295D4713A1B456F272975214> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_XXXIV-56-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904476977&mivast=184&rdt=20200809&open=D8FFA> ;
+	dc:creator "(auteur): R. (R.) Muis" ;
+	dc:title "" ;
+	dc:description "Afbeelding van \"De Kloosterkamer\", 9e toneel van het 3° bedrijf uit het treurspel \"Melanie ov de rampzalige kloosterdwang, vertoond 15 mei 1778." ;
+	dc:date "1778-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/B105FEE3E85E4D0E99FB9AFDA2855167>
+	edm:isShownAt <https://hdl.handle.net/21.12133/B105FEE3E85E4D0E99FB9AFDA2855167> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_RI-1149-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904470249&mivast=184&rdt=20200809&open=F9917> ;
+	dc:creator "" ;
+	dc:title "De Nieuwe Schouwburg te Rotterdam. La Nouvelle Comédie de Rotterdam." ;
+	dc:description "De Nieuwe Schouwburg." ;
+	dc:date "1798-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/970B65C3CBFD45E59A1FD3C02A3E29AE>
+	edm:isShownAt <https://hdl.handle.net/21.12133/970B65C3CBFD45E59A1FD3C02A3E29AE> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-1158-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904373805&mivast=184&rdt=20200809&open=4903A> ;
+	dc:creator "(auteur): Pieter Willem Martinus (P.W.M.) Trap; (auteur): Gerard Jan (Gerard) (G.J.) Bos, 28/09/1860-24/05/1943" ;
+	dc:title "De Schouwburg aan den Coolsingel in 1862. Rotterdam" ;
+	dc:description "Gezicht op de Schouwburg aan de Coolsingel." ;
+	dc:date "1862-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/261D3E9A69A14C9498666F42A1876BF1>
+	edm:isShownAt <https://hdl.handle.net/21.12133/261D3E9A69A14C9498666F42A1876BF1> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_RI-1150-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904470251&mivast=184&rdt=20200809&open=51181> ;
+	dc:creator "(auteur): Pieter Willem Martinus (P.W.M.) Trap; (auteur): Gerard Jan (Gerard) (G.J.) Bos, 28/09/1860-24/05/1943" ;
+	dc:title "De Schouwburg" ;
+	dc:description "Gezicht op de Schouwburg aan de Coolsingel." ;
+	dc:date "1862-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/7559F1CF68B9450E8E86C8BD73F7ABFA>
+	edm:isShownAt <https://hdl.handle.net/21.12133/7559F1CF68B9450E8E86C8BD73F7ABFA> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_1973-4503-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904479695&mivast=184&rdt=20200809&open=8678B> ;
+	dc:creator "(auteur): Carolus Johannes Franciscus Antonius (C.J.F.A.) Giudici, 27/08/1823-31/01/1897" ;
+	dc:title "gebouw - Schouwburg Coolsingel - 1852." ;
+	dc:description "Voorgevel van Schouwburg Coolsingel, gebouwd in 1852." ;
+	dc:date "1873-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/7B3C2A1868974F34AE1130D473B45897>
+	edm:isShownAt <https://hdl.handle.net/21.12133/7B3C2A1868974F34AE1130D473B45897> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1989-101-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904534041&mivast=184&rdt=20200809&open=1916D> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "De Coolsingel met schouwburg Tivoli." ;
+	dc:date "1883-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/7F1A4D4AC20549AF9D4E7F6D174DB225>
+	edm:isShownAt <https://hdl.handle.net/21.12133/7F1A4D4AC20549AF9D4E7F6D174DB225> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_IV-28-10-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904467885&mivast=184&rdt=20200809&open=3AE0C> ;
+	dc:creator "" ;
+	dc:title "Le Théatre" ;
+	dc:description "Gezicht op de Grote Schouwburg aan de Aert van Nesstraat." ;
+	dc:date "1883-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/6288E140FC154329A943A78F57717977>
+	edm:isShownAt <https://hdl.handle.net/21.12133/6288E140FC154329A943A78F57717977> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_XXIII-51-01-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904525282&mivast=184&rdt=20200809&open=271E7> ;
+	dc:creator "(auteur): Hendrik Gerard (H.G.) Gerstenhauer Zimmerman" ;
+	dc:title "" ;
+	dc:description "Gezicht op de in aanbouw zijnde Schouwburg aan de Aert van Nesstraat." ;
+	dc:date "1884-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/BF88CF20831843D79C965827642E0E64>
+	edm:isShownAt <https://hdl.handle.net/21.12133/BF88CF20831843D79C965827642E0E64> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_XXIII-52-01-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904525285&mivast=184&rdt=20200809&open=8660A> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht in de vestibule van de Schouwburg in aanbouw aan de Aert van Nesstraat." ;
+	dc:date "1884-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/838147E62E3B4C40A6614798246EFF43>
+	edm:isShownAt <https://hdl.handle.net/21.12133/838147E62E3B4C40A6614798246EFF43> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_XXIII-51-02-1%2C-2-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904525283&mivast=184&rdt=20200809&open=5CC89> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de in aanbouw zijnde Schouwburg in de Aert van Nesstraat.Afgebeeld van boven naar beneden:-1-2" ;
+	dc:date "1885-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/52E9974706CC4532A17899DCA2AF9D0E>
+	edm:isShownAt <https://hdl.handle.net/21.12133/52E9974706CC4532A17899DCA2AF9D0E> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4081/NL-RtSA_4081_1973-585-01.jpg?format=thumb&size=500px&miadt=184&miahd=1929952661&mivast=184&rdt=20200911&open=4AA5C> ;
+	dc:creator "Johannes (Jan) (J.) Verheul Dzn." ;
+	dc:title "" ;
+	dc:description "Schouwburg aan de Aert van Nesstraat. Ontwerp voorgevel." ;
+	dc:date "1886-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/DCC36B0BEEC74134BC884DFEA5A149C1>
+	edm:isShownAt <https://hdl.handle.net/21.12133/DCC36B0BEEC74134BC884DFEA5A149C1> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_XXIII-59-01-1%2C-2-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904525293&mivast=184&rdt=20200809&open=041FF> ;
+	dc:creator "Johannes (Jan) (J.) Verheul Dzn." ;
+	dc:title "" ;
+	dc:description "De foyer van de Schouwburg aan de Aert van Nesstraat.Afgebeeld van boven naar beneden:-1-2" ;
+	dc:date "1887-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/335809514C0E4F6E9AA2CDD1F1F290BB>
+	edm:isShownAt <https://hdl.handle.net/21.12133/335809514C0E4F6E9AA2CDD1F1F290BB> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_XXIII-58-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904525287&mivast=184&rdt=20200809&open=128DF> ;
+	dc:creator "(auteur): Emrik & Binger" ;
+	dc:title "Serietitel Groeten uit Rotterdam." ;
+	dc:description "De Schouwburg aan de Aert van Nesstraat. Architekt J. Verheul Dzn." ;
+	dc:date "1887-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/53481C2E1F424442842FD5A64A775343>
+	edm:isShownAt <https://hdl.handle.net/21.12133/53481C2E1F424442842FD5A64A775343> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-2008-252-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904383506&mivast=184&rdt=20200809&open=C0686> ;
+	dc:creator "" ;
+	dc:title "SCHOUWBURG Aert van Nesstraat" ;
+	dc:description "De Groote Schouwburg aan de Aert van Nesstraat." ;
+	dc:date "1887-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/BB0E6017A0E148B885877C28D0F3752B>
+	edm:isShownAt <https://hdl.handle.net/21.12133/BB0E6017A0E148B885877C28D0F3752B> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_XXIII-57-2-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904474701&mivast=184&rdt=20200809&open=390CD> ;
+	dc:creator "(auteur): A.C. (A.C.) Verhees; (auteur): Pieter Adrianus (P.A.) Schipperus" ;
+	dc:title "De nieuwe Schouwburg te Rotterdam. Van binnen." ;
+	dc:description "Interieur van de Schouwburg in de Aert van Nesstraat." ;
+	dc:date "1887-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/BF0E3C86EC6543FB8B220AEF463551AF>
+	edm:isShownAt <https://hdl.handle.net/21.12133/BF0E3C86EC6543FB8B220AEF463551AF> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_XXIII-57-1-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904474700&mivast=184&rdt=20200809&open=148AF> ;
+	dc:creator "(auteur): A.C. (A.C.) Verhees; (auteur): Pieter Adrianus (P.A.) Schipperus" ;
+	dc:title "De nieuwe Schouwburg te Rotterdam. Ververschingszaal." ;
+	dc:description "Ververschingszaal in de Schouwburg in de Aert van Nesstraat." ;
+	dc:date "1887-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/B44CD69822434643BA1747710CA371C6>
+	edm:isShownAt <https://hdl.handle.net/21.12133/B44CD69822434643BA1747710CA371C6> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_XXIII-54-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904474699&mivast=184&rdt=20200809&open=4F7BA> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Voorgevel van de Schouwburg in de Aert van Nesstraat." ;
+	dc:date "1887-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/9BF5AFD66D7C4C77B865A0FC7B69BCEF>
+	edm:isShownAt <https://hdl.handle.net/21.12133/9BF5AFD66D7C4C77B865A0FC7B69BCEF> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_XXIII-50-1-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904389987&mivast=184&rdt=20200809&open=E7D56> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de Schouwburg aan de Coolsingel, kort voor de afbraak." ;
+	dc:date "1887-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/A75E6722972C423EAA91700F854FDEA0>
+	edm:isShownAt <https://hdl.handle.net/21.12133/A75E6722972C423EAA91700F854FDEA0> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_XXIII-51-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904324697&mivast=184&rdt=20200809&open=5EE64> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de Schouwburg aan de Coolsingel, kort voor de afbraak." ;
+	dc:date "1888-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/8EBFEA02B930476B9BBD7C77CDD235C9>
+	edm:isShownAt <https://hdl.handle.net/21.12133/8EBFEA02B930476B9BBD7C77CDD235C9> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4006/NL-RtSA_4006_G-0000-0131-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904306869&mivast=184&rdt=20200809&open=BE98B> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Tivoli Rotterdam." ;
+	dc:date "1890-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/124BDA3C2319456AA09DEDB90CB3FCC6>
+	edm:isShownAt <https://hdl.handle.net/21.12133/124BDA3C2319456AA09DEDB90CB3FCC6> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_1976-117-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904390022&mivast=184&rdt=20200809&open=6182F> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "De Schouwburg aan de Aert van Nesstraat." ;
+	dc:date "1893-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/F5BB4A40E3E34EE392900C10323147AE>
+	edm:isShownAt <https://hdl.handle.net/21.12133/F5BB4A40E3E34EE392900C10323147AE> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4081/NL-RtSA_4081_1971-4504-01.jpg?format=thumb&size=500px&miadt=184&miahd=1929952659&mivast=184&rdt=20200911&open=2EA81> ;
+	dc:creator "Johannes (Jan) (J.) Verheul Dzn." ;
+	dc:title "" ;
+	dc:description "De Groote Schouwburg in de Aert van Nesstraat." ;
+	dc:date "1898-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/BA5B721EDB8B4552B7C740951960AD3B>
+	edm:isShownAt <https://hdl.handle.net/21.12133/BA5B721EDB8B4552B7C740951960AD3B> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_XXIII-74-01-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904474722&mivast=184&rdt=20200809&open=A9EA8> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Voorgevel van Tivoli-Schouwburg en café-restaurant Tivoli aan de Coolsingel." ;
+	dc:date "1898-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/DFB277B701E34B0FB9D6C5354B50A131>
+	edm:isShownAt <https://hdl.handle.net/21.12133/DFB277B701E34B0FB9D6C5354B50A131> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-343-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904385500&mivast=184&rdt=20200809&open=19C18> ;
+	dc:creator "" ;
+	dc:title "Rotterdam Coolsingel" ;
+	dc:description "De westzijde van de Coolsingel met het Tivolicomplex, bestaande uit een Schouwburg en een café-restaurant. Wat verderop lag het Casinotheater." ;
+	dc:date "1900-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/E58DD1BEE28248658185F8604F5E436C>
+	edm:isShownAt <https://hdl.handle.net/21.12133/E58DD1BEE28248658185F8604F5E436C> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-130-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904373952&mivast=184&rdt=20200809&open=BC61E> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "De Grote Schouwburg aan de Aert van Nesstraat, uit het oosten. In de richting van de Mauritsweg." ;
+	dc:date "1900-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/2BF8136192DC49A4AD4D67DBB080E58C>
+	edm:isShownAt <https://hdl.handle.net/21.12133/2BF8136192DC49A4AD4D67DBB080E58C> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-128-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904373930&mivast=184&rdt=20200809&open=06325> ;
+	dc:creator "" ;
+	dc:title "Rotterdam, Groote Schouwburg (Aert van Nesstraat)" ;
+	dc:description "De Grote Schouwburg aan de Aert van Nesstraat, gezien uit het oosten, in de richting van de Mauritsweg." ;
+	dc:date "1900-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/D290C0BCA5414FEC949C0622C5E9C28B>
+	edm:isShownAt <https://hdl.handle.net/21.12133/D290C0BCA5414FEC949C0622C5E9C28B> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-1181-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904373828&mivast=184&rdt=20200809&open=FAF6C> ;
+	dc:creator "" ;
+	dc:title "Rotterdam  Tivoli, Coolsingel" ;
+	dc:description "De voorzijde van de Tivoli Schouwburg aan de Coolsingel." ;
+	dc:date "1900-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/280B648B3FF848DDB91D9AB3B0F9DF34>
+	edm:isShownAt <https://hdl.handle.net/21.12133/280B648B3FF848DDB91D9AB3B0F9DF34> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-1160-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904373808&mivast=184&rdt=20200809&open=CC6F4> ;
+	dc:creator "" ;
+	dc:title "Coolsingel. Rotterdam" ;
+	dc:description "SchouwburgTivoli aan de Coolsingel. Uit het zuidoosten gezien." ;
+	dc:date "1900-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/4D32B9F484CC49AF8F4BFDEA403023FA>
+	edm:isShownAt <https://hdl.handle.net/21.12133/4D32B9F484CC49AF8F4BFDEA403023FA> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-104-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904373639&mivast=184&rdt=20200809&open=D521F> ;
+	dc:creator "" ;
+	dc:title "Rotterdam Groote schouwburg" ;
+	dc:description "De Grote Schouwburg aan de Aert van Nesstraat, uit het westen gezien naar de Coolsingel toe." ;
+	dc:date "1910-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/E37C14ED1A7B45DE82B4F507B068E232>
+	edm:isShownAt <https://hdl.handle.net/21.12133/E37C14ED1A7B45DE82B4F507B068E232> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4113/NL-RtSA_4113_IX-2614-01-1-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904481704&mivast=184&rdt=20200809&open=89D93> ;
+	dc:creator "Bernard Heinrich Wilhelm (Henri) (B.H.W.) Berssenbrugge, 13/09/1873-04/05/1959" ;
+	dc:title "Berssenbrugge Den Haag" ;
+	dc:description "De Raamstraat, uit het oosten. Op de achtergrond de Coolsingel met schouwburg Tivoli." ;
+	dc:date "1910-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/A6CCE85ED5C74AC8956E7057E077EF60>
+	edm:isShownAt <https://hdl.handle.net/21.12133/A6CCE85ED5C74AC8956E7057E077EF60> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2003-1356-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904540600&mivast=184&rdt=20200809&open=8234A> ;
+	dc:creator "(auteur): Fotografie Strauss" ;
+	dc:title "" ;
+	dc:description "Interieur van het Amerikaansch Danspaviljoen aan het Stationsplein. Het volgde in 1912 het Cirque Variété van Carl Pfläging op. In 1914 werd het opgeheven en kwam Circus Schouwburg in deze ruimte." ;
+	dc:date "1912-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/9CFF87B75EA64AA39B35F6AC5C649A2E>
+	edm:isShownAt <https://hdl.handle.net/21.12133/9CFF87B75EA64AA39B35F6AC5C649A2E> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4113/NL-RtSA_4113_XXIII-75-00-01-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904481898&mivast=184&rdt=20200809&open=7C6EA> ;
+	dc:creator "Bernard Heinrich Wilhelm (Henri) (B.H.W.) Berssenbrugge, 13/09/1873-04/05/1959" ;
+	dc:title "" ;
+	dc:description "Schouwburg Tivoli aan de Coolsingel, bij avond." ;
+	dc:date "1912-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/9BACE076335A4D92B52FDF72527D046A>
+	edm:isShownAt <https://hdl.handle.net/21.12133/9BACE076335A4D92B52FDF72527D046A> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4113/NL-RtSA_4113_IX-53-01-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904481753&mivast=184&rdt=20200809&open=AB646> ;
+	dc:creator "Bernard Heinrich Wilhelm (Henri) (B.H.W.) Berssenbrugge, 13/09/1873-04/05/1959" ;
+	dc:title "" ;
+	dc:description "Een portier op het bordes van de Groote Schouwburg aan de Aert van Nesstraat, uit het noordoosten." ;
+	dc:date "1913-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/15F6FEB2AB964002BBB0167279E0EF4B>
+	edm:isShownAt <https://hdl.handle.net/21.12133/15F6FEB2AB964002BBB0167279E0EF4B> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_1976-1524-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904326961&mivast=184&rdt=20200809&open=938CD> ;
+	dc:creator "W. (W.) Bleuzé, 1883-" ;
+	dc:title "" ;
+	dc:description "De Coolsingel met café-restaurant en schouwburg/bioscoop Tivoli (The Royal American Bioscope), uiterst links restaurant Allard en café De Unie." ;
+	dc:date "1913-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/5F99D1D4486A4B80AB93B550E2EED279>
+	edm:isShownAt <https://hdl.handle.net/21.12133/5F99D1D4486A4B80AB93B550E2EED279> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1992-4517-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904535629&mivast=184&rdt=20200809&open=C3AC4> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Interieur van café-restaurant Tivoli (van de schouwburg).Van boven naar beneden afgebeeld:- Restauratiezaal.- Feestzaal." ;
+	dc:date "1914-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/1A8CC2AD020742B19E41088EF7D20FAD>
+	edm:isShownAt <https://hdl.handle.net/21.12133/1A8CC2AD020742B19E41088EF7D20FAD> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4088/NL-RtSA_4088_PBK-10646-01.jpg?format=thumb&size=500px&miadt=184&miahd=1740661098&mivast=184&rdt=20200308&open=7E6D7> ;
+	dc:creator "" ;
+	dc:title "CAFÉ RESTAURANT \"TIVOLI\" FEESTZAAL  COOLSINGEL 53, ROTTERDAM" ;
+	dc:description "Interieur van café-restaurant Tivoli aan de Coolsingel." ;
+	dc:date "1914-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/E1B24507150B459FAF987773E1441A1B>
+	edm:isShownAt <https://hdl.handle.net/21.12133/E1B24507150B459FAF987773E1441A1B> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4117/NL-RtSA_4117_1976-14280-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904350105&mivast=184&rdt=20200809&open=28DAC> ;
+	dc:creator "François Henry (F.H.) van Dijk, 11/08/1888-07/07/1977" ;
+	dc:title "" ;
+	dc:description "De Rotterdamsche Schouwburg aan de Aert van Nesstraat." ;
+	dc:date "1928-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/72F24393F48548599917481840FEC879>
+	edm:isShownAt <https://hdl.handle.net/21.12133/72F24393F48548599917481840FEC879> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-107-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904373691&mivast=184&rdt=20200809&open=6E14F> ;
+	dc:creator "" ;
+	dc:title "Rotterdam, Groote Schouwburg, Aert v. Nesstraat. ; Serietitel Rotterdam vóór 1940" ;
+	dc:description "Groote Schouwburg aan de Aert van Nesstraat vanuit westen alsmede het Sint-Luciaklooster op de hoek van de Aert van Nesstraat en de Hennekijnstraat." ;
+	dc:date "1930-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/6DE3FC6AA389448483ECE9865B385462>
+	edm:isShownAt <https://hdl.handle.net/21.12133/6DE3FC6AA389448483ECE9865B385462> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-103-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904373574&mivast=184&rdt=20200809&open=AF1CF> ;
+	dc:creator "" ;
+	dc:title "Rotterdam, Schouwburg. Aert v. Nesstraat." ;
+	dc:description "De Groote Schouwburg aan de Aert van Nesstraat gezien uit het oosten." ;
+	dc:date "1930-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/91B23D66CCC3452C9D7D2BCBF6768766>
+	edm:isShownAt <https://hdl.handle.net/21.12133/91B23D66CCC3452C9D7D2BCBF6768766> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4088/NL-RtSA_4088_PBK-10645-01.jpg?format=thumb&size=500px&miadt=184&miahd=1740661097&mivast=184&rdt=20200308&open=CBE6B> ;
+	dc:creator "" ;
+	dc:title "RESTAURANT \"TIVOLI\" COOLSINGEL ROTTERDAM" ;
+	dc:description "Interieur van café-restaurant Tivoli aan de Coolsingel." ;
+	dc:date "1930-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/DD93A46E956B4C9D9F92FD347BAC9779>
+	edm:isShownAt <https://hdl.handle.net/21.12133/DD93A46E956B4C9D9F92FD347BAC9779> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_XXIII-65-00-01-01-1%2C-2-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904332094&mivast=184&rdt=20200809&open=D7F94> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Schouwburg aan de Aert van Nesstraat.-1: de hal.-2: loges." ;
+	dc:date "1932-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/390472ABC9CB4599B28C77A90513447D>
+	edm:isShownAt <https://hdl.handle.net/21.12133/390472ABC9CB4599B28C77A90513447D> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-2006-198-1-TM-9-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904382342&mivast=184&rdt=20200809&open=00410> ;
+	dc:creator "" ;
+	dc:title "ROTTERDAM" ;
+	dc:description "Serie van 9 prentbriefkaarten van verwoeste plekjes na het bombardement van 14 mei 1940 als leporello aaneen, waarvan 2 afgebeeld. Van boven naar beneden: -7 Interieur van de Groote Schouwburg aan de Aert van Nesstraat. -8 Restaurant Jos Wolff aan de Gedempte Vest." ;
+	dc:date "1940-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/1023788F714240DB961BCE7BE428FA57>
+	edm:isShownAt <https://hdl.handle.net/21.12133/1023788F714240DB961BCE7BE428FA57> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-1209-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904373856&mivast=184&rdt=20200809&open=54F33> ;
+	dc:creator "" ;
+	dc:title "Rotterdam - Coolsingel" ;
+	dc:description "Puinresten na het bombardement van 14 mei 1940. Coolsingel met Tivoli schouwburg en omgeving gezien vanaf het stadhuis." ;
+	dc:date "1940-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/A25161BEE3514399B3E7633B56B97246>
+	edm:isShownAt <https://hdl.handle.net/21.12133/A25161BEE3514399B3E7633B56B97246> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-118-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904373826&mivast=184&rdt=20200809&open=4880E> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "De verwoeste Schouwburg aan de Aert van Nesstraat, na het bombardement van 14 mei 1940. Uit het westen, in de richting van de Coolsingel." ;
+	dc:date "1940-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/44FD0C8C80BD44E980D932B262EB1AC1>
+	edm:isShownAt <https://hdl.handle.net/21.12133/44FD0C8C80BD44E980D932B262EB1AC1> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4287/NL-RtSA_4287_XXXIII-569-36-49-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904555504&mivast=184&rdt=20200809&open=1141A> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Restanten van de schouwburg aan de Aert van Nesstraat na het bombardement van 14 mei 1940." ;
+	dc:date "1940-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/1F0A96E0CB7D448682201AB746A7C290>
+	edm:isShownAt <https://hdl.handle.net/21.12133/1F0A96E0CB7D448682201AB746A7C290> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4287/NL-RtSA_4287_XXXIII-569-02-6-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904555212&mivast=184&rdt=20200809&open=3EB73> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de Van Aert van Nesstraat met de verwoeste schouwburg en verwoeste gebouwen als gevolg van het Duitse bombardement van 14 mei 1940. Op de achtergrond de stadhuistoren aan de Coolsingel." ;
+	dc:date "1940-05-14"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/1D2D61E150BF4C5D8925B07B8F419F3F>
+	edm:isShownAt <https://hdl.handle.net/21.12133/1D2D61E150BF4C5D8925B07B8F419F3F> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4287/NL-RtSA_4287_XXIII-65-04-02-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904555172&mivast=184&rdt=20200809&open=1514F> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de verwoeste schouwburg in de Aert van Nesstraat, als gevolg van het bombardement van 14 mei 1940. Gezien uit het zuiden." ;
+	dc:date "1940-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/8CBAD9F522814922BE39D907A0BDCFA8>
+	edm:isShownAt <https://hdl.handle.net/21.12133/8CBAD9F522814922BE39D907A0BDCFA8> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4287/NL-RtSA_4287_XXIII-65-04-01-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904555171&mivast=184&rdt=20200809&open=8A8D9> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de verwoeste schouwburg in de Aert van Nesstraat, als gevolg van het bombardement van 14 mei 1940. Uit het zuiden gezien." ;
+	dc:date "1940-05-14"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/801B5F81C0B8444F8938941DEAC2968B>
+	edm:isShownAt <https://hdl.handle.net/21.12133/801B5F81C0B8444F8938941DEAC2968B> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2004-347-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904541303&mivast=184&rdt=20200809&open=606CA> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen grote schouwurg aan de Aert van Nesstraat. Als gevolg van het bombardement is het centrum van de stad grotendeels verwoest." ;
+	dc:date "1940-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/5DEAB8B829BB47E784F221D00A61EEDD>
+	edm:isShownAt <https://hdl.handle.net/21.12133/5DEAB8B829BB47E784F221D00A61EEDD> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2001-1778-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904539602&mivast=184&rdt=20200809&open=DE716> ;
+	dc:creator "" ;
+	dc:title "Vanaf het stadhuis" ;
+	dc:description "Puinresten na het bombardement van 14 mei 1940. De Coolsingel met de Tivoli schouwburg en omgeving, Vanaf het stadhuis." ;
+	dc:date "1940-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/EDC1097AC70C4122851BDB939653A2F7>
+	edm:isShownAt <https://hdl.handle.net/21.12133/EDC1097AC70C4122851BDB939653A2F7> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2001-1739-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904539566&mivast=184&rdt=20200809&open=3AE6E> ;
+	dc:creator "" ;
+	dc:title "Vanaf het stadhuis" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen omgeving van de Coolsingel. Als gevolg van het bombardement is het centrum van de stad grotendeels verwoest.. De Coolsingel met de Tivoli schouwburg en omgeving, uit het oosten. Vanaf het stadhuis gezien.." ;
+	dc:date "1940-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/BE5E989C7E844364BA4D39139EF095F9>
+	edm:isShownAt <https://hdl.handle.net/21.12133/BE5E989C7E844364BA4D39139EF095F9> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2001-1429-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904539333&mivast=184&rdt=20200809&open=03032> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen omgeving van de Coolsingel.. Op de voorgrond het Coolsingelziekenhuis, rechts de Aert van Nesstraat met de grote schouwburg. Als gevolg van dit bombardement is het centrum van de stad grotendeels verwoest." ;
+	dc:date "1940-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/4C52BC2B45CE4CBF9CB28C3E22E1AD32>
+	edm:isShownAt <https://hdl.handle.net/21.12133/4C52BC2B45CE4CBF9CB28C3E22E1AD32> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2001-1418-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904539323&mivast=184&rdt=20200809&open=4EAF7> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen Aert van Nesstraat., met de grote schouwburg, a.ls gevolg van dit bombardement is het centrum van de stad grotendeels verwoest." ;
+	dc:date "1940-05-31"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/093E3854FC284E41B3499F01B77BAF6E>
+	edm:isShownAt <https://hdl.handle.net/21.12133/093E3854FC284E41B3499F01B77BAF6E> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2001-1349-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904539252&mivast=184&rdt=20200809&open=EFF63> ;
+	dc:creator "" ;
+	dc:title "Vanaf het stadhuis" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen Coolsingel.. Als gevolg van het bombardement is het centrum van de stad grotendeels verwoest.. De Coolsingel met de Tivoli schouwburg en omgeving, Gezien vanaf het stadhuis." ;
+	dc:date "1940-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/0845D672CAF14C029D4C9F327B414F2B>
+	edm:isShownAt <https://hdl.handle.net/21.12133/0845D672CAF14C029D4C9F327B414F2B> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1998-1257-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904538056&mivast=184&rdt=20200809&open=246C5> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen grote schouwburg aan de Aert van Nesstraat." ;
+	dc:date "1940-05-31"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/4CA6D4EBB1784DEAB83A7F98553F26A0>
+	edm:isShownAt <https://hdl.handle.net/21.12133/4CA6D4EBB1784DEAB83A7F98553F26A0> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1987-884-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904533461&mivast=184&rdt=20200809&open=CD14E> ;
+	dc:creator "" ;
+	dc:title "Coolsingel westzijde" ;
+	dc:description "Puinresten na het bombardement van 14 mei 1940. De Coolsingel aan de westzijde met de Tivoli schouwburg en omgeving, uit het zuiden." ;
+	dc:date "1940-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/D6B59243CADC4EEEB3FF339D77C71EFA>
+	edm:isShownAt <https://hdl.handle.net/21.12133/D6B59243CADC4EEEB3FF339D77C71EFA> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1985-329-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904532488&mivast=184&rdt=20200809&open=D5D91> ;
+	dc:creator "" ;
+	dc:title "Vanaf het stadhuis" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen Coolsingel. Als gevolg van het bombardement is het centrum van de stad grotendeels verwoest.. De Coolsingel met de Tivoli schouwburg, uit het oosten. Vanaf het stadhuis." ;
+	dc:date "1940-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/0ADF528435B24115AE6746511CFDAABF>
+	edm:isShownAt <https://hdl.handle.net/21.12133/0ADF528435B24115AE6746511CFDAABF> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1984-2743-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904532067&mivast=184&rdt=20200809&open=BB6E7> ;
+	dc:creator "" ;
+	dc:title "Tivoli ; Vanaf het stadhuis" ;
+	dc:description "De Coolsingel met de Tivoli Schouwburg na het bombardement van 14 mei 1940. Vanaf het stadhuis." ;
+	dc:date "1940-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/7184A1971DB546C482409B664638FEF7>
+	edm:isShownAt <https://hdl.handle.net/21.12133/7184A1971DB546C482409B664638FEF7> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1983-761-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904531768&mivast=184&rdt=20200809&open=591FA> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen Grote schouwburg aan de Aert van Nesstraat. Als gevolg van dit bombardement is het centrum van de stad grotendeels verwoest." ;
+	dc:date "1940-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/A62B9FBD19F744BCAA57BEEC379BEDE9>
+	edm:isShownAt <https://hdl.handle.net/21.12133/A62B9FBD19F744BCAA57BEEC379BEDE9> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1979-1417-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904528765&mivast=184&rdt=20200809&open=E9E45> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht in de door het Duitse bombardement van 14 mei 1940 getroffen Lijnbaanstraat. Uit zuidoostelijke richting.gezien. Op de achtergrond de schouwburg aan de Aert van Nesstraat. Als gevolg van dit bombardement is het centrum van de stad grotendeels verwoest." ;
+	dc:date "1940-05-29"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/395388E50E444C5A9EA3949C61AE9CC8>
+	edm:isShownAt <https://hdl.handle.net/21.12133/395388E50E444C5A9EA3949C61AE9CC8> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1979-1399-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904528752&mivast=184&rdt=20200809&open=3B11C> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de door het Duitse bombardement van 14 mei 1940 getroffen hal van de schouwburg aan de Aert van Nesstraat." ;
+	dc:date "1940-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/B0520FA52CA943B48C8DEDA404653156>
+	edm:isShownAt <https://hdl.handle.net/21.12133/B0520FA52CA943B48C8DEDA404653156> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1979-1194-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904528591&mivast=184&rdt=20200809&open=348C5> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Puinresten na het bombardement van 14 mei 1940. De Coolsingel met de Tivoli schouwburg." ;
+	dc:date "1940-06-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/D77296A639984271B8E3FD1E03F66D88>
+	edm:isShownAt <https://hdl.handle.net/21.12133/D77296A639984271B8E3FD1E03F66D88> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_XXIII-65-01-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904474707&mivast=184&rdt=20200809&open=4EDD5> ;
+	dc:creator "(auteur): J. (J.) Visser" ;
+	dc:title "" ;
+	dc:description "Gezicht op het slopen van de verwoeste schouwburg aan de Aert van Nesstraat, uit het westen." ;
+	dc:date "1940-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/4C9476F4A1C5404593687CFFE838BAAC>
+	edm:isShownAt <https://hdl.handle.net/21.12133/4C9476F4A1C5404593687CFFE838BAAC> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4204/NL-RtSA_4204_BO-263-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904489380&mivast=184&rdt=20200809&open=30857> ;
+	dc:creator "" ;
+	dc:title "Van Oldenbarneveltstraat" ;
+	dc:description "Van Oldenbarneveltstraat met de Rotterdamse Schouwburg, links de Mauritsstraat." ;
+	dc:date "1946-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/450482669AEC43FABBF78B08C8990DAB>
+	edm:isShownAt <https://hdl.handle.net/21.12133/450482669AEC43FABBF78B08C8990DAB> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_IX-57-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904469626&mivast=184&rdt=20200809&open=6AEB3> ;
+	dc:creator "Christiaan Johannes Theodorus (Ch. J. T.) Schut" ;
+	dc:title "" ;
+	dc:description "Het omliggende geraseerde terrein van de Aert van Nesstraat, op de achtergrond de nieuwe Schouwburg, uit het noordoosten." ;
+	dc:date "1946-05-05"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/7B1DF9F5D80B4C009DDBA6F7A63833FE>
+	edm:isShownAt <https://hdl.handle.net/21.12133/7B1DF9F5D80B4C009DDBA6F7A63833FE> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_XXIII-65-11-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904474714&mivast=184&rdt=20200809&open=B616F> ;
+	dc:creator "Christiaan Johannes Theodorus (Ch. J. T.) Schut" ;
+	dc:title "" ;
+	dc:description "Interieur van de Schouwburg aan het Schouwburgplein." ;
+	dc:date "1947-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/5217BC38E0B14A32A02E16130E952E1C>
+	edm:isShownAt <https://hdl.handle.net/21.12133/5217BC38E0B14A32A02E16130E952E1C> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4204/NL-RtSA_4204_6577-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904489540&mivast=184&rdt=20200809&open=7F82D> ;
+	dc:creator "(fotograaf): Fototechnische Dienst Rotterdam" ;
+	dc:title "Rotterdamsche Schouwburg" ;
+	dc:description "Rotterdamsche Schouwburg aan de Aert van Nesstraat" ;
+	dc:date "1952-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/4158127DCB8D45C8A98806F44B31CF8B>
+	edm:isShownAt <https://hdl.handle.net/21.12133/4158127DCB8D45C8A98806F44B31CF8B> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_XXIII-65-24-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904474717&mivast=184&rdt=20200809&open=65416> ;
+	dc:creator "Arie Noldus (Arnold) (A.N.) Borel, 31/01/1898-22/02/1986" ;
+	dc:title "" ;
+	dc:description "Gezicht op de Zuidenwijdsestraat met de bijna voltooide schouwburg aan het Zuidplein, gezien uit het zuidoosten." ;
+	dc:date "1953-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/B79720FBFB8C4663BF1297E59B330AFC>
+	edm:isShownAt <https://hdl.handle.net/21.12133/B79720FBFB8C4663BF1297E59B330AFC> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4031/NL-RtSA_4031_P-005175-5-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904494170&mivast=184&rdt=20200809&open=9D069> ;
+	dc:creator "(auteur): Rotterdams Parool" ;
+	dc:title "" ;
+	dc:description "Portret van Dolf, Roelof Lucas Johannes Henkes, beeldend kunstenaar. In de foyer van de Rotterdamse Schouwburg." ;
+	dc:date "1954-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/A365357A170C459BADE80DA387DCE517>
+	edm:isShownAt <https://hdl.handle.net/21.12133/A365357A170C459BADE80DA387DCE517> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_XXIII-65-21-02-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904474715&mivast=184&rdt=20200809&open=28097> ;
+	dc:creator "Arie Noldus (Arnold) (A.N.) Borel, 31/01/1898-22/02/1986" ;
+	dc:title "" ;
+	dc:description "Gezicht op de schouwburg vanaf de Karel Doormanstraat." ;
+	dc:date "1954-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/66A42CFA6E0A4B6B8BCBCDC7A5F57F6E>
+	edm:isShownAt <https://hdl.handle.net/21.12133/66A42CFA6E0A4B6B8BCBCDC7A5F57F6E> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_136-1-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904503114&mivast=184&rdt=20200809&open=8A80B> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Auto tegen Schouwburg" ;
+	dc:description "Auto tegen de muur van de Rotterdamse Schouwburg aan de Van Oldenbarneveltstraat" ;
+	dc:date "1956-09-12"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/2F8280FADBEB4EF192CAC5D1A4517160>
+	edm:isShownAt <https://hdl.handle.net/21.12133/2F8280FADBEB4EF192CAC5D1A4517160> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_3562-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904505747&mivast=184&rdt=20200809&open=D0D96> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Kroonluchter Schouwburg" ;
+	dc:description "Kroonluchter van Venetiaans glas in de Rotterdamse Schouwburg." ;
+	dc:date "1959-09-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/6944E5CC97914D1B9074F49A48085DCE>
+	edm:isShownAt <https://hdl.handle.net/21.12133/6944E5CC97914D1B9074F49A48085DCE> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_3578-3-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904505775&mivast=184&rdt=20200809&open=CFB17> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Schouwburg (interieur)" ;
+	dc:description "Kijkje vanaf balkon in de grote zaal van de vernieuwde Rotterdamse Schouwburg." ;
+	dc:date "1959-09-14"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/7D6788A3027E48FA822C27E2E80A60BE>
+	edm:isShownAt <https://hdl.handle.net/21.12133/7D6788A3027E48FA822C27E2E80A60BE> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_7846-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904508404&mivast=184&rdt=20200809&open=03760> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Stenen kop Schouwburg" ;
+	dc:description "Stenen reliëfmasker op de gevel van de Rotterdamse Schouwburg." ;
+	dc:date "1965-03-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/F48AD44120104C9DB07C619F6C2BB3F0>
+	edm:isShownAt <https://hdl.handle.net/21.12133/F48AD44120104C9DB07C619F6C2BB3F0> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_305960-34-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904515618&mivast=184&rdt=20200809&open=81E1F> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Anker bij Dorus-pand" ;
+	dc:description "Plaatsing van het stuurboordanker van de Seven Seas, het studentenschip in de Parkhaven, op het pleintje naast de Rotterdamse Schouwburg en voor het Cabaret Dorus aan de Mauritsstraat 65. Tom Manders (met hoed) kijkt toe." ;
+	dc:date "1967-06-14"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/025367BDA0694A2E9A41B82986520C41>
+	edm:isShownAt <https://hdl.handle.net/21.12133/025367BDA0694A2E9A41B82986520C41> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_21034-2-30-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904512527&mivast=184&rdt=20200809&open=0309C> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Nieuwe lichtinstallatie voor de Schouwburg" ;
+	dc:description "Het interieur van de Rotterdamse Schouwburg waar een nieuwe lichtinstallatie aangelegd wordt." ;
+	dc:date "1968-07-17"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/607526577D794396A21C0EA27BA8C536>
+	edm:isShownAt <https://hdl.handle.net/21.12133/607526577D794396A21C0EA27BA8C536> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_1969-2800-TM-2804-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904333954&mivast=184&rdt=20200809&open=49305> ;
+	dc:creator "Stadsarchief Rotterdam" ;
+	dc:title "" ;
+	dc:description "Gezichten op de Gouvernestraat.Afgebeeld van boven naar beneden:-2800: nummers 54b: het gebouw Odeon, Schouwburg;-2801 en -2802: nummer 68: Grote Zaal; -2803: nummers 84 t/m 88: bedrijven van Goenhuyzen en Brandwijk;-2804: nummers 96 t/m 100." ;
+	dc:date "1969-09-11"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/1C0BD69FE68F47959ADAEA5E01BA5747>
+	edm:isShownAt <https://hdl.handle.net/21.12133/1C0BD69FE68F47959ADAEA5E01BA5747> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_1982-3261-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904480453&mivast=184&rdt=20200809&open=30C8B> ;
+	dc:creator "Johannes Daniël Marie (Hans) (J.D.M.) van der Plas" ;
+	dc:title "" ;
+	dc:description "Een nieuwe Centrale Bibliotheek in aanbouw op de Hoogstraat nummer 119, uit westelijke richting, vanaf de Botersloot." ;
+	dc:date "1982-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/EE6E7081FE7C447C993CCF94BD6A4888>
+	edm:isShownAt <https://hdl.handle.net/21.12133/EE6E7081FE7C447C993CCF94BD6A4888> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2005-7192-TM-7197-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904545983&mivast=184&rdt=20200809&open=A3A80> ;
+	dc:creator "Alex (Lex) (A.) de Herder, 03/01/1927-02/02/2000" ;
+	dc:title "" ;
+	dc:description "Het nieuwe centrale gebouw van de gemeentelijke bibliotheek:Van boven naar beneden afgebeeld:-7192: Het interieur van het nieuwe centrale gebouw van de gemeentelijke bibliotheek aan de Hoogstraat op nr. 110 tijdens de open dag.-7193:-7194:-7195:Het exterieur van het nieuwe centrale gebouw van de gemeentelijke bibliotheek aan de Hoogstraat op nr. 110.-7196: Ter gelegenheid van de open dag speelt het muziekgezelschap Kilima Hawaïans op een van de terrassen van de gemeentelijke bibliotheek aan de Hoogstraat.-7197:" ;
+	dc:date "1983-07-30"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/0D182A731AFC4BDE9E1BAB1066CE7EDF>
+	edm:isShownAt <https://hdl.handle.net/21.12133/0D182A731AFC4BDE9E1BAB1066CE7EDF> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2000-524-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904538698&mivast=184&rdt=20200809&open=03D61> ;
+	dc:creator "(auteur): Verlinde, Leunis" ;
+	dc:title "" ;
+	dc:description "Jan Rot treedt op tijdens het tweede Lezersfeest in de centrale bibliotheek (i.c. het Bibliotheektheater) aan de Hoogstraat." ;
+	dc:date "1998-10-07"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/D84FB02835A3402A8F505DE5A81B9526>
+	edm:isShownAt <https://hdl.handle.net/21.12133/D84FB02835A3402A8F505DE5A81B9526> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4282/NL-RtSA_4282_1990-217-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904554871&mivast=184&rdt=20200809&open=CE810> ;
+	dc:creator "Marianne (Hansje) (M.) de Reuver, Marjan" ;
+	dc:title "" ;
+	dc:description "De schrijvers Maarten \'t Hart en F. Springer tijdens een literair ontbijt in het Bibliotheektheater." ;
+	dc:date "1990-03-18"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/47396A0837B549FF99C3FBF3EFCBB186>
+	edm:isShownAt <https://hdl.handle.net/21.12133/47396A0837B549FF99C3FBF3EFCBB186> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1993-3189-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904536081&mivast=184&rdt=20200809&open=19C6B> ;
+	dc:creator "(auteur): Fred (F.) Ernst" ;
+	dc:title "" ;
+	dc:description "Kunstveiling ten bate van congres over drugs in het Bibliotheektheater Rotterdam m.m.v. Jules Deelder." ;
+	dc:date "1993-02-27"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/6DA3B3E7D13B427DB928C5C17522ABA3>
+	edm:isShownAt <https://hdl.handle.net/21.12133/6DA3B3E7D13B427DB928C5C17522ABA3> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1994-1746-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904537188&mivast=184&rdt=20200809&open=A4FF6> ;
+	dc:creator "Victor (V.) van Breukelen" ;
+	dc:title "" ;
+	dc:description "De Chinese schrijfster Jung Chang vertelt in het Bibliotheektheater over haar boek en over China tijdens het festival \'Story International\'." ;
+	dc:date "1994-01-24"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/5D7ACC40973746258DCAA125BE3D6CBD>
+	edm:isShownAt <https://hdl.handle.net/21.12133/5D7ACC40973746258DCAA125BE3D6CBD> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_XXI-85-05-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904332461&mivast=184&rdt=20200809&open=2E5B3> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Leeszaal van de Gemeentebibliotheek aan de Boijmansstraat." ;
+	dc:date "1905-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/7E3A8212073E41409CE77445D065BD90>
+	edm:isShownAt <https://hdl.handle.net/21.12133/7E3A8212073E41409CE77445D065BD90> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_XXI-85-04-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904332460&mivast=184&rdt=20200809&open=273EC> ;
+	dc:creator "(auteur): Evert (E.) Miedema" ;
+	dc:title "" ;
+	dc:description "Leeszaal van de Gemeentebibliotheek aan de Boijmansstraat." ;
+	dc:date "1905-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/F2B86D416F004765903513CC2989039E>
+	edm:isShownAt <https://hdl.handle.net/21.12133/F2B86D416F004765903513CC2989039E> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_XXI-86-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904332462&mivast=184&rdt=20200809&open=3FE32> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Leeszaal van de Gemeentebibliotheek aan de Boijmansstraat met de ambtenaren: zittend links F.J. Hoogeveen, rechts bibliothecaris G. van Rijn, staand links de heer Fritschij, rechts W. Walters J. Jz." ;
+	dc:date "1907-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/6506D6055E164B5C8437164F918EDE5C>
+	edm:isShownAt <https://hdl.handle.net/21.12133/6506D6055E164B5C8437164F918EDE5C> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_IX-422-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904329620&mivast=184&rdt=20200809&open=CED95> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "De Boijmansstraat met links de Gemeentebibliotheek, rechts Museum Boymans/Schielandshuis op het Van Hogendorpsplein." ;
+	dc:date "1908-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/0A931A8ED7D14DFE801D6754368E9AF6>
+	edm:isShownAt <https://hdl.handle.net/21.12133/0A931A8ED7D14DFE801D6754368E9AF6> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-4892-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904387006&mivast=184&rdt=20200809&open=4439B> ;
+	dc:creator "" ;
+	dc:title "Leesbibliotheek, Rotterdam" ;
+	dc:description "De Gemeentebibliotheek aan de Nieuwemarkt, uit het zuiden gezien. Links de Botersloot." ;
+	dc:date "1930-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/3209E9E0014546A5A60DC57C0365482B>
+	edm:isShownAt <https://hdl.handle.net/21.12133/3209E9E0014546A5A60DC57C0365482B> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4156/NL-RtSA_4156_IV-343-50-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904354267&mivast=184&rdt=20200809&open=3553F> ;
+	dc:creator "(auteur): Hendrik Ferdinand (H.F.) Grimeyer" ;
+	dc:title "" ;
+	dc:description "Bouwterrein van het kantoorgebouw van de Plaatselijke Telefoondienst aan de Botersloot, rechts de Gemeentebibliotheek aan de Nieuwemarkt, gezien vanaf de Stadhuissteeg." ;
+	dc:date "1942-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/842840A56E5E4343A14971E549BDD4CD>
+	edm:isShownAt <https://hdl.handle.net/21.12133/842840A56E5E4343A14971E549BDD4CD> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4140/NL-RtSA_4140_1977-3329-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904397821&mivast=184&rdt=20200809&open=56A56> ;
+	dc:creator "Johannes (Bob) (J.) van Rhijn" ;
+	dc:title "" ;
+	dc:description "Het Adviesbureau Stadsplan Rotterdam (ASRO) en de DIWERO: Dienst voor de uitvoering van den Wederopbouw van Rotterdam zijn tijdelijk ondergebracht in de Gemeentebibliotheek aan de Nieuwemarkt." ;
+	dc:date "1940-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/A3536509F89A46CB8A3D02E84FD5B6BF>
+	edm:isShownAt <https://hdl.handle.net/21.12133/A3536509F89A46CB8A3D02E84FD5B6BF> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_305486-1-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904515514&mivast=184&rdt=20200809&open=9667B> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Leeszaal van de Gemeentebilbliotheek Nieuwemarkt" ;
+	dc:description "Iinterieur van de leeszaal van de Gemeentebibliotheek aan de Nieuwemarkt." ;
+	dc:date "1967-02-10"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/987D9C2E84204EE2A08CD44BC8C802CD>
+	edm:isShownAt <https://hdl.handle.net/21.12133/987D9C2E84204EE2A08CD44BC8C802CD> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2005-10616-TM-10619-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904542685&mivast=184&rdt=20200809&open=E490A> ;
+	dc:creator "Alex (Lex) (A.) de Herder, 03/01/1927-02/02/2000" ;
+	dc:title "" ;
+	dc:description "GemeentebibliotheekVan boven naar beneden:-10616: Het interieur van de Gemeentebibliotheek. De uitleenbalie.-10617: Het toetsenbord van een computer in gebruik.-10618: De kaartenbakjes van de catalogus.-10619: De Radic-afdeling: knipsels uit kranten, tijdschriften." ;
+	dc:date "1981-10-08"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/626E93197AFC4FCAA658A63AACB0F6D2>
+	edm:isShownAt <https://hdl.handle.net/21.12133/626E93197AFC4FCAA658A63AACB0F6D2> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2005-11111-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904543183&mivast=184&rdt=20200809&open=64006> ;
+	dc:creator "Alex (Lex) (A.) de Herder, 03/01/1927-02/02/2000" ;
+	dc:title "" ;
+	dc:description "De Gemeentebibliotheek met de markt bij de Hoogstraat." ;
+	dc:date "1985-03-10"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/9CBA8777E5434D02AF2306A1B5EA2FB2>
+	edm:isShownAt <https://hdl.handle.net/21.12133/9CBA8777E5434D02AF2306A1B5EA2FB2> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_XXIV-44-00-01-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904332319&mivast=184&rdt=20200809&open=B5FE9> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Interieur van club Pschorr aan de Korte Hoogstraat." ;
+	dc:date "1908-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/8EE9520E780C4FC6B0F00ABB49C2E4D6>
+	edm:isShownAt <https://hdl.handle.net/21.12133/8EE9520E780C4FC6B0F00ABB49C2E4D6> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-8879-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904389357&mivast=184&rdt=20200809&open=BF9F7> ;
+	dc:creator "" ;
+	dc:title "Rotterdam, Cafe Pschorr" ;
+	dc:description "Diverse afbeeldingen Rotterdam. Boompjes, Maasbruggen, restaurant Concertgebouw en De Kolk." ;
+	dc:date "1900-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/C4C03751B8784FEDB08B1DD639C5D84E>
+	edm:isShownAt <https://hdl.handle.net/21.12133/C4C03751B8784FEDB08B1DD639C5D84E> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-1993-712-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904378842&mivast=184&rdt=20200809&open=CDAE4> ;
+	dc:creator "" ;
+	dc:title "Café Pschorr den Rotterdam." ;
+	dc:description "Reclameprentbriefkaart voor café Pschorr met 4 afbeeldingen van onder andere: de Korte Hoogstraat, het concertgebouw, de Nieuwe Maas en de Coolsingel." ;
+	dc:date "1900-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/32D02D0747BF415BAD9716D5175B99B6>
+	edm:isShownAt <https://hdl.handle.net/21.12133/32D02D0747BF415BAD9716D5175B99B6> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_XXIII-76-2-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904474726&mivast=184&rdt=20200809&open=6580E> ;
+	dc:creator "" ;
+	dc:title "Het nieuwe circus- en concertgebouw" ;
+	dc:description "Het circus- en concertgebouw aan het Stationsplein." ;
+	dc:date "1893-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/1A58CC86C2F748CD95E95199D824B919>
+	edm:isShownAt <https://hdl.handle.net/21.12133/1A58CC86C2F748CD95E95199D824B919> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4080/NL-RtSA_4080_XXIII-76-1-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904474725&mivast=184&rdt=20200809&open=EF25A> ;
+	dc:creator "(auteur): (E.) Adeya" ;
+	dc:title "Aus dem Circus wulff. Nach einer photographischen Aufnahme" ;
+	dc:description "Interieur het nieuwe circus- en concertgebouw aan het Stationsplein." ;
+	dc:date "1893-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/5FFBFA8B86174FDCABE54982F85C6756>
+	edm:isShownAt <https://hdl.handle.net/21.12133/5FFBFA8B86174FDCABE54982F85C6756> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-257-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904384599&mivast=184&rdt=20200809&open=77C35> ;
+	dc:creator "" ;
+	dc:title "Groeten uit Rotterdam Circus Pfläging ; Serietitel Groeten uit Rotterdam" ;
+	dc:description "Gezicht op het Circus-Variété, dat tegenover het station Delftse Poort aan het Stationsplein lag." ;
+	dc:date "1900-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/216230508EAA42539907BC29C8EE058E>
+	edm:isShownAt <https://hdl.handle.net/21.12133/216230508EAA42539907BC29C8EE058E> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4029/NL-RtSA_4029_PBK-258-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904384610&mivast=184&rdt=20200809&open=ED4A0> ;
+	dc:creator "" ;
+	dc:title "CIRCUS VARIETE ROTTERDAM" ;
+	dc:description "Het interieur van het Circus-Variété aan het Stationsplein." ;
+	dc:date "1910-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/0CA168FEC0CC448FA85C3AB857862599>
+	edm:isShownAt <https://hdl.handle.net/21.12133/0CA168FEC0CC448FA85C3AB857862599> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_XXIII-23-00-00-02-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904324689&mivast=184&rdt=20200809&open=055CA> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Concert van het Rotterdams Philharmonisch Orkest in de gerestaureerde zaal van De Doelen/Sociëteit de Harmonie." ;
+	dc:date "1937-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/B674E1DCCA15476EB7A452BCEFC05459>
+	edm:isShownAt <https://hdl.handle.net/21.12133/B674E1DCCA15476EB7A452BCEFC05459> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_1998-1079-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904537993&mivast=184&rdt=20200809&open=49CE0> ;
+	dc:creator "(auteur): Jan (J.) van der Kamp, 1902-1965" ;
+	dc:title "" ;
+	dc:description "Het Stationsplein met het pand van de vereniging St. Jozefgezellen in het midden." ;
+	dc:date "1937-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/C4D76F963E10477C880DC399F8FC1357>
+	edm:isShownAt <https://hdl.handle.net/21.12133/C4D76F963E10477C880DC399F8FC1357> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_304187-27-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904515241&mivast=184&rdt=20200809&open=80D47> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Interieur Musica in Overschie" ;
+	dc:description "De theaterzaal van het gebouw Musica aan de Lugt in Overschie is op 1 februari 1962 officieel geopend.." ;
+	dc:date "1962-02-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/65ED3386B2CA4AEF8A3F9CFE8D7C2EDC>
+	edm:isShownAt <https://hdl.handle.net/21.12133/65ED3386B2CA4AEF8A3F9CFE8D7C2EDC> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4100/NL-RtSA_4100_2005-1745-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904543631&mivast=184&rdt=20200809&open=F954C> ;
+	dc:creator "(auteur): Erik (E.) Kruit" ;
+	dc:title "" ;
+	dc:description "Het wijkgebouw Musica aan De Lugt in Overschie." ;
+	dc:date "1972-01-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/CF55514535C1454F95AF9BBA3CB7ADE9>
+	edm:isShownAt <https://hdl.handle.net/21.12133/CF55514535C1454F95AF9BBA3CB7ADE9> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_8072-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904508582&mivast=184&rdt=20200809&open=92752> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Concert bij het Leger des Heils" ;
+	dc:description "Concert Leopold Central Hall Band uit Congo in congreszaal van het Leger des Heils aan de William Boothlaan." ;
+	dc:date "1965-06-19"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/4EB00C73489041E791D6162FBD050E4E>
+	edm:isShownAt <https://hdl.handle.net/21.12133/4EB00C73489041E791D6162FBD050E4E> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4121/NL-RtSA_4121_7653-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904508255&mivast=184&rdt=20200809&open=E532E> ;
+	dc:creator "(fotograaf): Ary (A.) Groeneveld" ;
+	dc:title "Leger des Heils" ;
+	dc:description "Recreatieruimte in hoofdgebouw en congresruimte van het Leger des Heils aan de William Boothlaan 8." ;
+	dc:date "1964-02-01"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/B52016D582074194BCD745C4DA9E6A30>
+	edm:isShownAt <https://hdl.handle.net/21.12133/B52016D582074194BCD745C4DA9E6A30> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_1971-1869-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904334391&mivast=184&rdt=20200809&open=30DFC> ;
+	dc:creator "" ;
+	dc:title "" ;
+	dc:description "Gezicht op de Energiehal aan de Abraham van Stolkweg." ;
+	dc:date "1971-09-07"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+
+<https://hdl.handle.net/21.12133/F5B2C9224F3F47E4BC1F8ECFAA21CF1D>
+	edm:isShownAt <https://hdl.handle.net/21.12133/F5B2C9224F3F47E4BC1F8ECFAA21CF1D> ;
+	foaf:depiction <https://preserve-gar.archieven.nl/mi-184/fonc-gar/4202/NL-RtSA_4202_1970-2579-01.jpg?format=thumb&size=500px&miadt=184&miahd=1904334278&mivast=184&rdt=20200809&open=529FA> ;
+	dc:creator "(auteur): Fototechnische Dienst Rotterdam ( Gemeentewerken, Openbare Werken )" ;
+	dc:title "" ;
+	dc:description "Gezicht op de Energiehal aan de Abraham van Stolkweg." ;
+	dc:date "1970-01-03"^^xsd:datetime ;
+	a edm:ProvidedCHO .
+

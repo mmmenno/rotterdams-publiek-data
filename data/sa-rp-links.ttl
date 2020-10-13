@@ -1,0 +1,525 @@
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+
+<https://hdl.handle.net/21.12133/2FFC82D813934DA3A31F4DED2657CB56> dct:spatial wd:Q76161162 .
+
+<https://hdl.handle.net/21.12133/88C5AE7E08124B1C9337D14185A4BF43> dct:spatial wd:Q76161844 .
+
+<https://hdl.handle.net/21.12133/24B8A0EB4E044F1BB1B5C127EC2EDAFE> dct:spatial wd:Q76161112 .
+
+<https://hdl.handle.net/21.12133/738E741EDD0C4916B555005BE01BFE54> dct:spatial wd:Q76161160 .
+
+<https://hdl.handle.net/21.12133/286CBA70DE284420BC90875601E6B5A7> dct:spatial wd:Q76161112 .
+
+<https://hdl.handle.net/21.12133/FD2E0197B7E04F8BA99A224DEF4AF908> dct:spatial wd:Q76161162 .
+
+<https://hdl.handle.net/21.12133/2563225F52E147EA97F43A1DDD1AD064> dct:spatial wd:Q76161162 .
+
+<https://hdl.handle.net/21.12133/174C779127284201A129E82623390817> dct:spatial wd:Q76161120 .
+
+<https://hdl.handle.net/21.12133/8D36FA45FE874DD29EE11A10BAA827D8> dct:spatial wd:Q76161120 .
+
+<https://hdl.handle.net/21.12133/22D41730DA2943A299111BCBAF203FF5> dct:spatial wd:Q38238742 .
+
+<https://hdl.handle.net/21.12133/2553566D8AD8404BBC228FDD83F96278> dct:spatial wd:Q2495837 .
+
+<https://hdl.handle.net/21.12133/2553566D8AD8404BBC228FDD83F96278> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/B87D368FAFD24957AB4D155E5D00A3B7> dct:spatial wd:Q38238736 .
+
+<https://hdl.handle.net/21.12133/614C50E76F52430D852B4CD1AB5F7AF2> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/DC230F87F37F4681816D9BE0569511CA> dct:spatial wd:Q38238736 .
+
+<https://hdl.handle.net/21.12133/2E0F473D861E457BBC198B2A32061D72> dct:spatial wd:Q2495837 .
+
+<https://hdl.handle.net/21.12133/A3B349F21E794E91A6CDC84EDF739CAB> dct:spatial wd:Q38238736 .
+
+<https://hdl.handle.net/21.12133/38195988CAA841DFAD22F5EC177C936E> dct:spatial wd:Q76161136 .
+
+<https://hdl.handle.net/21.12133/3976D687F542427CBCF43697C5A489A7> dct:spatial wd:Q38238761 .
+
+<https://hdl.handle.net/21.12133/39111025C50247F39C9016EC10A5B751> dct:spatial wd:Q38238761 .
+
+<https://hdl.handle.net/21.12133/7A2E3261D0264E47B9D155FFAF1A8613> dct:spatial wd:Q76161172 .
+
+<https://hdl.handle.net/21.12133/15F6FEB2AB964002BBB0167279E0EF4B> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/FF992E4DA52C4BA898ABA4A58557B0A5> dct:spatial wd:Q76161127 .
+
+<https://hdl.handle.net/21.12133/53294D7127864BAF87A155F168F0A28C> dct:spatial wd:Q75189849 .
+
+<https://hdl.handle.net/21.12133/E67FE467C0674A6EABCA57C7F1660914> dct:spatial wd:Q15875871 .
+
+<https://hdl.handle.net/21.12133/0B4D0D28E3C249B1B1E9D0FFC8204F03> dct:spatial wd:Q15875871 .
+
+<https://hdl.handle.net/21.12133/33DB34C70A14491BBAAD25C7CA7D4450> dct:spatial wd:Q76161844 .
+
+<https://hdl.handle.net/21.12133/F20ECBE76A2D4B459A35C61824667B96> dct:spatial wd:Q76161141 .
+
+<https://hdl.handle.net/21.12133/DE8D1932F2C64731A32FA7BA24E644F5> dct:spatial wd:Q15875871 .
+
+<https://hdl.handle.net/21.12133/414AD56BDD4C4B638BDB06AD2F83C681> dct:spatial wd:Q76161160 .
+
+<https://hdl.handle.net/21.12133/4AC28732CC0640328AED7A50D35A8FEB> dct:spatial wd:Q76161162 .
+
+<https://hdl.handle.net/21.12133/68710E4A483A4B1B86A7BC3ED9E690F6> dct:spatial wd:Q76161160 .
+
+<https://hdl.handle.net/21.12133/220A19E711D74179A10EDFB06F8993ED> dct:spatial wd:Q76161141 .
+
+<https://hdl.handle.net/21.12133/7EE4E1D36D864609BFE64DAB9BE23349> dct:spatial wd:Q76161112 .
+
+<https://hdl.handle.net/21.12133/D7F7855B07844D279755FA9857A142FB> dct:spatial wd:Q76161112 .
+
+<https://hdl.handle.net/21.12133/2901F8AF66E74DA89F581CE9D0AA9FA8> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/73B4C94F0BD0435195F9AA1431F1630A> dct:spatial wd:Q76161162 .
+
+<https://hdl.handle.net/21.12133/79DD840485244D1C870F6DFB4A65EDD7> dct:spatial wd:Q76161844 .
+
+<https://hdl.handle.net/21.12133/E80855BC44F84C7DA575FE8BD0A97945> dct:spatial wd:Q76161160 .
+
+<https://hdl.handle.net/21.12133/541D303078E443AB96E0916A3509D85A> dct:spatial wd:Q15875871 .
+
+<https://hdl.handle.net/21.12133/38EA551EEBAF4CBEB2B45B1675A2CD08> dct:spatial wd:Q15875871 .
+
+<https://hdl.handle.net/21.12133/869449E7130741198F5F9F0FC2EFB055> dct:spatial wd:Q15875871 .
+
+<https://hdl.handle.net/21.12133/1F1D3005EB1E4DECA2C53449D40750CA> dct:spatial wd:Q76161160 .
+
+<https://hdl.handle.net/21.12133/E6E77BC345AE47F781DD3355529780A7> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/CE84CBF1943A4EEF918DB6ED4F8E6FC1> dct:spatial wd:Q76161120 .
+
+<https://hdl.handle.net/21.12133/B0D72E5ECCCF4559A10AEB9DB444E973> dct:spatial wd:Q76161123 .
+
+<https://hdl.handle.net/21.12133/1268E55AABD04E72BEC4A171AFAD4D2C> dct:spatial wd:Q76161132 .
+
+<https://hdl.handle.net/21.12133/51BAB7D2F90C48588E5BCF540704178E> dct:spatial wd:Q2495837 .
+
+<https://hdl.handle.net/21.12133/39CB9B60B7864489A905BCA18675B330> dct:spatial wd:Q76161123 .
+
+<https://hdl.handle.net/21.12133/3B06DB053A2B4EDFA6C5B4A6D1FE0C79> dct:spatial wd:Q71545111 .
+
+<https://hdl.handle.net/21.12133/528D2D7B737B4FBC8D527437BB01B29A> dct:spatial wd:Q71545111 .
+
+<https://hdl.handle.net/21.12133/4B6B28D551024446AA494338D85AD7B5> dct:spatial wd:Q2495837 .
+
+<https://hdl.handle.net/21.12133/C1F9A2AB546C4A268C3AD6E3E3EA9E07> dct:spatial wd:Q71545111 .
+
+<https://hdl.handle.net/21.12133/DF2301AD4C9541DD96DB726F8E97D9D0> dct:spatial wd:Q38238710 .
+
+<https://hdl.handle.net/21.12133/A6EC99A8A7704B61AACF456183F5C086> dct:spatial wd:Q38238710 .
+
+<https://hdl.handle.net/21.12133/E8A23F8B8FF442BD834210FD70718B0E> dct:spatial wd:Q71545111 .
+
+<https://hdl.handle.net/21.12133/130EAD12B33846D6A88D370908C98293> dct:spatial wd:Q71545111 .
+
+<https://hdl.handle.net/21.12133/958D82CC4E3F4C51B8E8988706F54131> dct:spatial wd:Q38238742 .
+
+<https://hdl.handle.net/21.12133/381ECC779AE743D4AA0D8F28553C5D0C> dct:spatial wd:Q38238742 .
+
+<https://hdl.handle.net/21.12133/B13EECD014D84B998DEB3B9FF7681EA8> dct:spatial wd:Q38238721 .
+
+<https://hdl.handle.net/21.12133/2973C3C0D81E46E5BCE71A4F6939FE80> dct:spatial wd:Q38238710 .
+
+<https://hdl.handle.net/21.12133/B63018EFBDFB4B8590BCF970D0893604> dct:spatial wd:Q38238721 .
+
+<https://hdl.handle.net/21.12133/2625C1DAAB4349E3944B5E54F6C6D7CC> dct:spatial wd:Q38238721 .
+
+<https://hdl.handle.net/21.12133/B63BB27431404B429D1EB0687C4046A6> dct:spatial wd:Q38238721 .
+
+<https://hdl.handle.net/21.12133/A5319F4C0A164162ABAF3A81AC354250> dct:spatial wd:Q38238721 .
+
+<https://hdl.handle.net/21.12133/F5BE37AC3112478C9827F40893253B3F> dct:spatial wd:Q71545111 .
+
+<https://hdl.handle.net/21.12133/69462A7F672D4F99827DAFD0A16233DC> dct:spatial wd:Q71545111 .
+
+<https://hdl.handle.net/21.12133/A2B6DF4AC1D44F25A560648E3F601916> dct:spatial wd:Q2845918 .
+
+<https://hdl.handle.net/21.12133/516F0984B1914FE895D8AD73A0F39C30> dct:spatial wd:Q76161120 .
+
+<https://hdl.handle.net/21.12133/936FAC586A15481BA2DFE1E85FBD4D50> dct:spatial wd:Q38238721 .
+
+<https://hdl.handle.net/21.12133/7A9C64C944CA4862B8091D7CB6CC2246> dct:spatial wd:Q76161116 .
+
+<https://hdl.handle.net/21.12133/EC25689E98DA40278659473BB796C631> dct:spatial wd:Q76161116 .
+
+<https://hdl.handle.net/21.12133/BA5A5BF138C6409E8315AD5B0F1BEB3C> dct:spatial wd:Q76161173 .
+
+<https://hdl.handle.net/21.12133/8DAF3A2B8607498C995455103CC97B50> dct:spatial wd:Q76161173 .
+
+<https://hdl.handle.net/21.12133/038560DAFE93424584AFAABA394E5566> dct:spatial wd:Q76161173 .
+
+<https://hdl.handle.net/21.12133/E12D0FDB4D2F49D88F101C3175973296> dct:spatial wd:Q76161120 .
+
+<https://hdl.handle.net/21.12133/203684E23E6248848CCB0AE61E29C51D> dct:spatial wd:Q71545111 .
+
+<https://hdl.handle.net/21.12133/E9A7EE598B8E473084468F2594034384> dct:spatial wd:Q76161120 .
+
+<https://hdl.handle.net/21.12133/D13A884DDE54433EBA8DEFDCB3EC6876> dct:spatial wd:Q76161123 .
+
+<https://hdl.handle.net/21.12133/585757789B4E4680A1123443D7D14D34> dct:spatial wd:Q76161173 .
+
+<https://hdl.handle.net/21.12133/CD7DE6372AB945D6B0890C9AA26A5583> dct:spatial wd:Q76161120 .
+
+<https://hdl.handle.net/21.12133/18BAD3CAC81149F8AC2318506AEE98D9> dct:spatial wd:Q71545111 .
+
+<https://hdl.handle.net/21.12133/3EDFDC5FC76449AA9EE7FD6E465E59B2> dct:spatial wd:Q71545111 .
+
+<https://hdl.handle.net/21.12133/7AA853447F9E499F97A606561BFDCBB4> dct:spatial wd:Q38238736 .
+
+<https://hdl.handle.net/21.12133/B60A17100E16422FB506208348E50326> dct:spatial wd:Q75189849 .
+
+<https://hdl.handle.net/21.12133/3C6BE7BA83EA4BDBA0A08BFBBA2EC539> dct:spatial wd:Q76161123 .
+
+<https://hdl.handle.net/21.12133/9CE4D5D9B681427A909F23B71C5870AC> dct:spatial wd:Q76161123 .
+
+<https://hdl.handle.net/21.12133/14BC6EC7D55B4B069D0D2295F01307FE> dct:spatial wd:Q75189849 .
+
+<https://hdl.handle.net/21.12133/CEF6686BDA9C44E9B05FDBA6663E49C7> dct:spatial wd:Q76161120 .
+
+<https://hdl.handle.net/21.12133/73FC9BE35824433F91DFBC4671019135> dct:spatial wd:Q76161132 .
+
+<https://hdl.handle.net/21.12133/2FA3A0F111124EE7B25AFA8BECB1779F> dct:spatial wd:Q76161120 .
+
+<https://hdl.handle.net/21.12133/97BEDDB821DB4E54BE10CCE4AD738BA2> dct:spatial wd:Q76161120 .
+
+<https://hdl.handle.net/21.12133/B79E331CFB444BAD91F5F2E20DA374E8> dct:spatial wd:Q76161120 .
+
+<https://hdl.handle.net/21.12133/54D3236383164BAFAD9B1268948EDD60> dct:spatial wd:Q76161120 .
+
+<https://hdl.handle.net/21.12133/4C205C6D14574DD9B63C3A04BAD442D5> dct:spatial wd:Q71545111 .
+
+<https://hdl.handle.net/21.12133/BB409C03CEB0437898C23B7224926FDB> dct:spatial wd:Q2845918 .
+
+<https://hdl.handle.net/21.12133/77F838CDEDCA41D4ACBE0C3359C33CD9> dct:spatial wd:Q76161173 .
+
+<https://hdl.handle.net/21.12133/4FD93C5AA25D46BA8503597DAF7F081A> dct:spatial wd:Q38238736 .
+
+<https://hdl.handle.net/21.12133/6879DE90FB4646E28528A49C51D2CC8C> dct:spatial wd:Q2495837 .
+
+<https://hdl.handle.net/21.12133/EB1C7B9718D44CC394284F1336AA446B> dct:spatial wd:Q2495837 .
+
+<https://hdl.handle.net/21.12133/285CA3CDDFCC43EAB9C3282540958443> dct:spatial wd:Q76161141 .
+
+<https://hdl.handle.net/21.12133/30B5CBD0DEE8487BA9F39F88E0F7E244> dct:spatial wd:Q76161141 .
+
+<https://hdl.handle.net/21.12133/3AFCD0AF86624CCA87C355F17F630E64> dct:spatial wd:Q76161141 .
+
+<https://hdl.handle.net/21.12133/29CC2706443846908C9A56430026E125> dct:spatial wd:Q15875871 .
+
+<https://hdl.handle.net/21.12133/1374379FEE574B0A840B39C44EA2006F> dct:spatial wd:Q15875871 .
+
+<https://hdl.handle.net/21.12133/D9B2623EDB524638BA3D986CBE563596> dct:spatial wd:Q15875871 .
+
+<https://hdl.handle.net/21.12133/A672803257614F41AB342A5E8B72B420> dct:spatial wd:Q15875871 .
+
+<https://hdl.handle.net/21.12133/0722FA84831443E9B4FD6C8237EC07EF> dct:spatial wd:Q15875871 .
+
+<https://hdl.handle.net/21.12133/BE74001AF98A4177B2E0FEF2BB016C9B> dct:spatial wd:Q15875871 .
+
+<https://hdl.handle.net/21.12133/BFC59D838D6E480BB01A756F8823B817> dct:spatial wd:Q15875871 .
+
+<https://hdl.handle.net/21.12133/CBFD4C8EC95940309F49B5B2E7C0C939> dct:spatial wd:Q78861313 .
+
+<https://hdl.handle.net/21.12133/731460A89E0E4AE9945066BF73A82D0E> dct:spatial wd:Q15875871 .
+
+<https://hdl.handle.net/21.12133/593C2EA4768C443E9430465E28950290> dct:spatial wd:Q78861313 .
+
+<https://hdl.handle.net/21.12133/9AF29D89B10945C7A2893812431419C4> dct:spatial wd:Q15875871 .
+
+<https://hdl.handle.net/21.12133/D4B27F478B98435881E07CB46621E2E5> dct:spatial wd:Q76161112 .
+
+<https://hdl.handle.net/21.12133/0B79BB2AFF2C4FC183A0C84EB37BC7F6> dct:spatial wd:Q15875871 .
+
+<https://hdl.handle.net/21.12133/65E28421DFED42D285CF192DAFE55803> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/867D81CE5443481997EDAA2CEA1B37FB> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/6D2EB6FEAF004BBCB311FE6ED62140EF> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/97DE1F4EE66C48C485545C9BE9FCEAEA> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/7C004AC9A2D54ECB8DA0BB2C3101DC8F> dct:spatial wd:Q38238710 .
+
+<https://hdl.handle.net/21.12133/B4A36E6AB51E4D8EAB3500A4A03BE3A8> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/FB47D93ED983421BB97D47E43D872429> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/172A856DE6E7443297FE9D1638417A2D> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/7F9EA37C567F45A3AF672353A24E1A13> dct:spatial wd:Q38238710 .
+
+<https://hdl.handle.net/21.12133/CBA8F5000A084F9885784E847ACCE5BC> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/81567AA46299487CAC41033110B1A360> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/1837B6C8F7AD4741AA18FFF74A3DF384> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/E08CC0C4851245D7933F89EB892E915B> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/42DE95C457BC469DBC617DD98ED26876> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/E77506CB794F4BB68538A721E59FC971> dct:spatial wd:Q81757545 .
+
+<https://hdl.handle.net/21.12133/D5D5703C573A462B9793050F6DFDC910> dct:spatial wd:Q81757545 .
+
+<https://hdl.handle.net/21.12133/7DD1FF5D6C3B451CA5EA9BA848831BB6> dct:spatial wd:Q81757545 .
+
+<https://hdl.handle.net/21.12133/52C198221B68407D87B887F514571E71> dct:spatial wd:Q81940145 .
+
+<https://hdl.handle.net/21.12133/89307D0B36924C29BD631A38FB7B2101> dct:spatial wd:Q81757545 .
+
+<https://hdl.handle.net/21.12133/62BAEE0048614745ABFF55364C9F1B83> dct:spatial wd:Q14480520 .
+
+<https://hdl.handle.net/21.12133/2FDB7B42BD3347E2B5F681DB8748ABC7> dct:spatial wd:Q81757545 .
+
+<https://hdl.handle.net/21.12133/981EABF5F22F40EDB8E682A52D65A374> dct:spatial wd:Q81757545 .
+
+<https://hdl.handle.net/21.12133/BD3E48C336E44357BB7F6CB6869B05CD> dct:spatial wd:Q4672497 .
+
+<https://hdl.handle.net/21.12133/A2A7A93DA42C4BFFA76D5B1AACEEFA6D> dct:spatial wd:Q100278118 .
+
+<https://hdl.handle.net/21.12133/29FCAF18704D405A898A22B80EDEDD2F> dct:spatial wd:Q81940145 .
+
+<https://hdl.handle.net/21.12133/5ED45B71F8A741759D0899C80136AE42> dct:spatial wd:Q81940145 .
+
+<https://hdl.handle.net/21.12133/DE338292805D48EDAD7818BB026B3A88> dct:spatial wd:Q81940145 .
+
+<https://hdl.handle.net/21.12133/6DB70CE8F19C475C9B1D7063E912D525> dct:spatial wd:Q14480520 .
+
+<https://hdl.handle.net/21.12133/A7E36A352012478EBACD3C9B800A1E65> dct:spatial wd:Q81936319 .
+
+<https://hdl.handle.net/21.12133/8F640E68DDEC4422B29E6C7A3435151C> dct:spatial wd:Q81940145 .
+
+<https://hdl.handle.net/21.12133/5E131C1A85CF4E66BDE83A57C9D9AC08> dct:spatial wd:Q38238747 .
+
+<https://hdl.handle.net/21.12133/53A096F26DC546C183C062D96879B3C4> dct:spatial wd:Q38238747 .
+
+<https://hdl.handle.net/21.12133/55332A1BAC06497E9587250A5D89E834> dct:spatial wd:Q38238747 .
+
+<https://hdl.handle.net/21.12133/64C9A64DDB824247AC5A2786E7D1283B> dct:spatial wd:Q38238747 .
+
+<https://hdl.handle.net/21.12133/9C875625772F459D90FEA5338A85BD21> dct:spatial wd:Q81935923 .
+
+<https://hdl.handle.net/21.12133/04737DA7B54443D18B6DBFB73F5DECD8> dct:spatial wd:Q81935923 .
+
+<https://hdl.handle.net/21.12133/D74A8C00295D4713A1B456F272975214> dct:spatial wd:Q81935923 .
+
+<https://hdl.handle.net/21.12133/B105FEE3E85E4D0E99FB9AFDA2855167> dct:spatial wd:Q81935923 .
+
+<https://hdl.handle.net/21.12133/970B65C3CBFD45E59A1FD3C02A3E29AE> dct:spatial wd:Q81935923 .
+
+<https://hdl.handle.net/21.12133/261D3E9A69A14C9498666F42A1876BF1> dct:spatial wd:Q81935923 .
+
+<https://hdl.handle.net/21.12133/7559F1CF68B9450E8E86C8BD73F7ABFA> dct:spatial wd:Q81935923 .
+
+<https://hdl.handle.net/21.12133/7B3C2A1868974F34AE1130D473B45897> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/7F1A4D4AC20549AF9D4E7F6D174DB225> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/6288E140FC154329A943A78F57717977> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/BF88CF20831843D79C965827642E0E64> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/838147E62E3B4C40A6614798246EFF43> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/52E9974706CC4532A17899DCA2AF9D0E> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/DCC36B0BEEC74134BC884DFEA5A149C1> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/335809514C0E4F6E9AA2CDD1F1F290BB> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/53481C2E1F424442842FD5A64A775343> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/BB0E6017A0E148B885877C28D0F3752B> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/BF0E3C86EC6543FB8B220AEF463551AF> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/B44CD69822434643BA1747710CA371C6> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/9BF5AFD66D7C4C77B865A0FC7B69BCEF> dct:spatial wd:Q81935923 .
+
+<https://hdl.handle.net/21.12133/A75E6722972C423EAA91700F854FDEA0> dct:spatial wd:Q81935923 .
+
+<https://hdl.handle.net/21.12133/8EBFEA02B930476B9BBD7C77CDD235C9> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/124BDA3C2319456AA09DEDB90CB3FCC6> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/F5BB4A40E3E34EE392900C10323147AE> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/BA5B721EDB8B4552B7C740951960AD3B> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/DFB277B701E34B0FB9D6C5354B50A131> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/E58DD1BEE28248658185F8604F5E436C> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/2BF8136192DC49A4AD4D67DBB080E58C> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/D290C0BCA5414FEC949C0622C5E9C28B> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/280B648B3FF848DDB91D9AB3B0F9DF34> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/4D32B9F484CC49AF8F4BFDEA403023FA> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/E37C14ED1A7B45DE82B4F507B068E232> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/A6CCE85ED5C74AC8956E7057E077EF60> dct:spatial wd:Q76161121 .
+
+<https://hdl.handle.net/21.12133/9CFF87B75EA64AA39B35F6AC5C649A2E> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/9BACE076335A4D92B52FDF72527D046A> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/15F6FEB2AB964002BBB0167279E0EF4B> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/5F99D1D4486A4B80AB93B550E2EED279> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/1A8CC2AD020742B19E41088EF7D20FAD> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/E1B24507150B459FAF987773E1441A1B> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/72F24393F48548599917481840FEC879> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/6DE3FC6AA389448483ECE9865B385462> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/91B23D66CCC3452C9D7D2BCBF6768766> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/DD93A46E956B4C9D9F92FD347BAC9779> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/390472ABC9CB4599B28C77A90513447D> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/1023788F714240DB961BCE7BE428FA57> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/A25161BEE3514399B3E7633B56B97246> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/44FD0C8C80BD44E980D932B262EB1AC1> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/1F0A96E0CB7D448682201AB746A7C290> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/1D2D61E150BF4C5D8925B07B8F419F3F> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/8CBAD9F522814922BE39D907A0BDCFA8> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/801B5F81C0B8444F8938941DEAC2968B> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/5DEAB8B829BB47E784F221D00A61EEDD> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/EDC1097AC70C4122851BDB939653A2F7> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/BE5E989C7E844364BA4D39139EF095F9> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/4C52BC2B45CE4CBF9CB28C3E22E1AD32> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/093E3854FC284E41B3499F01B77BAF6E> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/0845D672CAF14C029D4C9F327B414F2B> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/4CA6D4EBB1784DEAB83A7F98553F26A0> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/D6B59243CADC4EEEB3FF339D77C71EFA> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/0ADF528435B24115AE6746511CFDAABF> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/7184A1971DB546C482409B664638FEF7> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/A62B9FBD19F744BCAA57BEEC379BEDE9> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/395388E50E444C5A9EA3949C61AE9CC8> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/B0520FA52CA943B48C8DEDA404653156> dct:spatial wd:Q19921978 .
+
+<https://hdl.handle.net/21.12133/D77296A639984271B8E3FD1E03F66D88> dct:spatial wd:Q45407664 .
+
+<https://hdl.handle.net/21.12133/4C9476F4A1C5404593687CFFE838BAAC> dct:spatial wd:Q81936319 .
+
+<https://hdl.handle.net/21.12133/450482669AEC43FABBF78B08C8990DAB> dct:spatial wd:Q81936319 .
+
+<https://hdl.handle.net/21.12133/7B1DF9F5D80B4C009DDBA6F7A63833FE> dct:spatial wd:Q81936319 .
+
+<https://hdl.handle.net/21.12133/5217BC38E0B14A32A02E16130E952E1C> dct:spatial wd:Q81936319 .
+
+<https://hdl.handle.net/21.12133/4158127DCB8D45C8A98806F44B31CF8B> dct:spatial wd:Q14480520 .
+
+<https://hdl.handle.net/21.12133/B79720FBFB8C4663BF1297E59B330AFC> dct:spatial wd:Q81936319 .
+
+<https://hdl.handle.net/21.12133/A365357A170C459BADE80DA387DCE517> dct:spatial wd:Q81936319 .
+
+<https://hdl.handle.net/21.12133/66A42CFA6E0A4B6B8BCBCDC7A5F57F6E> dct:spatial wd:Q81936319 .
+
+<https://hdl.handle.net/21.12133/2F8280FADBEB4EF192CAC5D1A4517160> dct:spatial wd:Q81936319 .
+
+<https://hdl.handle.net/21.12133/6944E5CC97914D1B9074F49A48085DCE> dct:spatial wd:Q81936319 .
+
+<https://hdl.handle.net/21.12133/7D6788A3027E48FA822C27E2E80A60BE> dct:spatial wd:Q81936319 .
+
+<https://hdl.handle.net/21.12133/F48AD44120104C9DB07C619F6C2BB3F0> dct:spatial wd:Q81757545 .
+
+<https://hdl.handle.net/21.12133/025367BDA0694A2E9A41B82986520C41> dct:spatial wd:Q81936319 .
+
+<https://hdl.handle.net/21.12133/607526577D794396A21C0EA27BA8C536> dct:spatial wd:Q81939094 .
+
+<https://hdl.handle.net/21.12133/1C0BD69FE68F47959ADAEA5E01BA5747> dct:spatial wd:Q13439237 .
+
+<https://hdl.handle.net/21.12133/EE6E7081FE7C447C993CCF94BD6A4888> dct:spatial wd:Q13439237 .
+
+<https://hdl.handle.net/21.12133/0D182A731AFC4BDE9E1BAB1066CE7EDF> dct:spatial wd:Q3918205 .
+
+<https://hdl.handle.net/21.12133/D84FB02835A3402A8F505DE5A81B9526> dct:spatial wd:Q3918205 .
+
+<https://hdl.handle.net/21.12133/47396A0837B549FF99C3FBF3EFCBB186> dct:spatial wd:Q3918205 .
+
+<https://hdl.handle.net/21.12133/6DA3B3E7D13B427DB928C5C17522ABA3> dct:spatial wd:Q3918205 .
+
+<https://hdl.handle.net/21.12133/5D7ACC40973746258DCAA125BE3D6CBD> dct:spatial wd:Q99543211 .
+
+<https://hdl.handle.net/21.12133/7E3A8212073E41409CE77445D065BD90> dct:spatial wd:Q99543211 .
+
+<https://hdl.handle.net/21.12133/F2B86D416F004765903513CC2989039E> dct:spatial wd:Q99543211 .
+
+<https://hdl.handle.net/21.12133/6506D6055E164B5C8437164F918EDE5C> dct:spatial wd:Q99543211 .
+
+<https://hdl.handle.net/21.12133/0A931A8ED7D14DFE801D6754368E9AF6> dct:spatial wd:Q74835984 .
+
+<https://hdl.handle.net/21.12133/3209E9E0014546A5A60DC57C0365482B> dct:spatial wd:Q74835984 .
+
+<https://hdl.handle.net/21.12133/842840A56E5E4343A14971E549BDD4CD> dct:spatial wd:Q74835984 .
+
+<https://hdl.handle.net/21.12133/A3536509F89A46CB8A3D02E84FD5B6BF> dct:spatial wd:Q74835984 .
+
+<https://hdl.handle.net/21.12133/987D9C2E84204EE2A08CD44BC8C802CD> dct:spatial wd:Q74835984 .
+
+<https://hdl.handle.net/21.12133/626E93197AFC4FCAA658A63AACB0F6D2> dct:spatial wd:Q13439237 .
+
+<https://hdl.handle.net/21.12133/9CBA8777E5434D02AF2306A1B5EA2FB2> dct:spatial wd:Q76161158 .
+
+<https://hdl.handle.net/21.12133/8EE9520E780C4FC6B0F00ABB49C2E4D6> dct:spatial wd:Q76161158 .
+
+<https://hdl.handle.net/21.12133/C4C03751B8784FEDB08B1DD639C5D84E> dct:spatial wd:Q76161158 .
+
+<https://hdl.handle.net/21.12133/32D02D0747BF415BAD9716D5175B99B6> dct:spatial wd:Q76161121 .
+
+<https://hdl.handle.net/21.12133/1A58CC86C2F748CD95E95199D824B919> dct:spatial wd:Q76161121 .
+
+<https://hdl.handle.net/21.12133/5FFBFA8B86174FDCABE54982F85C6756> dct:spatial wd:Q76161121 .
+
+<https://hdl.handle.net/21.12133/216230508EAA42539907BC29C8EE058E> dct:spatial wd:Q76161121 .
+
+<https://hdl.handle.net/21.12133/0CA168FEC0CC448FA85C3AB857862599> dct:spatial wd:Q81938132 .
+
+<https://hdl.handle.net/21.12133/B674E1DCCA15476EB7A452BCEFC05459> dct:spatial wd:Q76161100 .
+
+<https://hdl.handle.net/21.12133/C4D76F963E10477C880DC399F8FC1357> dct:spatial wd:Q76161145 .
+
+<https://hdl.handle.net/21.12133/65ED3386B2CA4AEF8A3F9CFE8D7C2EDC> dct:spatial wd:Q76161145 .
+
+<https://hdl.handle.net/21.12133/CF55514535C1454F95AF9BBA3CB7ADE9> dct:spatial wd:Q35098822 .
+
+<https://hdl.handle.net/21.12133/4EB00C73489041E791D6162FBD050E4E> dct:spatial wd:Q35098822 .
+
+<https://hdl.handle.net/21.12133/B52016D582074194BCD745C4DA9E6A30> dct:spatial wd:Q2336130 .
+
+<https://hdl.handle.net/21.12133/F5B2C9224F3F47E4BC1F8ECFAA21CF1D> dct:spatial wd:Q2336130 .
+

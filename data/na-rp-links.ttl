@@ -1,0 +1,65 @@
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+
+<http://hdl.handle.net/10648/ad7cb2ac-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q78861313 .
+
+<http://hdl.handle.net/10648/a9b3ab76-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q38238710 .
+
+<http://hdl.handle.net/10648/a9b3ac34-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q38238710 .
+
+<http://hdl.handle.net/10648/a9ca43ae-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q38238721 .
+
+<http://hdl.handle.net/10648/a9ca42e6-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q38238721 .
+
+<http://hdl.handle.net/10648/a9c8c092-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q38238721 .
+
+<http://hdl.handle.net/10648/ad5ba346-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q14480520 .
+
+<http://hdl.handle.net/10648/adfec35a-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q2237396 .
+
+<http://hdl.handle.net/10648/ae163544-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q2237396 .
+
+<http://hdl.handle.net/10648/a9897fea-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q76161116 .
+
+<http://hdl.handle.net/10648/a98ee674-d0b4-102d-bcf8-003048976d84> dc:subject <https://watwaarwanneer.info/event/3554> .
+
+<http://hdl.handle.net/10648/a98ee732-d0b4-102d-bcf8-003048976d84> dc:subject <https://watwaarwanneer.info/event/3554> .
+
+<http://hdl.handle.net/10648/a98eeb9c-d0b4-102d-bcf8-003048976d84> dc:subject <https://watwaarwanneer.info/event/3554> .
+
+<http://hdl.handle.net/10648/aac4aaf6-d0b4-102d-bcf8-003048976d84> dc:subject <https://watwaarwanneer.info/event/3574> .
+
+<http://hdl.handle.net/10648/aac4ad26-d0b4-102d-bcf8-003048976d84> dc:subject <https://watwaarwanneer.info/event/3574> .
+
+<http://hdl.handle.net/10648/aac4aede-d0b4-102d-bcf8-003048976d84> dc:subject <https://watwaarwanneer.info/event/3574> .
+
+<http://hdl.handle.net/10648/ad6a08f0-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q81936319 .
+
+<http://hdl.handle.net/10648/aae98646-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q2237396 .
+
+<http://hdl.handle.net/10648/aae98902-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q2237396 .
+
+<http://hdl.handle.net/10648/aae98c2c-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q2237396 .
+
+<http://hdl.handle.net/10648/aae992b2-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q2237396 .
+
+<http://hdl.handle.net/10648/aae994d8-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q2237396 .
+
+<http://hdl.handle.net/10648/aae99596-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q2237396 .
+
+<http://hdl.handle.net/10648/aae996b8-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q2237396 .
+
+<http://hdl.handle.net/10648/aae997c6-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q2237396 .
+
+<http://hdl.handle.net/10648/aae9988e-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q2237396 .
+
+<http://hdl.handle.net/10648/aae9a0c2-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q2237396 .
+
+<http://hdl.handle.net/10648/aae9a5cc-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q2237396 .
+
+<http://hdl.handle.net/10648/aae9a6e4-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q2237396 .
+
+<http://hdl.handle.net/10648/aae9a7ca-d0b4-102d-bcf8-003048976d84> dct:spatial wd:Q2237396 .
+
