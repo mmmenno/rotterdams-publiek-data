@@ -29,7 +29,16 @@ todo
 
 ## Koppelingen tussen afbeeldingen en Wikidata items
 
-todo
+Uit de collecties van het Stadsarchief Rotterdam en, in mindere mate, het Nationaal Archief, zijn afbeeldingen gelinkt aan Wikidata identifiers van bioscopen, concertzalen, etc. Die links staan in de volgende twee bestanden:
+
+- [sa-rp-links.ttl](data/sa-rp-links.ttl) bevat koppelingen tussen afbeeldingen van het Stadsarchief Rotterdam en locaties
+- [na-rp-links.ttl](data/na-rp-links.ttl) bevat koppelingen tussen afbeeldingen van het Nationaal Archief en locaties
+
+Uit praktische overwegingen is een beperkte hoeveelheid metadata van genoemde afbeeldingen, waaronder de afbeeldingsurl, opgenomen in de volgende bestanden:
+
+- [sa-rp-imgs.ttl](data/sa-rp-imgs.ttl) bevat metadata van afbeeldingen van het Stadsarchief Rotterdam
+- [na-rp-images.ttl](data/na-rp-images.ttl) bevat metadata van afbeeldingen van het Nationaal Archief
+
 
 ## Filmvoorstellingen
 
