@@ -51,18 +51,18 @@ PREFIX edm: <http://www.europeana.eu/schemas/edm/>
 SELECT ?location ?locationlabel (COUNT(DISTINCT(?cho)) AS ?nrofimgs) WHERE {
   SERVICE <https://query.wikidata.org/sparql> {
   	VALUES ?type { 
-      wd:Q57660343 	#podiumkunstgebouw
-      wd:Q41253 	#bioscoop
-      wd:Q24354 	#theatergebouw
-      wd:Q24699794 	#museumgebouw
-      wd:Q207694 	#kunstmuseum
-      wd:Q856584 	#bibliotheekgebouw
-      wd:Q57659484 	#tentoonstellingsgebouw
-      wd:Q1060829 	#concertgebouw
-      wd:Q18674739 	#evenementenlocatie
-      wd:Q15206070 	#poppodium
-      wd:Q30022 	#koffiehuis
-      wd:Q1228895 	#dancing
+		wd:Q57660343 	#podiumkunstgebouw
+		wd:Q41253 	#bioscoop
+		wd:Q24354 	#theatergebouw
+		wd:Q24699794 	#museumgebouw
+		wd:Q207694 	#kunstmuseum
+		wd:Q856584 	#bibliotheekgebouw
+		wd:Q57659484 	#tentoonstellingsgebouw
+		wd:Q1060829 	#concertgebouw
+		wd:Q18674739 	#evenementenlocatie
+		wd:Q15206070 	#poppodium
+		wd:Q30022 	#koffiehuis
+		wd:Q1228895 	#dancing
   	}
   	?location wdt:P31 ?type .
   	?location wdt:P131 wd:Q2680952 .
