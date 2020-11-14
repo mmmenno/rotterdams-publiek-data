@@ -65,6 +65,16 @@ ORDER BY ASC(?nrofquotes)
 LIMIT 1000
 ```
 
+## Affiches
+
+De collectie van het Stadsarchief Rotterdam telt 1700+ niet auteursrechtelijk beschermde affiches. Zo'n 130 daarvan waren te koppelen aan Rotterdamse locaties.
+
+- [sa-affiche-links.ttl](data/sa-affiche-links.ttl) bevat links naar locaties (dct:spatial) en onderwerpen (dc:subject) - films en acteurs vooral.
+
+Uit praktische overwegingen is ook een bestand met wat metadata van de 1700+ affiches gemaakt:
+
+- [sa-affiches.ttl](data/sa-affiches.ttl) bevat metadata van 1700+ affiches van het Stadsarchief Rotterdam.
+
 ## Gebeurtenissen
 
 todo

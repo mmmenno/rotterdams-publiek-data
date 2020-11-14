@@ -893,7 +893,7 @@ PREFIX wd: <http://www.wikidata.org/entity/>
 		schema:datePublished "1975-09-25"^^xsd:date ;
 	] ;
 	schema:about wd:Q76161149 ;
-	schema:text "In het ontwerp van de bekenje theater-architect C. Wiertz strijdt het theatertje ronduit om de eer de gezelligste en meest comfortabele bioscoop van Rotterdam te worden. De ronde vormen van de hal, de kassa, de glazen kastjes met de filmfoto's en het grote kader met het ingebouwde doek, geven het theater een modern, gezellig karakter."^^xsd:string .
+	schema:text "In het ontwerp van de bekende theater-architect C. Wiertz strijdt het theatertje ronduit om de eer de gezelligste en meest comfortabele bioscoop van Rotterdam te worden. De ronde vormen van de hal, de kassa, de glazen kastjes met de filmfoto's en het grote kader met het ingebouwde doek, geven het theater een modern, gezellig karakter."^^xsd:string .
 
 <http://www.rotterdamspubliek.nl/quote/82>
 	a schema:Quotation ;
@@ -1685,7 +1685,7 @@ PREFIX wd: <http://www.wikidata.org/entity/>
 		schema:datePublished "1933-11-03"^^xsd:date ;
 	] ;
 	schema:about wd:Q81938132 ;
-	schema:text ""^^xsd:string .
+	schema:text "Rotterdam kan trotsch zijn op deze aanwinst voor de stad, op de schoone Muziekzaal, waarvan wij onzen lezers de foto’s, door onzen eigen fotograaf vervaardigd, voorleggen."^^xsd:string .
 
 <http://www.rotterdamspubliek.nl/quote/154>
 	a schema:Quotation ;
@@ -1992,7 +1992,7 @@ PREFIX wd: <http://www.wikidata.org/entity/>
 		schema:isPartOf "Het vrĳe volk" ;
 		schema:datePublished "1959-01-08"^^xsd:date ;
 	] ;
-	schema:about wd:Q76161158 ;
+	schema:about wd:Q93182833 ;
 	schema:text "Ach, wat hebben we er niet aan artiesten gebracht! De bands van Jack Hylton, van Ambrose, van Armstrong.... Vera Lynn zong bij haar eerste optreden in Nederland in Pschorr. We hadden Josephine Baker, Lys Gauty en Mistinguett, Pisuisse, Koos Speenhoff, Louis Davids en Margie Morris. De Ramblers zijn - mag ik gerust zeggen - bij ons in Pschorr begonnen."^^xsd:string .
 
 <http://www.rotterdamspubliek.nl/quote/182>
@@ -2148,4 +2148,554 @@ PREFIX wd: <http://www.wikidata.org/entity/>
 	] ;
 	schema:about wd:Q76161104 ;
 	schema:text "In het Scheepvaartkundig Museum aan den Haringvliet is vanochtend de eerste voorstelling gegeven door de gemeentelijke schoolbioscoop. (…) Het is niet het doel van de schoolbioscoop in de plaats te treden van het onderwijs, doch dit aan te vullen. Voor scholen van alle richtingen is de schoolbioscoop opengezet, het deed spreker daarom leed, dat enkele schoolbesturen nog wat huiverig bleken om de kinderen van hun inrichtingen deze vertoningen te laten zien, hij hoopte dat een kijkje hier hen van het groote nut der schoolbioscoop overtuigen zou."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/196>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010382210:mpeg21:a0259> ;
+		schema:isPartOf "De Sumatra post" ;
+		schema:datePublished "1937-10-30"^^xsd:date ;
+	] ;
+	schema:about wd:Q4672497 ;
+	schema:text "WILLY FRITSCH TE ROTTERDAM De Ufa-ster Willy Fritsch heeft in het Luxor-Theater te Rotterdam zijn film 'Zeven Oorvijgen' bijgewoond, na afloop waarvan hem door de dochter van den directeur der Ufa in Nederland op het tooneel bloemen aangeboden werden."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/197>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:011119459:mpeg21:a0097> ;
+		schema:isPartOf "Deutsche Zeitung in den Niederlanden" ;
+		schema:datePublished "1940-06-15"^^xsd:date ;
+	] ;
+	schema:about wd:Q4672497 ;
+	schema:text "Bekanntlich ist das Luxor-Theater in der Kruiskade, ein Unternehmen der Ufa, als einziges Kino In der Innenstadt stehen geblieben. Es waren nur wenige Reparaturen erforderlich, die inzwischen beendet sind, sodass von heute ab wieder regelmässig Filmvorstellungen gegeben wenden können. Zweifellos handelt es sich hier um ein psychologisches Experiment besonderer Art. Im ganzen besitzt Rotterdam jedoch zur Zeit nur sieben Kinos, davon vier in den Aussen vierteln, sodass erwartet werden darf, dass der Besuch wohl nichts zu wünschen übrig lässt."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/198>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010464296:mpeg21:a0016> ;
+		schema:isPartOf "De tribune : soc. dem. Weekblad" ;
+		schema:datePublished "1933-03-21"^^xsd:date ;
+	] ;
+	schema:about wd:Q4672497 ;
+	schema:text "De strijd tegen de fascistische militaristische film 'Morgenrood', die hier in het 'Luxor-Palast' een van de Hugenbergsche Ufa-theaters ln Nederland draait is Maandag met versterkte kracht voortgezet."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/199>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010200122:mpeg21:a0052> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1911-10-17"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161167 ;
+	schema:text "De Directie der Thalia Bioscope betrekt zyn films niet van 't Grootste filmverhuurkantoor der wereld, integendeel van 't kleinste en toch is geen Bioscopehouder hier ter stede in staat de films met Hollandsche titels, welke wy vertoonen, vóór ons te draaien. Wat de geëerde bezoekers by ons te zien krygen, zyn anderen eerst na weken in staat te vertoonen. Aanbevelend, DE DIRECTIE."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/200>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010296597:mpeg21:a0252> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1916-10-30"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161114 ;
+	schema:text "In het gebouw 'De Samaritaan' aan de linker Rottekade, werd gisteravond de eerste bioscoopvoorstelling gegeven. Men had daarvoor zijn gelukkige keuze bepaald op de mooie film"^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/201>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010030579:mpeg21:a0065> ;
+		schema:isPartOf "Nieuwe Rotterdamsche Courant" ;
+		schema:datePublished "1929-11-13"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161114 ;
+	schema:text "L. J. Jordaan voor de Volksuniversiteit te Rotterdam. Gisteravond is in het gebouw de Samaritaan te Rotterdam de eerste van de vijf door de Volksuniversiteit georganiseerde filmavonden gehouden, welke achtereenvolgens gewijd zullen zijn aan de Nederlandsche, Duitsche. Fransche en Russische filmkunst, terwijl de laatste avond als een 'gemengde' avond gereserveerd blijft voor nog nader aan te kondigen filmwerken"^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/202>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010975606:mpeg21:a0067> ;
+		schema:isPartOf "Rotterdamsche courant" ;
+		schema:datePublished "1865-01-06"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161130 ;
+	schema:text "HOLLANDSCHE MAATSCHAPPIJ VAN Fraaije Kunsten en Wetenschappen. Afdeeling Rotterdam. Vijfde Leesvergadering, op DINGSDAG 10 JANUARIJ 1865, des avonds ten half 8 ure precies, in het Gebouw der Maatschappij tot Nut van't Algemeen, in den Oppert alhier. Spreker vóór en na de Pauze: Cd. BUSKEN HUET."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/203>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010028435:mpeg21:a0029> ;
+		schema:isPartOf "Nieuwe Rotterdamsche Courant" ;
+		schema:datePublished "1926-05-21"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161130 ;
+	schema:text "Verbouwing van het gebouw in den Oppert. Bij het departement Rotterdam van de Maatschappij tot Nut van 't Algemeen bestaan ernstige plannen tot verbouwing van het gebouw in den Oppert. Deze verbouwing zal voorloopig bestaan uit den aanbouw van een goede stemkamer met accessorieën, die verder ook voor andere doeleinden gebruikt zal kunnen worden. De verbouwing zal dezen zomer geschieden."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/204>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMKB04:000198386:mpeg21:a0043> ;
+		schema:isPartOf "De Maasbode" ;
+		schema:datePublished "1920-04-27"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161130 ;
+	schema:text "Groote zaal NUT - Oppert 84 - Telefoon 625. Vanaf Vrijdag 30 April en volgende avonden, 7 uur. Het groote FILM-KUNSTWERK voor 't eerst te ROTTERDAM: CHRISTUS"^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/205>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010213209:mpeg21:a0114> ;
+		schema:isPartOf "Voorwaarts : sociaal-democratisch dagblad" ;
+		schema:datePublished "1931-10-08"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161132 ;
+	schema:text "HET VROEGERE W.B. Theater te Rotterdam wordt geheel verbouwd; een kijkje op de plaats die eens 'stalles' heette, en waar nu druk geschilderd wordt."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/206>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:011107809:mpeg21:a0284> ;
+		schema:isPartOf "Soerabaijasch handelsblad" ;
+		schema:datePublished "1935-05-01"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161132 ;
+	schema:text "Op 13 April is door Rotterdam een wedloop gehouden, georganiseerd door het Capitol en City Theater te Rotterdam, ter gelegenheid van de première van de nieuwe film Op Stap; het vertrek op het Heemraadsplein."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/207>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:011107809:mpeg21:a0284> ;
+		schema:isPartOf "Soerabaijasch handelsblad" ;
+		schema:datePublished "1935-05-01"^^xsd:date ;
+	] ;
+	schema:about wd:Q78861313 ;
+	schema:text "Op 13 April is door Rotterdam een wedloop gehouden, georganiseerd door het Capitol en City Theater te Rotterdam, ter gelegenheid van de première van de nieuwe film Op Stap; het vertrek op het Heemraadsplein."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/208>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMKB04:000185941:mpeg21:a0037> ;
+		schema:isPartOf "De Maasbode" ;
+		schema:datePublished "1913-02-07"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161128 ;
+	schema:text "Bioscoop -Theater 'Juliana' BINNENWEG 94, tegenover de Manege, ROTTERDAM. Heden en volgende dagen als Extra nummer. Het Leven en Lijden van Christus. Niemand verzuime dit prachtvolle beeld te gaan zien. Dagelijks Doorloopende Voorstellingen"^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/209>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010295755:mpeg21:a0119> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1914-10-03"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161112 ;
+	schema:text "TIVOLI-BIOSCOPE, Hoogstraat 100, schuin over de G. Wagenstraat. Heden!! Nieuwl! Pracht - Programma. Als buitengewone attractie: Moederleed, prachtig gekleurd drama == 5 afdeelingen. == Doorloopende Voorstellingen. Modernst ingericht Bioscopetheater"^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/210>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010952834:mpeg21:a0174> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1957-07-13"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161112 ;
+	schema:text "Vraag van de heer A. Zuur, een Rotterdammer die zich de oude stad graag herinnert: 'Als je vroeger van het Oostplein de Hoogstraat op liep, welke bioscoop zag je dan het eerst?' Je zag het eerst het Ooster Theater (rechts), dat een ingang aan een zijstraat en ook een ingang aan de Hoogstraat had. Vervolgens links City, dan Asta, ook links, en een aardig eindje verder rechts Thalia. (Heel vroeger had je op de Hoogstraat ook het filmtheater Americain)."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/211>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010952834:mpeg21:a0174> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1957-07-13"^^xsd:date ;
+	] ;
+	schema:about wd:Q78861313 ;
+	schema:text "Vraag van de heer A. Zuur, een Rotterdammer die zich de oude stad graag herinnert: 'Als je vroeger van het Oostplein de Hoogstraat op liep, welke bioscoop zag je dan het eerst?' Je zag het eerst het Ooster Theater (rechts), dat een ingang aan een zijstraat en ook een ingang aan de Hoogstraat had. Vervolgens links City, dan Asta, ook links, en een aardig eindje verder rechts Thalia. (Heel vroeger had je op de Hoogstraat ook het filmtheater Americain)."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/212>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010952834:mpeg21:a0174> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1957-07-13"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161148 ;
+	schema:text "Vraag van de heer A. Zuur, een Rotterdammer die zich de oude stad graag herinnert: 'Als je vroeger van het Oostplein de Hoogstraat op liep, welke bioscoop zag je dan het eerst?' Je zag het eerst het Ooster Theater (rechts), dat een ingang aan een zijstraat en ook een ingang aan de Hoogstraat had. Vervolgens links City, dan Asta, ook links, en een aardig eindje verder rechts Thalia. (Heel vroeger had je op de Hoogstraat ook het filmtheater Americain)."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/213>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010952834:mpeg21:a0174> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1957-07-13"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161844 ;
+	schema:text "Vraag van de heer A. Zuur, een Rotterdammer die zich de oude stad graag herinnert: 'Als je vroeger van het Oostplein de Hoogstraat op liep, welke bioscoop zag je dan het eerst?' Je zag het eerst het Ooster Theater (rechts), dat een ingang aan een zijstraat en ook een ingang aan de Hoogstraat had. Vervolgens links City, dan Asta, ook links, en een aardig eindje verder rechts Thalia. (Heel vroeger had je op de Hoogstraat ook het filmtheater Americain)."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/214>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010952834:mpeg21:a0174> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1957-07-13"^^xsd:date ;
+	] ;
+	schema:about wd:Q76161107 ;
+	schema:text "Vraag van de heer A. Zuur, een Rotterdammer die zich de oude stad graag herinnert: 'Als je vroeger van het Oostplein de Hoogstraat op liep, welke bioscoop zag je dan het eerst?' Je zag het eerst het Ooster Theater (rechts), dat een ingang aan een zijstraat en ook een ingang aan de Hoogstraat had. Vervolgens links City, dan Asta, ook links, en een aardig eindje verder rechts Thalia. (Heel vroeger had je op de Hoogstraat ook het filmtheater Americain)."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/215>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010030225:mpeg21:a0056> ;
+		schema:isPartOf "Nieuwe Rotterdamsche Courant" ;
+		schema:datePublished "1929-04-18"^^xsd:date ;
+	] ;
+	schema:about wd:Q93182833 ;
+	schema:text "DANCING 'PSCHORR' COOLSINGEL No. 22 DE DANCING IS VOOR HEDENAVOND UITVERKOCHT. Gedurende eenige dagen zal de Dancing nog in Jubileumstooi gesierd zijn"^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/216>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010874382:mpeg21:a0085> ;
+		schema:isPartOf "Nieuw Israelietisch weekblad" ;
+		schema:datePublished "1929-09-20"^^xsd:date ;
+	] ;
+	schema:about wd:Q93182833 ;
+	schema:text "TEN BATE DER ARMEN. ROTTERDAM. Bovengenoemde Vereeniging organiseert een intiemen dans- en cabaret-avond op Maandag 23 September a.s. des avonds te 8 ure in de Dancing 'Pschorr', Coolsingel. Dezen avond heeft het bestuur georganiseerd, om het streven van 'Ten Bate' meerdere bekendheid te geven."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/217>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMKB04:000197822:mpeg21:a0039> ;
+		schema:isPartOf "De Maasbode" ;
+		schema:datePublished "1929-06-06"^^xsd:date ;
+	] ;
+	schema:about wd:Q93182833 ;
+	schema:text "Veroordeeld werden: De student J. G. W' wonende te Delft, omdat hij op 22 Maart j.1. des avonds te 11.45 uur, bij de dancing 'Pschorr' op den Coolsingel alhier, tegenover aldaar staande chauffeurs zich op minder vleiende wijze over de politie uitlatende, en waarna hij op zeer opvallende wijze een notitieboekje uithaalde op zeer luiden toon de wapennummers van een tweetal aldaar aanwezige politieagenten oplas en noteerde, zoodat zich weldra een volksmenigte verzamelde, niet heeft voldaan aan het door die politieagenten gegeven bevel om door te loopen, tot eene geldboete van ƒ 18 subs 6 dagen hechtenis."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/218>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010951692:mpeg21:a0180> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1953-06-27"^^xsd:date ;
+	] ;
+	schema:about wd:Q2683762 ;
+	schema:text "'Parkzicht' in het Park is weer open. Alle sporen van waterschade zijn verwijderd, al heeft het veel tijd, veel geld en veel moeite gekost. De ramp van 1 Februari liet 'Parkzicht' niet onberoerd. Het Park liep onder, het gebouw lag in het diepste gedeelte.... Van de inboedel bleef weinig of niets gespaard: nieuwe parketvloeren, nieuwe stoelen, nieuwe tafels enz., kwamen er voor in de plaats."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/219>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010961676:mpeg21:a0269> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1984-03-14"^^xsd:date ;
+	] ;
+	schema:about wd:Q2683762 ;
+	schema:text "De Neus, een Nederlandstalige band bestaande uit Utrechtse en Haagse muzikanten, geeft donderdag 15 maart een gratis Late Evening Concert in Parkzicht"^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/220>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=KBNRC01:000030254:mpeg21:a0221> ;
+		schema:isPartOf "NRC Handelsblad" ;
+		schema:datePublished "1991-11-22"^^xsd:date ;
+	] ;
+	schema:about wd:Q2683762 ;
+	schema:text "Wanneer houdt muziek op muziek te zijn? Volgens sommigen nooit. Zij definiëren muziek als 'georganiseerd geluid'; elk als muziek bedoeld gefluit, gepiep, geknor, geklop, gebrom, gegil en gebonk is en blijft muziek. Toch kon ik afgelopen zomer, toen ik in de Rotterdamse discotheek Parkzicht voor het eerst met de zogenaamde gabberhouse werd geconfronteerd, niet de gedachte onderdrukken dat dit geen muziek meer was."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/221>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=KBPERS01:003265015:mpeg21:a00032> ;
+		schema:isPartOf "Algemeen Dagblad" ;
+		schema:datePublished "1994-07-18"^^xsd:date ;
+	] ;
+	schema:about wd:Q2336130 ;
+	schema:text "Ter gelegenheid van het traditionele zomercarnaval werd zaterdagavond in de Rotterdamse Energiehal een missverkiezing gehouden. De kandidaten, in leeftijd variërend van 17 tot 23 jaar, waren afkomstig uit het hele land."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/222>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010951999:mpeg21:a0141> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1954-09-09"^^xsd:date ;
+	] ;
+	schema:about wd:Q2336130 ;
+	schema:text "Het bestuur van de Stichting tot Exploitatie van het Ahoy-gebouw heeft voor het nieuwe gebouw, waarmede het complex zal worden uitgebreid, met algemene stemmen de naam 'Energie-hal' vastgesteld."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/223>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010994425:mpeg21:a0091> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1901-02-09"^^xsd:date ;
+	] ;
+	schema:about wd:Q84314400 ;
+	schema:text "De heer D. Th. Schramade vertoonde zijn ongeëvenaarde goocheltoeren voor bewoners van Charlois en Katendrecht in het Hof van Bourgondiö. Een symphonie-orkest onder leiding van den heer C. Burgdorffer deed zich in een aangrenzende zaal nooren. Er was een dankbaar en ordelijk publiek."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/224>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010108714:mpeg21:a0102> ;
+		schema:isPartOf "Het nieuws van den dag : kleine courant" ;
+		schema:datePublished "1911-05-23"^^xsd:date ;
+	] ;
+	schema:about wd:Q18286247 ;
+	schema:text "Rotterdam heeft nu ook zijn graansilo's. De aldaar geheel met Nederlandsch kapitaal opgerichte naamlooze vennootschap Graansilo-Maatschappij, die zich ten doel stelt de exploitatie van graansilo's, graanpakhuizen en van alle inrichtingen, welke met het transport, de overlading, den opslag en de behandeling van graan in verband staan, kocht van de gemeente een terrein aan de Maashaven (Zuidzijde), waar de verschillende installatiën thans gereed zijn gekomen."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/225>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010030563:mpeg21:a0140> ;
+		schema:isPartOf "Nieuwe Rotterdamsche Courant" ;
+		schema:datePublished "1929-11-03"^^xsd:date ;
+	] ;
+	schema:about wd:Q18286247 ;
+	schema:text "In het Avondblad van gisteren heeft men kunnen lezen, dat de laatste paal geslagen is voor het nieuwe silogebouw dat voor de n. v. Graansilo-Maatschappy te Rotterdam aan de Maashaven zal worden gebouwd. Dit pand zal een van de zwaarste gebouwen van Europa worden en leeg niet minder dan 38200 ton wegen. Het maken van een fundeering voor zulk een kolos is een heel byzonder werk. dat vooral in het begin heel wat hoofdbrekens heeft gekost."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/226>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMKB19:000109051:mpeg21:a00007> ;
+		schema:isPartOf "Vooruit" ;
+		schema:datePublished "1940-12-30"^^xsd:date ;
+	] ;
+	schema:about wd:Q17606815 ;
+	schema:text "Het Nederlandse Ballet heeft Zondagmiddag in de Rivièra-hal van de Rotterdamse Diergaarde 'Blij-Dorp' een uitvoering gegeven, waarvoor zeer veel belangstelling was. Een foto tijdens Mozart's Suite des Danses."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/227>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ABCDDD:010837763:mpeg21:a0191> ;
+		schema:isPartOf "Het Parool" ;
+		schema:datePublished "1970-01-28"^^xsd:date ;
+	] ;
+	schema:about wd:Q17606815 ;
+	schema:text "Prins Bernhard bekijkt tijdens een ontvangst op paleis Soestdijk de maansteen die de NASA tijdelijk voor tentoonstellingsdoeleinden in het buitenland heeft afgestaan. De steen werd vorig jaar augustus door de bemanning van de Apollo 11 meegenomen. De maansteen is vanaf morgen tot en met 1 februari te zien op een ruimtevaarttentoonstelling in de Rivièrahal in de Diergaarde Blijdorp in Rotterdam."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/228>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=MMKB19:000244030:mpeg21:a00171> ;
+		schema:isPartOf "Nieuwe Tilburgsche courant" ;
+		schema:datePublished "1953-02-05"^^xsd:date ;
+	] ;
+	schema:about wd:Q179426 ;
+	schema:text "EEN VEILIGE HAVEN, DE AHOY-HAL TE ROTTERDAM. — Dit kleine meisje, men vermoedt, dat zij ongeveer 5 jaar is, kwam geheel alleen in de Ahoy-hal aan. Men weet niet, of haar ouders zijn omgekomen, of nog leven, of zij nog familieleden heeft, men weet slechts, dat zij uit het overstroomde gebied is gevlucht. — Een soldaat, François van der Velden uit Den Haag, laat haar eens drinken."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/229>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010375731:mpeg21:a0064> ;
+		schema:isPartOf "De waarheid" ;
+		schema:datePublished "1975-12-19"^^xsd:date ;
+	] ;
+	schema:about wd:Q179426 ;
+	schema:text "Het Ahoy-complex in Rotterdam wordt rond deze tijd weer veranderd in Pretstad Ahoy, waar behalve een lunapark ook het circus Baulioni de bezoekers in de feestdagen vertier zal brengen. Eén van de medewerksters van het circus, het jonge nijlpaard Rosa bracht alvast een bezoekje aan de ijsbaan. Alhoewel er geen passende schaatsen te vinden waren, had zij er best lol in zo te zien. Pretstad Ahoy blijft open tot en met nieuwjaarsdag."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/230>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <http://resolver.kb.nl/resolve?urn=KBNRC01:000031077:mpeg21:a0066> ;
+		schema:isPartOf "NRC Handelsblad" ;
+		schema:datePublished "1993-11-26"^^xsd:date ;
+	] ;
+	schema:about wd:Q62088324 ;
+	schema:text "Met de opening door burgemeester Peper, van een museum gewijd aan de schilder Henk Chabot is vandaag het Rotterdamse museumpark voltooid."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/231>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=KBPERS01:003283027:mpeg21:a00075> ;
+		schema:isPartOf "Algemeen Dagblad" ;
+		schema:datePublished "1988-03-31"^^xsd:date ;
+	] ;
+	schema:about wd:Q1668856 ;
+	schema:text "Er moet in Rotterdam in het toekomstige Museumpark aan de Westzeedijk een Kunsthal komen, die een internationaal georiënteerd tentoonstellingsprogramma biedt voor een heel breed publiek."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/232>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=KBPERS01:003113015:mpeg21:a00125> ;
+		schema:isPartOf "Algemeen Dagblad" ;
+		schema:datePublished "1993-09-17"^^xsd:date ;
+	] ;
+	schema:about wd:Q1668856 ;
+	schema:text "De KunstHAL in Rotterdam, die vorig jaar najaar werd geopend, heeft gisteren haar 100.000ste bezoeker, student Emiel Zevenhuizen uit Amsterdam, ontvangen. Hij kreeg onder meer een zeefdruk van kunstenaar Günter Tuzina."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/233>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:011234713:mpeg21:a0085> ;
+		schema:isPartOf "De Tijd De Maasbode" ;
+		schema:datePublished "1957-08-07"^^xsd:date ;
+	] ;
+	schema:about wd:Q2801130 ;
+	schema:text "ALS GEMEENELANDSHUIS van het Hoogheemraadschap Schieland werd het gebouw, dat nu in Rotterdam bekend staat als het Historisch Museum, in 1662 gebouwd en in 1665 in gebruik genomen. Van dit gebouw zouden generaties van Rotterdammers spreken als van het 'paleis'. Alle belangrijke gasten van de stadsregering logeerden er tijdens hun verblijf in Rotterdam. Keizer Napoleon en Marie Louise met hun gevolg namen er in 1811 hun intrek. Na de omwenteling in 1813 logeerde een Russische prins, commandant van een corps Kozakken, in het paleis. Men zegt echter, dat keizer Alexander de eerste van Rusland bij zijn bezoek aan de stad in 1815 het slaapvertrek van Napoleon weigerde...."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/234>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:110577465:mpeg21:a0304> ;
+		schema:isPartOf "De Telegraaf" ;
+		schema:datePublished "1937-06-07"^^xsd:date ;
+	] ;
+	schema:about wd:Q2801130 ;
+	schema:text "Het voormalig Schielandshuis, het gebouw, waarin eens het Museum Boymans gevestigd was, zal — we hebben er indertijd reeds uitvoerig over geschreven — worden gerestaureerd, en er zal daardoor Rotterdam een monument van den eersten rang worden gespaard."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/235>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=KBNRC01:000030120:mpeg21:a0057> ;
+		schema:isPartOf "NRC Handelsblad" ;
+		schema:datePublished "1986-08-28"^^xsd:date ;
+	] ;
+	schema:about wd:Q2524988 ;
+	schema:text "In de loop van volgend jaar zal in het Rotterdamse Museumpark het Natuurhistorisch Museum worden geopend. Het museum wordt gevestigd in de Villa Dijkzigt, een 19de-eeuws pand in het park bij de Medische Faculteit waar eens de redersfamilie Hoboken woonde. Tot voor kort was hier de Volksuniversiteit gehuisvest."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/236>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010030648:mpeg21:a0177> ;
+		schema:isPartOf "Nieuwe Rotterdamsche Courant" ;
+		schema:datePublished "1929-12-22"^^xsd:date ;
+	] ;
+	schema:about wd:Q2524988 ;
+	schema:text "Kersttentoonstelling. In het clubhuis van de Rotterdamsche Volksuniversiteit aan den Westzeedijk wordt tot en met 23 December een tentoonstelling gehouden, uitgaande van de universiteit en van de afdeeling Rotterdam van het Nederlandsch Kunstverbond. De eerste afdeeling bestaat uit werken van Dirk Nyland, de tweede werken uit het bezit van de vereeniging Kunstverbond. Voorts zijn er stalen meubelen van De Woning en bloemen van de firma Immink de Lange."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/237>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:011002886:mpeg21:a0086> ;
+		schema:isPartOf "Rotterdamsch nieuwsblad" ;
+		schema:datePublished "1941-07-25"^^xsd:date ;
+	] ;
+	schema:about wd:Q29569055 ;
+	schema:text "Voor de groote zomertentoonstelling 'Nederland bouwt in baksteen' welke Zaterdag In het Museum Boymans geopend zal worden is een catalogus in voorbereiding, welke van bijzondere beteekenis zal zijn voor onze kennis over de Nederlandsche architectuur-periode van 1800 tot 1940."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/238>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ABCDDD:010838089:mpeg21:a0143> ;
+		schema:isPartOf "Het Parool" ;
+		schema:datePublished "1969-08-25"^^xsd:date ;
+	] ;
+	schema:about wd:Q29569055 ;
+	schema:text "MUSEUM BOYMANS TOONT KINETISCHE KUNST. Een van George Rickey's objecten in de tuin van museum Boymans rechthoeken die door de wind bewogen worden."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/239>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010948829:mpeg21:a0374> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1986-06-21"^^xsd:date ;
+	] ;
+	schema:about wd:Q80815548 ;
+	schema:text "Het Museum van Landen Volkenkunde, dat in september wordt heropend, krijgt een iets andere naam. Het gaat straks Museum voor Volkenkunde heten. De directie van het museum had Burgemeester en Wethouders van Rotterdam voorgesteld om de naam te veranderen in Wereldmuseum, maar het college heeft deze naam met grote beslistheid van de hand gewezen. De directie weet niet om welke redenen de naam Wereldmuseum niet door de beugel kon bij de vroede vaderen. Een wijziging in het korter en krachtiger Museum voor Volkenkunde mocht wel"^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/240>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010961734:mpeg21:a0255> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1984-06-06"^^xsd:date ;
+	] ;
+	schema:about wd:Q2255123 ;
+	schema:text "Voorlopig voor de laatste maal zal de drive-in discoshow van Delmare Disco een avond verzorgen in Baroeg. Wie dit nog wil horen en zien, kan vrijdag 8 juni naar Baroeg, Spinozaweg 300 in Rotterdam, komen. De avond begint om 20.00 uur en duurt tot 02.00 uur. De entree bedraagt drie gulden."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/241>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010959641:mpeg21:a0304> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1977-09-16"^^xsd:date ;
+	] ;
+	schema:about wd:Q81610581 ;
+	schema:text "In het centrum Eksit, Eendrachtstraat 87a te Rotterdam wordt van 23 tot 25 november een film- en videowedstrijd gehouden. Wie daar alles over wil weten, kan bij Eksit (tel. 146775 of 144417) een wedstrijdformulier aanvragen. 'Stimuleren in het bezig zijn met film', is de moraal achter dit Eksit-verhaal."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/242>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=KBNRC01:000027258:mpeg21:a0061> ;
+		schema:isPartOf "NRC Handelsblad" ;
+		schema:datePublished "1980-06-21"^^xsd:date ;
+	] ;
+	schema:about wd:Q81610581 ;
+	schema:text "Het jongerencentrum Eksit in Rotterdam viert volgende week zijn tienjarig bestaan met een jubileumprogramma met veel popmuziek en theater. Donderdag 26 juni presenteren de Incubus Theatre Company en het Eksit Tejater een speciaal voor deze gelegenheid geschreven show getiteld Phantom of the Eksit. Vrijdag treden onder meer op Sjef van Oekel en Gruppo Sportivo, zaterdagmiddag volgen onder andere Headline en Dolbies. Zaterdagavond treden op Jules Deelder, Sjef van Oekel. The Monochrome Set de Kortini's, The Members en Sound System. In de afgelopen tien jaar hebben in Eksit circa 2.000 popgroepen en - artiesten - concerten gegeven waaronder Graham Parker, Sex Pistols, Tom Waits, Duncan Browne, Tim Hardin en Slade."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/243>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010957204:mpeg21:a0334> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1970-04-10"^^xsd:date ;
+	] ;
+	schema:about wd:Q100278118 ;
+	schema:text "Jaap van 'de Merwe komt met zijn cabaret Barrikade drie avonden optreden in Rotterdam; Louis Lemalre, leider van het cabaret In den Twijfelaar, heeft hem weten te strikken voor 7, 8 en 9 mei."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/244>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010954257:mpeg21:a0289> ;
+		schema:isPartOf "Het vrĳe volk" ;
+		schema:datePublished "1963-09-27"^^xsd:date ;
+	] ;
+	schema:about wd:Q70387406 ;
+	schema:text "De Rotterdamse schilder George Stahl exposeert recent werk in de expositieruimte van de Rotterdamse Kunstkring aan de Witte de With."^^xsd:string .
+
+<http://www.rotterdamspubliek.nl/quote/245>
+	a schema:Quotation ;
+	schema:isPartOf [
+		a schema:Article ;
+		rdf:value <https://resolver.kb.nl/resolve?urn=KBNRC01:000027819:mpeg21:a0072> ;
+		schema:isPartOf "NRC Handelsblad" ;
+		schema:datePublished "1984-06-15"^^xsd:date ;
+	] ;
+	schema:about wd:Q4989606 ;
+	schema:text "De kans is groot dat Café De Unie van architect Oud, dat bij het bombardement op Rotterdam in 1940 werd vernietigd, zal worden herbouwd in het centrum van de stad. De Rotterdamse Kunststichting zou er onderdak in kunnen krijgen; een deel van het gebouw zal weer plaats bieden aan een café. Café De Unie werd gebouwd in 1925. De voorgevel wordt beschouwd als typerend voor het werk van Oud. Overigens heeft het gebouw maar kort als café gediend. Toen het werd gebombardeerd deed het dienst als autoshowroom"^^xsd:string .
 
