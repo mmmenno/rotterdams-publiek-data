@@ -1,147 +1,54 @@
 # Data Rotterdams Publiek
 
-Binnen het project Rotterdams Publiek hebben we data uit verschillende bronnen samengevoegd om zo een beeld te geven van het culturele verleden van Rotterdam. Op de website [rotterdamspubliek.nl](https://rotterdamspubliek.nl/) is te zien in hoeverre we daar in geslaagd zijn.
+Binnen het project Rotterdams Publiek hebben we data uit verschillende bronnen verbonden om zo een beeld te geven van het culturele verleden van Rotterdam. Op de website [rotterdamspubliek.nl](https://rotterdamspubliek.nl/) is te zien in hoeverre we daar in geslaagd zijn.
 
-Zelf hebben we, vaak om al beschikbare data te verbinden, ook data gemaakt. Deze data is hier, onder een CC0 licentie, te vinden.
+Zelf hebben we, vaak om al beschikbare data te verbinden, ook data gemaakt. Deze data is deels hier, onder een CC0 licentie, te vinden. Waar mogelijk hebben we data op Wikidata gezet of aangevuld.
 
-## Quotes
+### Uitgaansgelegenheden op Wikidata
 
-Om bioscopen, theaters en andere uitgaansgelegenheden, waar soms geen of weinig afbeeldingen van zijn, verder te 'illustreren', hebben we quotes uit [Delpher](https://www.delpher.nl/) verzameld. Zo hebben we Wikidata items verbonden met Delpher artikelen, op de volgende manier:
+Voor veel uitgaansgelegenheden hebben we op Wikidata items aangemaakt en / of aangevuld met relevante informatie - dateringen, verschillende namen, architecten, identifiers in andere datasets, afbeeldingen, etc. 
 
-```
-<http://www.rotterdamspubliek.nl/quote/5>
-	a schema:Quotation ;
-	schema:isPartOf [
-		a schema:Article ;
-		rdf:value <https://resolver.kb.nl/resolve?urn=ddd:010953155:mpeg21:a0365> ;
-		schema:isPartOf "Het vrĳe volk" ;
-		schema:datePublished "1958-03-27"^^xsd:date ;
-	] ;
-	schema:about wd:Q74835984 ;
-	schema:text "Onze buurtgenoten kwamen wel in troepen op de krantenzaal af. Ze namen de hele garderobe in beslag en vulden die grote krantenzaal; ze zaten er gezellig en nu en dan lazen ze ook wel eens wat, vooral de advertenties. Dat advertentielezen nam sterk toe in de crisisjaren met de grote werkloosheid. Tot de mobilisatie in '39 is het in de krantenzaal heel druk gebleven."^^xsd:string .
-```
+Het resultaat daarvan is te zien op [rotterdamspubliek.nl/plekken](https://rotterdamspubliek.nl/plekken/), de achterliggende query vind je [hier](wikidata.md).
 
-De quotes zijn te vinden in het bestand [quotations.ttl](data/quotations.ttl).
 
-De volgende query toont het aantal quotes per locatie:
+### Krantenartikelen uit Delpher
 
-```
-PREFIX schema: <http://schema.org/>
-PREFIX dct: <http://purl.org/dc/terms/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-SELECT ?location ?locationlabel (COUNT(DISTINCT(?quote)) AS ?nrofquotes) WHERE {
-	SERVICE <https://query.wikidata.org/sparql> {
-		VALUES ?type { 
-			wd:Q57660343 	#podiumkunstgebouw
-			wd:Q41253 		#bioscoop
-			wd:Q24354 		#theatergebouw
-			wd:Q24699794 	#museumgebouw
-			wd:Q207694 		#kunstmuseum
-			wd:Q856584 		#bibliotheekgebouw
-			wd:Q57659484 	#tentoonstellingsgebouw
-			wd:Q1060829 	#concertgebouw
-			wd:Q18674739 	#evenementenlocatie
-			wd:Q15206070 	#poppodium
-			wd:Q30022 		#koffiehuis
-			wd:Q1228895 	#dancing
-		}
-		?location wdt:P31 ?type .
-		OPTIONAL{
-			?location wdt:P18 ?wikiafb .
-		}
-		?location wdt:P131 wd:Q2680952 .
-		?location rdfs:label ?locationlabel .
-		FILTER (lang(?locationlabel) = 'nl') .
-	}
-	OPTIONAL{
-		?quote a schema:Quotation .
-		?quote schema:about ?location .
-	}
-} 
-GROUP BY ?location ?locationlabel
-ORDER BY ASC(?nrofquotes)
-LIMIT 1000
-```
+Om bioscopen, theaters en andere uitgaansgelegenheden, waar soms geen of weinig afbeeldingen van zijn, verder te 'illustreren', hebben we meer dan 250 quotes uit krantenartikelen op [Delpher](https://www.delpher.nl/) verzameld. [Hier vind je](quotes.md) een voorbeeld van zo'n quote in turtle en een query waarmee je de aantallen quotes per locatie opvraagt.
 
-## Affiches
+
+### Affiches
 
 De collectie van het Stadsarchief Rotterdam telt 1700+ niet auteursrechtelijk beschermde affiches. Zo'n 130 daarvan waren te koppelen aan Rotterdamse locaties.
 
-- [sa-affiche-links.ttl](data/sa-affiche-links.ttl) bevat links naar locaties (dct:spatial) en onderwerpen (dc:subject) - films en acteurs vooral.
+Het bestand [sa-affiche-links.ttl](data/sa-affiche-links.ttl) bevat links naar locaties (dct:spatial) en onderwerpen (dc:subject) - films en acteurs vooral. Uit praktische overwegingen is ook een [bestand met wat metadata van de 1700+ affiches]((data/sa-affiches.ttl)) gemaakt.
 
-Uit praktische overwegingen is ook een bestand met wat metadata van de 1700+ affiches gemaakt:
+### Gebeurtenissen
 
-- [sa-affiches.ttl](data/sa-affiches.ttl) bevat metadata van 1700+ affiches van het Stadsarchief Rotterdam.
+Als experiment - om eens te zien wat voor 'events' zoal in beeldcollecties zijn vastgelegd - hebben we een kleine honderd gebeurtenissen verzameld en beschreven. [Hier](gebeurtenissen.md) vind je de queries waarmee je de gebeurtenissen opvraagt. Je kunt ze bekijken op [rotterdamspubliek.nl/gebeurtenissen](https://rotterdamspubliek.nl/gebeurtenissen/).
 
-## Gebeurtenissen
+### Afbeeldingen van theaters, bioscopen, etc.
 
-todo
+Uit de collecties van het Stadsarchief Rotterdam en, in mindere mate, het Nationaal Archief, hebben we zo'n 300 afbeeldingen gelinkt aan Wikidata identifiers van bioscopen, concertzalen, etc. 
 
-## Koppelingen tussen afbeeldingen en Wikidata items
+In [afbeeldingen.md](afbeeldingen.md) word je naar bestanden verwezen die al die verbindingen bevatten. Ook vind je er een query die het aantal afbeeldingen per locatie toont.
 
-Uit de collecties van het Stadsarchief Rotterdam en, in mindere mate, het Nationaal Archief, zijn afbeeldingen gelinkt aan Wikidata identifiers van bioscopen, concertzalen, etc. Die links staan in de volgende twee bestanden:
+### Filmvoorstellingen
 
-- [sa-rp-links.ttl](data/sa-rp-links.ttl) bevat koppelingen tussen afbeeldingen van het Stadsarchief Rotterdam en locaties
-- [na-rp-links.ttl](data/na-rp-links.ttl) bevat koppelingen tussen afbeeldingen van het Nationaal Archief en locaties
+Benieuwd naar wat er in zeg mei 1932 in welke Rotterdamse bioscoop draaide? Antwoord op die vraag vind je in [Cinema Context](http://www.cinemacontext.nl), dat duizenden filmvoorstellingen bevat. Voorbeeldqueries, informatie over het datamodel en een link naar de sparql endpoint vind je [hier](https://uvacreate.gitlab.io/cinema-context/cinema-context-rdf/).
 
-Uit praktische overwegingen is een beperkte hoeveelheid metadata van genoemde afbeeldingen, waaronder de afbeeldingsurl, opgenomen in de volgende bestanden:
+Voorstellingen van na 1950 zijn in Cinema Context nog niet opgenomen, vandaar dat we een crowdsource project zijn gestart op [hetvolk.org](https://widgets.hetvolk.org/data-entry/start/678ec0d9-91a6-07cb-a7c9-d91c4fef852e) om filmladders uit de jaren '80 in te voeren. Die data zal na afloop van het project ook hier gepubliceerd worden.
 
-- [sa-rp-imgs.ttl](data/sa-rp-imgs.ttl) bevat metadata van afbeeldingen van het Stadsarchief Rotterdam
-- [na-rp-images.ttl](data/na-rp-images.ttl) bevat metadata van afbeeldingen van het Nationaal Archief
+### Tentoonstellingen
 
-De volgende query toont het aantal afbeeldingen per locatie (en ook de zalen zonder afbeeldingen). Volg [deze link](https://api.druid.datalegend.net/s/JZVwDfRr7) om de queryresultaten in de Rotterdams Publiek sparql endpoint te bekijken. In de queryresultaten zie je ook of er op Wikidata al een afbeelding bij de locatie is opgenomen.
+Museum Boijmans stelde voor ons project zijn nog niet eerder gepubliceerde tentoonstellingsdata beschikbaar. We hebben voor al die tentoonstellingen Wikidata-items aangemaakt en daarvandaan, voor zover mogelijk, links gelegd naar de beschrijving van de tentoonstelling op de Boijmans website. 
 
-```
-PREFIX foaf: <http://xmlns.com/foaf/0.1/>
-PREFIX dct: <http://purl.org/dc/terms/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX edm: <http://www.europeana.eu/schemas/edm/>
-SELECT ?location ?locationlabel (COUNT(DISTINCT(?cho)) AS ?nrofimgs) (COUNT(DISTINCT(?wikiafb)) AS ?nrofwikiafb) WHERE {
-	SERVICE <https://query.wikidata.org/sparql> {
-		VALUES ?type { 
-			wd:Q57660343 	#podiumkunstgebouw
-			wd:Q41253 		#bioscoop
-			wd:Q24354 		#theatergebouw
-			wd:Q24699794 	#museumgebouw
-			wd:Q207694 		#kunstmuseum
-			wd:Q856584 		#bibliotheekgebouw
-			wd:Q57659484 	#tentoonstellingsgebouw
-			wd:Q1060829 	#concertgebouw
-			wd:Q18674739 	#evenementenlocatie
-			wd:Q15206070 	#poppodium
-			wd:Q30022 		#koffiehuis
-			wd:Q1228895 	#dancing
-		}
-		?location wdt:P31 ?type .
-		OPTIONAL{
-			?location wdt:P18 ?wikiafb .
-		}
-		?location wdt:P131 wd:Q2680952 .
-		?location rdfs:label ?locationlabel .
-		FILTER (lang(?locationlabel) = 'nl') .
-	}
-	OPTIONAL{
-		?cho a edm:ProvidedCHO .
-		?cho foaf:depiction ?imgurl .
-		?cho dct:spatial ?location .
-	}
-} 
-GROUP BY ?location ?locationlabel
-ORDER BY DESC(?nrofimgs) DESC(?nrofwikiafb)
-LIMIT 1000
-```
+Daarnaast hebben we veel verbindingen gelegd naar de onderwerpen van de tentoonstellingen (kunstenaars, meestal).
 
-## Filmvoorstellingen
+Je bekijkt de tentoonstellingen in de [tijdmachine](https://rotterdamspubliek.nl/tijdmachine/?year=1968). Of op Wikidata natuurlijk, [hier](tentoonstellingen.md) vind je de queries.
 
-Benieuwd naar wat er in zeg mei 1932 in welke Rotterdamse bioscoop draaide? Antwoord op die vraag vind je in [Cinema Context](http://www.cinemacontext.nl), dat duizenden filmvoorstellingen bevat. Maar voorstellingen van na 1950 zijn in die database nog niet opgenomen, terwijl wij juist ook de tijd wilden belichten die bezoekers zelf meegemaakt hadden.
+![tentoonstellingen](imgs/tentoonstellingen.jpg)
 
-Vandaar dat we op [hetvolk.org](https://hetvolk.org) enkele crowdsourceprojecten willen gaan draaien om filmladders uit de jaren '70, '80 en '90 in te voeren.
+_Alle tentoonstellingen op Wikidata, per museum. Het Boijmans scoort goed._
 
 
-## Wikidata
 
-Hier niet opgenomen is de data die we op Wikidata gemaakt hebben. Voor veel uitgaansgelegenheden hebben we daar items aangemaakt en / of aangevuld met relevante informatie (dateringen, verschillende namen, architecten, identifiers in andere datasets, zoals Cinema Context, etc.). Regelmatig hebben we daarbij items aangemaakt voor personen, verdwenen straten of andere zaken waar we die uitgaansgelegenheden graag mee wilden verbinden.
