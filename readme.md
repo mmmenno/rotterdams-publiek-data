@@ -36,11 +36,11 @@ In [afbeeldingen.md](afbeeldingen.md) word je naar bestanden verwezen die al die
 
 Benieuwd naar wat er in zeg mei 1932 in welke Rotterdamse bioscoop draaide? Antwoord op die vraag vind je in [Cinema Context](http://www.cinemacontext.nl), dat duizenden filmvoorstellingen bevat. Voorbeeldqueries, informatie over het datamodel en een link naar de sparql endpoint vind je [hier](https://uvacreate.gitlab.io/cinema-context/cinema-context-rdf/).
 
-Voorstellingen van na 1950 zijn in Cinema Context nog niet opgenomen, vandaar dat we een crowdsource project zijn gestart op [hetvolk.org](https://widgets.hetvolk.org/data-entry/start/678ec0d9-91a6-07cb-a7c9-d91c4fef852e) om filmladders uit de jaren '80 in te voeren. Die data zal na afloop van het project ook hier gepubliceerd worden.
+Voorstellingen van na 1950 zijn in Cinema Context nog niet opgenomen, vandaar dat we een crowdsource project zijn gestart op [hetvolk.org](https://widgets.hetvolk.org/data-entry/start/678ec0d9-91a6-07cb-a7c9-d91c4fef852e) om filmladders uit de jaren '80 in te voeren. Die data zal na afloop van het project ook hier gepubliceerd worden. De links naar alle door ons uit Delpher geknipte filmladders zijn [nu al hier te vinden](data/filmladders-jaren-80.csv).
 
 ### Tentoonstellingen
 
-Museum Boijmans stelde voor ons project zijn nog niet eerder gepubliceerde tentoonstellingsdata beschikbaar. We hebben voor al die tentoonstellingen Wikidata-items aangemaakt en daarvandaan, voor zover mogelijk, links gelegd naar de beschrijving van de tentoonstelling op de Boijmans website. 
+Museum Boijmans stelde voor ons project zijn nog niet eerder gepubliceerde tentoonstellingsdata beschikbaar. We hebben voor al die bijna 1500 tentoonstellingen Wikidata-items aangemaakt en daarvandaan, voor zover mogelijk, links gelegd naar de beschrijving van de tentoonstelling op de Boijmans website. 
 
 Daarnaast hebben we veel verbindingen gelegd naar de onderwerpen van de tentoonstellingen (kunstenaars, meestal).
 
