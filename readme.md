@@ -15,6 +15,10 @@ Het resultaat daarvan is te zien op [rotterdamspubliek.nl/plekken](https://rotte
 
 Om bioscopen, theaters en andere uitgaansgelegenheden, waar soms geen of weinig afbeeldingen van zijn, verder te 'illustreren', hebben we meer dan 250 quotes uit krantenartikelen op [Delpher](https://www.delpher.nl/) verzameld. [Hier vind je](quotes.md) een voorbeeld van zo'n quote in turtle en een query waarmee je de aantallen quotes per locatie opvraagt.
 
+### Cartografie
+
+Dat het Rotterdamse stratenpatroon de afgelopen eeuw nogal ingrijpend is gewijzigd behoeft geen betoog. We hebben [een aantal kaarten gegeorefereerd en als tiles beschikbaar gemaakt](cartografie.md) om beter  te kunnen laten zien waar al die theaters stonden.
+
 
 ### Affiches
 
