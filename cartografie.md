@@ -2,7 +2,7 @@
 
 Dat het Rotterdamse stratenpatroon de afgelopen eeuw nogal ingrijpend is gewijzigd behoeft geen betoog. We hebben een vijftal kaarten gegeorefereerd en als tiles beschikbaar gemaakt, zodat je een beter beeld krijgt van wat waar was.
 
-De kaarten zijn gegeorefereerd door [Bert Spaan](https://bertspaan.nl/), met behulp van het door hem ontwikkelde [Allmaps](https://allmaps.org/).
+De kaarten zijn gegeorefereerd door [Bert Spaan](https://bertspaan.nl/), met behulp van het door hem ontwikkelde [Allmaps](https://allmaps.org/). Je kunt de kaarten bekijken in de eveneens door hem gemaakte [Rotterdams Publiek Kaart](https://rotterdamspubliek.nl/plekken/kaart/).
 
 Wil je de kaarten in je eigen applicatie, of in QGIS of bijvoorbeeld [geojson.io](http://geojson.io/) (meta > add map layer) tonen, gebruik dan de volgende urls:
 
