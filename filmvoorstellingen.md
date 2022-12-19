@@ -53,7 +53,7 @@ Redactie: Thunnis van Oort en Menno den Engelse, programmeerwerk: Menno den Enge
 - _wdid_ - het Wikidata id
 - _imdb_ - het IMDB id
 - _landen_ - de 'landen van oorsprong' volgens Wikidata
-- _vroegste\_jaar - het jaar van de vroegste 'datum van uitgave' van Wikidata
+- _vroegste\_jaar_ - het jaar van de vroegste 'datum van uitgave' van Wikidata
 - _programma_ - bij een programma van meerdere films krijgt elke film een eigen rij en is de unieke combinatie bioscoop, zaal en dit veld bedoeld om te herleiden dat die meerdere films binnen hetzelfde programma vielen (incidenteel toegepast) 
 - _wat is dit_ - binnen het project 'controleren en aanvullen van Wikidata en / of IMDB id's op hetvolk.org' konden deelnemers aangeven of de titel een film of iets anders (een festival o.i.d.) betrof
 
