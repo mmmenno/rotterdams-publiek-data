@@ -41,6 +41,7 @@ Redactie: Thunnis van Oort en Menno den Engelse, programmeerwerk: Menno den Enge
 
 - _ladderid_ - ons id van filmladders, afgeleid uit filmladderuri
 - _ladderuri_ - URI van krantenpagina in Delpher met filmladder
+- _ladderdatum_ - datum waarop de filmladder in de krant stond
 - _showtype_ - leeg indien reguliere voorstelling, verder keuze uit doorlopende voorstelling, festival, kindermatinee, nachtvoorstelling, retrospectief en anders
 - _showtype\_other_ - door gebruiker ingevoerd showtype waar voornoemd veld 'anders' was
 - _theater_ - naam van de bioscoop
