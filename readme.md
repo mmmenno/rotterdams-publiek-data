@@ -38,9 +38,9 @@ In [afbeeldingen.md](afbeeldingen.md) word je naar bestanden verwezen die al die
 
 ### Filmvoorstellingen
 
-Benieuwd naar wat er in zeg mei 1932 in welke Rotterdamse bioscoop draaide? Antwoord op die vraag vind je in [Cinema Context](http://www.cinemacontext.nl), dat duizenden filmvoorstellingen bevat. Voorbeeldqueries, informatie over het datamodel en een link naar de sparql endpoint vind je [hier](https://uvacreate.gitlab.io/cinema-context/cinema-context-rdf/).
+Op [hetvolk.org](https://hetvolk.org/) hebben vrijwilligers in verschillende Rotterdams Publiek projecten Rotterdamse filmladders uit de jaren '80 ingevoerd, de ingevoerde data gecontroleerd en filmtitels verbonden met Wikidata- en imdb-identifiers. Bekijk [hier het resultaat van die projecten](filmvoorstellingen.md).
 
-Voorstellingen van na 1950 zijn in Cinema Context nog niet opgenomen, vandaar dat we een crowdsource project zijn gestart op [hetvolk.org](https://widgets.hetvolk.org/data-entry/start/678ec0d9-91a6-07cb-a7c9-d91c4fef852e) om filmladders uit de jaren '80 in te voeren. Die data zal na afloop van het project ook hier gepubliceerd worden. De links naar alle door ons uit Delpher geknipte filmladders zijn [nu al hier te vinden](data/filmladders-jaren-80.csv).
+Benieuwd naar wat er in zeg mei 1932 in welke Rotterdamse bioscoop draaide? Antwoord op die vraag vind je in [Cinema Context](http://www.cinemacontext.nl), dat duizenden filmvoorstellingen bevat. Voorbeeldqueries, informatie over het datamodel en een link naar de sparql endpoint vind je [hier](https://uvacreate.gitlab.io/cinema-context/cinema-context-rdf/).
 
 ### Tentoonstellingen
 
