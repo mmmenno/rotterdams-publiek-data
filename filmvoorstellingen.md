@@ -6,7 +6,7 @@ De voorstellingsdata wordt opgenomen in [Cinema Context](http://www.cinemacontex
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
-De voorstellingsgegevens vallen onder een <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY licentie</a>. Als maker kunt u vermelden 'Vrijwilligers Rotterdams Publiek'. We vinden het leuk om te horen wat je ermee wilt gaan doen of gedaan hebt.
+De voorstellingsgegevens vallen onder een <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY licentie</a>. Als maker kan je vermelden 'Vrijwilligers Rotterdams Publiek'. We vinden het leuk om te horen wat je ermee wilt gaan doen of gedaan hebt.
 
 
 ## Een paar cijfers
